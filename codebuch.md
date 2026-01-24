@@ -88,7 +88,7 @@ definiert die Rolle der Person als Producer oder Artist.
 2 = Artist
 
 **sex**    
-Bitte geben Sie ihr Geschlecht an:  
+definiert das Geschlecht der Person. 
 1 = weiblich  
 2 = männlich
 3 = divers
@@ -99,4 +99,5 @@ definiert das Geburtsjahr der Person (bei Bands: Lead Sänger*in)
 **NA***    
 definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus..
 ##
+
 
