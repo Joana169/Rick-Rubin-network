@@ -76,6 +76,9 @@ definiert das Jahr der Grammy-Auszeichnung
 **number of grammys per album**
 definiert die Anzahl der Grammys für ein Album (wenn ein Album in mehreren Kategorien gewonnen hat)
 
+**grammy nomination number (album)**
+definiert die Anzahl der Grammy-Nominierungen für ein Album (inklusive der gewonnen Nominierungen)
+
 
 # NODE-Attribute  
   
@@ -87,6 +90,9 @@ Name oder Bezeichnung einer der an der Produktion betieligtne Personen (Producer
 
 **grammy number (album)**
 definiert die Anzahl der gewonnenen Grammys für Alben innerhalb der gesamten Karriere bis zum Zeitpunkt der Datenerhebung. Grammys für Songs etc. werden nicht erhoben.
+
+**number of grammy nominations per album**
+definiert die Anzahl der Grammy-Nominierungen für Alben innerhalb der gesamten Karriere bis zum Zeitpunkt der Datenerhebung. Grammy-Nominierungen für Songs etc. werden nicht erhoben.
 
 **role**    
 definiert die Rolle der Person als Producer oder Artist.
@@ -105,6 +111,7 @@ definiert das Geburtsjahr der Person (bei Bands: Lead Sänger*in)
 **NA***    
 definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus..
 ##
+
 
 
 
