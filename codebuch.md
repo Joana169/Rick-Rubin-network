@@ -58,6 +58,8 @@ definiert die Grammy-Kategorie, in der gewonnen wurde
 2=Best Rock Album; Rock Album
 3=Best Country Album
 4=Best Pop Vocal Album
+5=Best Contemporary Folk Album
+6=Best Historical Album
 
 **second grammy category**
 definiert die weitere Grammy-Kategorie, in der gewonnen wurde
@@ -65,6 +67,8 @@ definiert die weitere Grammy-Kategorie, in der gewonnen wurde
 2=Best Rock Album; Rock Album
 3=Best Country Album
 4=Best Pop Vocal Album
+5=Best Contemporary Folk Album
+6=Best Historical Album
 
 **grammy year**
 definiert das Jahr der Grammy-Auszeichnung
@@ -101,6 +105,7 @@ definiert das Geburtsjahr der Person (bei Bands: Lead Sänger*in)
 **NA***    
 definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus..
 ##
+
 
 
 
