@@ -42,6 +42,8 @@ definiert das primäre Genre des Lieds, beziehungsweise Albums:
 3=Pop
 4=Soul
 5=Contemporary
+6=Alternative
+7=Indie
 
 **secondary genre**  
 definiert das sekundäre Genre des Lieds, beziehungsweise Albums:
@@ -50,6 +52,8 @@ definiert das sekundäre Genre des Lieds, beziehungsweise Albums:
 3=Pop
 4=Soul
 5=Contemporary
+6=Alternative
+7=Indie
 
 **year of publishing**
 definiert das Jahr der Veröffentlichung des Albums
@@ -113,6 +117,7 @@ definiert das Geburtsjahr der Person (bei Bands: Lead Sänger*in)
 **NA***    
 definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus..
 ##
+
 
 
 
