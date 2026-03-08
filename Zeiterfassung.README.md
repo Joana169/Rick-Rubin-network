@@ -1,6 +1,6 @@
 # Zeiterfassung und Datenerhebung
 
-07. Januar Themenfindung (einzeln)
+Bis zum 07. Januar Themenfindung (einzeln)
 14. Januar Team-Treffen (Konkretisierung, Quellensuche, erste Datenerhebung, erste Ideen für potenzielle Hypothesen, Erstellung Team-Trello, GitHub etc.)
 14.-18. Januar: Einlesen in die Literatur (individuell)
 18. Januar: Pretest
@@ -14,7 +14,8 @@
 Erweiterung des Codebuchs. Neue Node-und-Edge-Attribute für die Nominierungen 
 Bis zum 05.März: Eintragung aller Daten in die Node- und Edgelist (Jeder für seine Künstler*innen/Producer); parallel Absprache zu Spezifizierungen (Bsp. Welche Rollen bei Spotify zählen wir als Producer)
 06.März: Datenbereinigung, finale Absprache
-08.März Visualisierung und Abgabe  
+08.März: Visualisierung und Abgabe  
+
 
 
 
