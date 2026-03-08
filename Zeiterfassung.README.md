@@ -12,6 +12,7 @@
   1. Erfassen aller Alben, die als Kanten in Ebene 1 und 2 vorkommen
   2. Einteilung der Alben für die Datenerhebung
   Erweiterung des Codebuchs. Neue Node-und-Edge-Attribute für die Nominierungen 
-- Bis zum 05.März: Eintragung aller Daten in die Node- und Edgelist (Jeder für seine Künstler*innen/Producer); parallel Absprache zu Spezifizierungen (Bsp. Welche Rollen bei Spotify zählen wir als Producer)
-- 06.März: Datenbereinigung, finale Absprache
--08.März Visualisierung und Abgabe  
+Bis zum 05.März: Eintragung aller Daten in die Node- und Edgelist (Jeder für seine Künstler*innen/Producer); parallel Absprache zu Spezifizierungen (Bsp. Welche Rollen bei Spotify zählen wir als Producer)
+06.März: Datenbereinigung, finale Absprache
+08.März Visualisierung und Abgabe  
+
