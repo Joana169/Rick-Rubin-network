@@ -9,10 +9,12 @@
 25. Januar: Erstellung der ersten Visualisierung, Erstellen der Folien für die Zwischenpräsentation und Einteilung; Team-Manifest
 28. Januar: Zwischenpräsentation -> Absprache Erweiterung Nominierungen
 23. Februar: Team-Meeting zur Einarbeitung des Feedbacks und Einteilung des Datenerhebung nach Artists
-  1. Erfassen aller Alben, die als Kanten in Ebene 1 und 2 vorkommen
-  2. Einteilung der Alben für die Datenerhebung
-  Erweiterung des Codebuchs. Neue Node-und-Edge-Attribute für die Nominierungen 
+1. Erfassen aller Alben, die als Kanten in Ebene 1 und 2 vorkommen
+2. Einteilung der Alben für die Datenerhebung
+Erweiterung des Codebuchs. Neue Node-und-Edge-Attribute für die Nominierungen 
 Bis zum 05.März: Eintragung aller Daten in die Node- und Edgelist (Jeder für seine Künstler*innen/Producer); parallel Absprache zu Spezifizierungen (Bsp. Welche Rollen bei Spotify zählen wir als Producer)
 06.März: Datenbereinigung, finale Absprache
 08.März Visualisierung und Abgabe  
+
+
 
