@@ -1,0 +1,4290 @@
+from,to,album title,primary genre,secondary genre,year of publishing,first grammy category,second grammy category,grammy year,number of grammys per album,number of grammy nominations per album
+rr,ad,21,3,,2011,1,,2012,1,1
+pe,ad,21,3,,2011,1,,2012,1,1
+pe,ad,25,3,,2015,1,,2017,1,1
+rt,ad,21,3,,2011,1,,2012,1,1
+rt,ad,25,3,,2015,1,,2017,1,1
+ja,ad,21,3,,2011,1,,2012,1,1
+ftrs,ad,21,3,,2011,1,,2012,1,1
+dw,ad,21,3,,2011,1,,2012,1,1
+gk,ad,25,3,,2015,1,,2017,1,1
+kjs,ad,25,3,,2015,1,,2017,1,1
+mm,ad,25,3,,2015,1,,2017,1,1
+ar,ad,25,3,,2015,1,,2017,1,1
+bb,ad,25,3,,2015,1,,2017,1,1
+sd,ad,25,3,,2015,1,,2017,1,1
+bm,ad,25,3,,2015,1,,2017,1,1
+pl,ad,25,3,,2015,1,,2017,1,1
+pe,rr,21,3,,2011,1,,2012,1,1
+pe,rt,25,3,,2015,1,,2017,1,1
+pe,rt,21,3,,2011,1,,2012,1,1
+pe,ja,21,3,,2011,1,,2012,1,1
+pe,ftrs,21,3,,2011,1,,2012,1,1
+pe,dw,21,3,,2011,1,,2012,1,1
+pe,gk,21,3,,2011,1,,2012,1,1
+pe,kjs,21,3,,2011,1,,2012,1,1
+pe,mm,21,3,,2011,1,,2012,1,1
+pe,ar,21,3,,2011,1,,2012,1,1
+pe,bb,21,3,,2011,1,,2012,1,1
+pe,sd,21,3,,2011,1,,2012,1,1
+pe,bm,21,3,,2011,1,,2012,1,1
+pe,pl,21,3,,2011,1,,2012,1,1
+rt,rr,21,3,,2011,1,,2012,1,1
+rt,ja,21,3,,2011,1,,2012,1,1
+rt,ftrs,21,3,,2011,1,,2012,1,1
+rt,dw,21,3,,2011,1,,2012,1,1
+rt,gk,21,3,,2011,1,,2012,1,1
+rt,kjs,21,3,,2011,1,,2012,1,1
+rt,mm,21,3,,2011,1,,2012,1,1
+rt,ar,21,3,,2011,1,,2012,1,1
+rt,bb,21,3,,2011,1,,2012,1,1
+rt,sd,21,3,,2011,1,,2012,1,1
+rt,bm,21,3,,2011,1,,2012,1,1
+rt,pl,21,3,,2011,1,,2012,1,1
+ja,rr,21,3,,2011,1,,2012,1,1
+ja,ftrs,21,3,,2011,1,,2012,1,1
+ja,dw,21,3,,2011,1,,2012,1,1
+ftrs,rr,21,3,,2011,1,,2012,1,1
+ftrs,dw,21,3,,2011,1,,2012,1,1
+gk,kjs,25,3,,2015,1,,2017,1,1
+gk,mm,25,3,,2015,1,,2017,1,1
+gk,ar,25,3,,2015,1,,2017,1,1
+gk,bb,25,3,,2015,1,,2017,1,1
+gk,sd,25,3,,2015,1,,2017,1,1
+gk,bm,25,3,,2015,1,,2017,1,1
+gk,pl,25,3,,2015,1,,2017,1,1
+kjs,mm,25,3,,2015,1,,2017,1,1
+kjs,ar,25,3,,2015,1,,2017,1,1
+kjs,bb,25,3,,2015,1,,2017,1,1
+kjs,sd,25,3,,2015,1,,2017,1,1
+kjs,bm,25,3,,2015,1,,2017,1,1
+kjs,pl,25,3,,2015,1,,2017,1,1
+mm,ar,25,3,,2015,1,,2017,1,1
+mm,bb,25,3,,2015,1,,2017,1,1
+mm,sd,25,3,,2015,1,,2017,1,1
+mm,bm,25,3,,2015,1,,2017,1,1
+mm,pl,25,3,,2015,1,,2017,1,1
+ar,bb,25,3,,2015,1,,2017,1,1
+ar,sd,25,3,,2015,1,,2017,1,1
+ar,bm,25,3,,2015,1,,2017,1,1
+ar,pl,25,3,,2015,1,,2017,1,1
+bb,sd,25,3,,2015,1,,2017,1,1
+bb,bm,25,3,,2015,1,,2017,1,1
+bb,pl,25,3,,2015,1,,2017,1,1
+sd,bm,25,3,,2015,1,,2017,1,1
+sd,pl,25,3,,2015,1,,2017,1,1
+bm,pl,25,3,,2015,1,,2017,1,1
+lg,ad,30,3,,2021,4,1,2023,0,1
+gk,ad,30,3,,2021,4,1,2023,0,1
+gk,lg,30,3,,2021,4,1,2023,0,1
+sh,lg,30,3,,2021,4,1,2023,0,1
+sh,ad,30,3,,2021,4,1,2023,0,1
+sh,gk,30,3,,2021,4,1,2023,0,1
+jp,lg,30,3,,2021,4,1,2023,0,1
+jp,ad,30,3,,2021,4,1,2023,0,1
+jp,gk,30,3,,2021,4,1,2023,0,1
+jp,sh,30,3,,2021,4,1,2023,0,1
+in,lg,30,3,,2021,4,1,2023,0,1
+in,ad,30,3,,2021,4,1,2023,0,1
+in,gk,30,3,,2021,4,1,2023,0,1
+in,sh,30,3,,2021,4,1,2023,0,1
+in,jp,30,3,,2021,4,1,2023,0,1
+tjj,lg,30,3,,2021,4,1,2023,0,1
+tjj,ad,30,3,,2021,4,1,2023,0,1
+tjj,gk,30,3,,2021,4,1,2023,0,1
+tjj,sh,30,3,,2021,4,1,2023,0,1
+tjj,jp,30,3,,2021,4,1,2023,0,1
+tjj,in,30,3,,2021,4,1,2023,0,1
+se,lg,30,3,,2021,4,1,2023,0,1
+se,ad,30,3,,2021,4,1,2023,0,1
+se,gk,30,3,,2021,4,1,2023,0,1
+se,sh,30,3,,2021,4,1,2023,0,1
+se,jp,30,3,,2021,4,1,2023,0,1
+se,in,30,3,,2021,4,1,2023,0,1
+se,tjj,30,3,,2021,4,1,2023,0,1
+es,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bm,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bm,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+jq,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+jq,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+jq,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+jq,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+la,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+la,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+la,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+la,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+la,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+cim,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+cim,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+cim,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+cim,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+cim,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+cim,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tp,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+kw,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mk,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+tw,mk,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,mk,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+bbd,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,mk,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ma,bbd,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,mk,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,bbd,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+dbs,ma,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,mk,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,bbd,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,ma,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+ap,dbs,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,bm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,stm,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,es,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,jq,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,la,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,cim,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,tp,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,kw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,mk,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+mm,tw,Beauty Behind The Madness,3,5,2015,1,,2016,0,1
+es,tas,Red,6,7,2012,1,,2014,0,1
+nc,es,Red,6,7,2012,1,,2014,0,1
+nc,tas,Red,6,7,2012,1,,2014,0,1
+dh,es,Red,6,7,2012,1,,2014,0,1
+dh,tas,Red,6,7,2012,1,,2014,0,1
+dh,nc,Red,6,7,2012,1,,2014,0,1
+dw,es,Red,6,7,2012,1,,2014,0,1
+dw,tas,Red,6,7,2012,1,,2014,0,1
+dw,nc,Red,6,7,2012,1,,2014,0,1
+dw,dh,Red,6,7,2012,1,,2014,0,1
+sh,es,Red,6,7,2012,1,,2014,0,1
+sh,tas,Red,6,7,2012,1,,2014,0,1
+sh,nc,Red,6,7,2012,1,,2014,0,1
+sh,dh,Red,6,7,2012,1,,2014,0,1
+sh,dw,Red,6,7,2012,1,,2014,0,1
+mm,es,Red,6,7,2012,1,,2014,0,1
+mm,tas,Red,6,7,2012,1,,2014,0,1
+mm,nc,Red,6,7,2012,1,,2014,0,1
+mm,dh,Red,6,7,2012,1,,2014,0,1
+mm,dw,Red,6,7,2012,1,,2014,0,1
+mm,sh,Red,6,7,2012,1,,2014,0,1
+jl,es,Red,6,7,2012,1,,2014,0,1
+jl,tas,Red,6,7,2012,1,,2014,0,1
+jl,nc,Red,6,7,2012,1,,2014,0,1
+jl,dh,Red,6,7,2012,1,,2014,0,1
+jl,dw,Red,6,7,2012,1,,2014,0,1
+jl,sh,Red,6,7,2012,1,,2014,0,1
+jl,mm,Red,6,7,2012,1,,2014,0,1
+jeb,es,Red,6,7,2012,1,,2014,0,1
+jeb,tas,Red,6,7,2012,1,,2014,0,1
+jeb,nc,Red,6,7,2012,1,,2014,0,1
+jeb,dh,Red,6,7,2012,1,,2014,0,1
+jeb,dw,Red,6,7,2012,1,,2014,0,1
+jeb,sh,Red,6,7,2012,1,,2014,0,1
+jeb,mm,Red,6,7,2012,1,,2014,0,1
+jeb,jl,Red,6,7,2012,1,,2014,0,1
+bw,es,Red,6,7,2012,1,,2014,0,1
+bw,tas,Red,6,7,2012,1,,2014,0,1
+bw,nc,Red,6,7,2012,1,,2014,0,1
+bw,dh,Red,6,7,2012,1,,2014,0,1
+bw,dw,Red,6,7,2012,1,,2014,0,1
+bw,sh,Red,6,7,2012,1,,2014,0,1
+bw,mm,Red,6,7,2012,1,,2014,0,1
+bw,jeb,Red,6,7,2012,1,,2014,0,1
+bw,jl,Red,6,7,2012,1,,2014,0,1
+bw,jeb,Red,6,7,2012,1,,2014,0,1
+bbo,drl,PRISM,3,,2013,4,,2015,0,1
+bbo,kp,PRISM,3,,2013,4,,2015,0,1
+bbo,c,PRISM,3,,2013,4,,2015,0,1
+bbo,mm,PRISM,3,,2013,4,,2015,0,1
+bbo,ka,PRISM,3,,2013,4,,2015,0,1
+bbo,cbk,PRISM,3,,2013,4,,2015,0,1
+bbo,s,PRISM,3,,2013,4,,2015,0,1
+s,drl,PRISM,3,,2013,4,,2015,0,1
+s,kp,PRISM,3,,2013,4,,2015,0,1
+s,c,PRISM,3,,2013,4,,2015,0,1
+s,mm,PRISM,3,,2013,4,,2015,0,1
+s,ka,PRISM,3,,2013,4,,2015,0,1
+s,cbk,PRISM,3,,2013,4,,2015,0,1
+gk,drl,PRISM,3,,2013,4,,2015,0,1
+gk,kp,PRISM,3,,2013,4,,2015,0,1
+gk,c,PRISM,3,,2013,4,,2015,0,1
+gk,mm,PRISM,3,,2013,4,,2015,0,1
+gk,ka,PRISM,3,,2013,4,,2015,0,1
+gk,cbk,PRISM,3,,2013,4,,2015,0,1
+gw,drl,PRISM,3,,2013,4,,2015,0,1
+gw,kp,PRISM,3,,2013,4,,2015,0,1
+gw,c,PRISM,3,,2013,4,,2015,0,1
+gw,mm,PRISM,3,,2013,4,,2015,0,1
+gw,ka,PRISM,3,,2013,4,,2015,0,1
+gw,cbk,PRISM,3,,2013,4,,2015,0,1
+drl,kp,PRISM,3,,2013,4,,2015,0,1
+drl,c,PRISM,3,,2013,4,,2015,0,1
+drl,mm,PRISM,3,,2013,4,,2015,0,1
+drl,ka,PRISM,3,,2013,4,,2015,0,1
+drl,cbk,PRISM,3,,2013,4,,2015,0,1
+c,kp,PRISM,3,,2013,4,,2015,0,1
+c,mm,PRISM,3,,2013,4,,2015,0,1
+c,ka,PRISM,3,,2013,4,,2015,0,1
+c,cbk,PRISM,3,,2013,4,,2015,0,1
+mm,kp,PRISM,3,,2013,4,,2015,0,1
+mm,ka,PRISM,3,,2013,4,,2015,0,1
+mm,cbk,PRISM,3,,2013,4,,2015,0,1
+kp,ka,PRISM,3,,2013,4,,2015,0,1
+kp,cbk,PRISM,3,,2013,4,,2015,0,1
+ka,cbk,PRISM,3,,2013,4,,2015,0,1
+s,gk,PRISM,3,,2013,4,,2015,0,1
+s,gw,PRISM,3,,2013,4,,2015,0,1
+bbo,gk,PRISM,3,,2013,4,,2015,0,1
+bbo,gw,PRISM,3,,2013,4,,2015,0,1
+gk,gw,PRISM,3,,2013,4,,2015,0,1
+drl,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+drl,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+bbo,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+sv,s,Teenage Dream,3,,2010,4,1,2011,0,1
+sv,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+sv,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+sv,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+s,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+s,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+s,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+ctrs,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+ctrs,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+ctrs,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+ctrs,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+ctrs,s,Teenage Dream,3,,2010,4,1,2011,0,1
+gw,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+gw,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+gw,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+gw,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+gw,s,Teenage Dream,3,,2010,4,1,2011,0,1
+gw,ctrs,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,s,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,ctrs,Teenage Dream,3,,2010,4,1,2011,0,1
+kh,gw,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,s,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,ctrs,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,gw,Teenage Dream,3,,2010,4,1,2011,0,1
+ms,kh,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,s,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,ctrs,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,gw,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,kh,Teenage Dream,3,,2010,4,1,2011,0,1
+oh,ms,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,bbo,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,s,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,ctrs,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,gw,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,kh,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,ms,Teenage Dream,3,,2010,4,1,2011,0,1
+kp,oh,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,sv,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,bbo,Teenage Dream,3,,2010,,,,,1
+sdg,mm,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,drl,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,s,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,ctrs,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,gw,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,kh,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,ms,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,oh,Teenage Dream,3,,2010,4,1,2011,0,1
+sdg,kp,Teenage Dream,3,,2010,4,1,2011,0,1
+arg,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+arg,sy,eternal sunshine,3,,2024,4,,2025,0,1
+arg,nl,eternal sunshine,3,,2024,4,,2025,0,1
+arg,aps,eternal sunshine,3,,2024,4,,2025,0,1
+sdg,sy,eternal sunshine,3,,2024,4,,2025,0,1
+sdg,nl,eternal sunshine,3,,2024,4,,2025,0,1
+sdg,aps,eternal sunshine,3,,2024,4,,2025,0,1
+sy,nl,eternal sunshine,3,,2024,4,,2025,0,1
+sy,aps,eternal sunshine,3,,2024,4,,2025,0,1
+nl,aps,eternal sunshine,3,,2024,4,,2025,0,1
+il,mm,eternal sunshine,3,,2024,4,,2025,0,1
+il,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+il,sy,eternal sunshine,3,,2024,4,,2025,0,1
+il,nl,eternal sunshine,3,,2024,4,,2025,0,1
+il,aps,eternal sunshine,3,,2024,4,,2025,0,1
+il,arg,eternal sunshine,3,,2024,4,,2025,0,1
+mm,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+mm,sy,eternal sunshine,3,,2024,4,,2025,0,1
+mm,nl,eternal sunshine,3,,2024,4,,2025,0,1
+mm,arg,eternal sunshine,3,,2024,4,,2025,0,1
+mm,aps,eternal sunshine,3,,2024,4,,2025,0,1
+wl,mm,eternal sunshine,3,,2024,4,,2025,0,1
+wl,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+wl,sy,eternal sunshine,3,,2024,4,,2025,0,1
+wl,nl,eternal sunshine,3,,2024,4,,2025,0,1
+wl,aps,eternal sunshine,3,,2024,4,,2025,0,1
+wl,il,eternal sunshine,3,,2024,4,,2025,0,1
+wl,arg,eternal sunshine,3,,2024,4,,2025,0,1
+dd,mm,eternal sunshine,3,,2024,4,,2025,0,1
+dd,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+dd,sy,eternal sunshine,3,,2024,4,,2025,0,1
+dd,nl,eternal sunshine,3,,2024,4,,2025,0,1
+dd,aps,eternal sunshine,3,,2024,4,,2025,0,1
+dd,il,eternal sunshine,3,,2024,4,,2025,0,1
+dd,arg,eternal sunshine,3,,2024,4,,2025,0,1
+dd,wl,eternal sunshine,3,,2024,4,,2025,0,1
+og,mm,eternal sunshine,3,,2024,4,,2025,0,1
+og,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+og,sy,eternal sunshine,3,,2024,4,,2025,0,1
+og,nl,eternal sunshine,3,,2024,4,,2025,0,1
+og,aps,eternal sunshine,3,,2024,4,,2025,0,1
+og,il,eternal sunshine,3,,2024,4,,2025,0,1
+og,arg,eternal sunshine,3,,2024,4,,2025,0,1
+og,wl,eternal sunshine,3,,2024,4,,2025,0,1
+og,dd,eternal sunshine,3,,2024,4,,2025,0,1
+lk,mm,eternal sunshine,3,,2024,4,,2025,0,1
+lk,sdg,eternal sunshine,3,,2024,4,,2025,0,1
+lk,sy,eternal sunshine,3,,2024,4,,2025,0,1
+lk,nl,eternal sunshine,3,,2024,4,,2025,0,1
+lk,aps,eternal sunshine,3,,2024,4,,2025,0,1
+lk,il,eternal sunshine,3,,2024,4,,2025,0,1
+lk,arg,eternal sunshine,3,,2024,4,,2025,0,1
+lk,wl,eternal sunshine,3,,2024,4,,2025,0,1
+lk,dd,eternal sunshine,3,,2024,4,,2025,0,1
+lk,og,eternal sunshine,3,,2024,4,,2025,0,1
+arg,tb,Positions,3,,2020,4,,2022,0,1
+arg,plj,Positions,3,,2020,4,,2022,0,1
+tb,plj,Positions,3,,2020,4,,2022,0,1
+xv,tb,Positions,3,,2020,4,,2022,0,1
+xv,plj,Positions,3,,2020,4,,2022,0,1
+xv,arg,Positions,3,,2020,4,,2022,0,1
+mrf,tb,Positions,3,,2020,4,,2022,0,1
+mrf,plj,Positions,3,,2020,4,,2022,0,1
+mrf,arg,Positions,3,,2020,4,,2022,0,1
+mrf,xv,Positions,3,,2020,4,,2022,0,1
+mb,tb,Positions,3,,2020,4,,2022,0,1
+mb,plj,Positions,3,,2020,4,,2022,0,1
+mb,arg,Positions,3,,2020,4,,2022,0,1
+mb,xv,Positions,3,,2020,4,,2022,0,1
+mb,mrf,Positions,3,,2020,4,,2022,0,1
+jle,tb,Positions,3,,2020,4,,2022,0,1
+jle,plj,Positions,3,,2020,4,,2022,0,1
+jle,arg,Positions,3,,2020,4,,2022,0,1
+jle,xv,Positions,3,,2020,4,,2022,0,1
+jle,mrf,Positions,3,,2020,4,,2022,0,1
+jle,mb,Positions,3,,2020,4,,2022,0,1
+st,tb,Positions,3,,2020,4,,2022,0,1
+st,plj,Positions,3,,2020,4,,2022,0,1
+st,arg,Positions,3,,2020,4,,2022,0,1
+st,xv,Positions,3,,2020,4,,2022,0,1
+st,mrf,Positions,3,,2020,4,,2022,0,1
+st,mb,Positions,3,,2020,,,2022,0,1
+st,jle,Positions,3,,2020,4,,2022,0,1
+sy,tb,Positions,3,,2020,4,,2022,0,1
+sy,plj,Positions,3,,2020,4,,2022,0,1
+sy,arg,Positions,3,,2020,4,,2022,0,1
+sy,xv,Positions,3,,2020,4,,2022,0,1
+sy,mrf,Positions,3,,2020,4,,2022,0,1
+sy,mb,Positions,3,,2020,4,,2022,0,1
+sy,jle,Positions,3,,2020,4,,2022,0,1
+sy,st,Positions,3,,2020,4,,2022,0,1
+trs,tb,Positions,3,,2020,4,,2022,0,1
+trs,plj,Positions,3,,2020,4,,2022,0,1
+trs,arg,Positions,3,,2020,4,,2022,0,1
+trs,xv,Positions,3,,2020,4,,2022,0,1
+trs,mrf,Positions,3,,2020,4,,2022,0,1
+trs,mb,Positions,3,,2020,4,,2022,0,1
+trs,jle,Positions,3,,2020,4,,2022,0,1
+trs,st,Positions,3,,2020,4,,2022,0,1
+trs,sy,Positions,3,,2020,4,,2022,0,1
+nam,tb,Positions,3,,2020,4,,2022,0,1
+nam,plj,Positions,3,,2020,4,,2022,0,1
+nam,arg,Positions,3,,2020,4,,2022,0,1
+nam,xv,Positions,3,,2020,4,,2022,0,1
+nam,mrf,Positions,3,,2020,4,,2022,0,1
+nam,mb,Positions,3,,2020,4,,2022,0,1
+nam,jle,Positions,3,,2020,4,,2022,0,1
+nam,st,Positions,3,,2020,4,,2022,0,1
+nam,sy,Positions,3,,2020,4,,2022,0,1
+nam,trs,Positions,3,,2020,4,,2022,0,1
+tr,tb,Positions,3,,2020,4,,2022,0,1
+tr,plj,Positions,3,,2020,4,,2022,0,1
+tr,arg,Positions,3,,2020,4,,2022,0,1
+tr,xv,Positions,3,,2020,4,,2022,0,1
+tr,mrf,Positions,3,,2020,4,,2022,0,1
+tr,mb,Positions,3,,2020,4,,2022,0,1
+tr,jle,Positions,3,,2020,4,,2022,0,1
+tr,st,Positions,3,,2020,4,,2022,0,1
+tr,sy,Positions,3,,2020,4,,2022,0,1
+tr,trs,Positions,3,,2020,4,,2022,0,1
+tr,nam,Positions,3,,2020,4,,2022,0,1
+kod,tb,Positions,3,,2020,4,,2022,0,1
+kod,plj,Positions,3,,2020,4,,2022,0,1
+kod,arg,Positions,3,,2020,4,,2022,0,1
+kod,xv,Positions,3,,2020,4,,2022,0,1
+kod,mrf,Positions,3,,2020,4,,2022,0,1
+kod,mb,Positions,3,,2020,4,,2022,0,1
+kod,jle,Positions,3,,2020,4,,2022,0,1
+kod,st,Positions,3,,2020,4,,2022,0,1
+kod,sy,Positions,3,,2020,4,,2022,0,1
+kod,trs,Positions,3,,2020,4,,2022,0,1
+kod,nam,Positions,3,,2020,4,,2022,0,1
+kod,tr,Positions,3,,2020,4,,2022,0,1
+ss,tb,Positions,3,,2020,4,,2022,0,1
+ss,plj,Positions,3,,2020,4,,2022,0,1
+ss,arg,Positions,3,,2020,4,,2022,0,1
+ss,xv,Positions,3,,2020,4,,2022,0,1
+ss,mrf,Positions,3,,2020,4,,2022,0,1
+ss,mb,Positions,3,,2020,4,,2022,0,1
+ss,jle,Positions,3,,2020,4,,2022,0,1
+ss,st,Positions,3,,2020,4,,2022,0,1
+ss,sy,Positions,3,,2020,4,,2022,0,1
+ss,trs,Positions,3,,2020,4,,2022,0,1
+ss,nam,Positions,3,,2020,4,,2022,0,1
+ss,tr,Positions,3,,2020,4,,2022,0,1
+ss,kod,Positions,3,,2020,4,,2022,0,1
+amj,tb,Positions,3,,2020,4,,2022,0,1
+amj,plj,Positions,3,,2020,4,,2022,0,1
+amj,arg,Positions,3,,2020,4,,2022,0,1
+amj,xv,Positions,3,,2020,4,,2022,0,1
+amj,mrf,Positions,3,,2020,4,,2022,0,1
+amj,mb,Positions,3,,2020,4,,2022,0,1
+amj,jle,Positions,3,,2020,4,,2022,0,1
+amj,st,Positions,3,,2020,4,,2022,0,1
+amj,sy,Positions,3,,2020,4,,2022,0,1
+amj,trs,Positions,3,,2020,4,,2022,0,1
+amj,nam,Positions,3,,2020,4,,2022,0,1
+amj,tr,Positions,3,,2020,4,,2022,0,1
+amj,kod,Positions,3,,2020,4,,2022,0,1
+amj,ss,Positions,3,,2020,4,,2022,0,1
+ca,tb,Positions,3,,2020,4,,2022,0,1
+ca,plj,Positions,3,,2020,4,,2022,0,1
+ca,arg,Positions,3,,2020,4,,2022,0,1
+ca,xv,Positions,3,,2020,4,,2022,0,1
+ca,mrf,Positions,3,,2020,4,,2022,0,1
+ca,mb,Positions,3,,2020,4,,2022,0,1
+ca,jle,Positions,3,,2020,4,,2022,0,1
+ca,st,Positions,3,,2020,4,,2022,0,1
+ca,sy,Positions,3,,2020,4,,2022,0,1
+ca,trs,Positions,3,,2020,4,,2022,0,1
+ca,nam,Positions,3,,2020,4,,2022,0,1
+ca,tr,Positions,3,,2020,4,,2022,0,1
+ca,kod,Positions,3,,2020,,,2022,0,1
+ca,ss,Positions,3,,2020,4,,2022,0,1
+ca,amj,Positions,3,,2020,4,,2022,0,1
+aj,tb,Positions,3,,2020,4,,2022,0,1
+aj,plj,Positions,3,,2020,4,,2022,0,1
+aj,arg,Positions,3,,2020,4,,2022,0,1
+aj,xv,Positions,3,,2020,4,,2022,0,1
+aj,mrf,Positions,3,,2020,4,,2022,0,1
+aj,mb,Positions,3,,2020,4,,2022,0,1
+aj,jle,Positions,3,,2020,4,,2022,0,1
+aj,st,Positions,3,,2020,4,,2022,0,1
+aj,sy,Positions,3,,2020,4,,2022,0,1
+aj,trs,Positions,3,,2020,4,,2022,0,1
+aj,nam,Positions,3,,2020,4,,2022,0,1
+aj,tr,Positions,3,,2020,4,,2022,0,1
+aj,kod,Positions,3,,2020,4,,2022,0,1
+aj,ss,Positions,3,,2020,4,,2022,0,1
+aj,amj,Positions,3,,2020,4,,2022,0,1
+aj,ca,Positions,3,,2020,4,,2022,0,1
+tpa,tb,Positions,3,,2020,4,,2022,0,1
+tpa,plj,Positions,3,,2020,4,,2022,0,1
+tpa,arg,Positions,3,,2020,4,,2022,0,1
+tpa,xv,Positions,3,,2020,4,,2022,0,1
+tpa,mrf,Positions,3,,2020,4,,2022,0,1
+tpa,mb,Positions,3,,2020,4,,2022,0,1
+tpa,jle,Positions,3,,2020,4,,2022,0,1
+tpa,st,Positions,3,,2020,4,,2022,0,1
+tpa,sy,Positions,3,,2020,4,,2022,0,1
+tpa,trs,Positions,3,,2020,4,,2022,0,1
+tpa,nam,Positions,3,,2020,4,,2022,0,1
+tpa,tr,Positions,3,,2020,4,,2022,0,1
+tpa,kod,Positions,3,,2020,4,,2022,0,1
+tpa,ss,Positions,3,,2020,4,,2022,0,1
+tpa,amj,Positions,3,,2020,4,,2022,0,1
+tpa,ca,Positions,3,,2020,4,,2022,0,1
+tpa,aj,Positions,3,,2020,4,,2022,0,1
+lodt,tb,Positions,3,,2020,4,,2022,0,1
+lodt,plj,Positions,3,,2020,4,,2022,0,1
+lodt,arg,Positions,3,,2020,4,,2022,0,1
+lodt,xv,Positions,3,,2020,4,,2022,0,1
+lodt,mrf,Positions,3,,2020,4,,2022,0,1
+lodt,mb,Positions,3,,2020,4,,2022,0,1
+lodt,jle,Positions,3,,2020,4,,2022,0,1
+lodt,st,Positions,3,,2020,4,,2022,0,1
+lodt,sy,Positions,3,,2020,4,,2022,0,1
+lodt,trs,Positions,3,,2020,4,,2022,0,1
+lodt,nam,Positions,3,,2020,4,,2022,0,1
+lodt,tr,Positions,3,,2020,4,,2022,0,1
+lodt,kod,Positions,3,,2020,4,,2022,0,1
+lodt,ss,Positions,3,,2020,4,,2022,0,1
+lodt,amj,Positions,3,,2020,4,,2022,0,1
+lodt,ca,Positions,3,,2020,4,,2022,0,1
+lodt,aj,Positions,3,,2020,4,,2022,0,1
+lodt,tpa,Positions,3,,2020,4,,2022,0,1
+jcy,tb,Positions,3,,2020,4,,2022,0,1
+jcy,plj,Positions,3,,2020,4,,2022,0,1
+jcy,arg,Positions,3,,2020,4,,2022,0,1
+jcy,xv,Positions,3,,2020,4,,2022,0,1
+jcy,mrf,Positions,3,,2020,4,,2022,0,1
+jcy,mb,Positions,3,,2020,4,,2022,0,1
+jcy,jle,Positions,3,,2020,4,,2022,0,1
+jcy,st,Positions,3,,2020,4,,2022,0,1
+jcy,sy,Positions,3,,2020,4,,2022,0,1
+jcy,trs,Positions,3,,2020,4,,2022,0,1
+jcy,nam,Positions,3,,2020,4,,2022,0,1
+jcy,tr,Positions,3,,2020,4,,2022,0,1
+jcy,kod,Positions,3,,2020,4,,2022,0,1
+jcy,ss,Positions,3,,2020,4,,2022,0,1
+jcy,amj,Positions,3,,2020,4,,2022,0,1
+jcy,ca,Positions,3,,2020,4,,2022,0,1
+jcy,aj,Positions,3,,2020,4,,2022,0,1
+jcy,tpa,Positions,3,,2020,4,,2022,0,1
+jcy,lodt,Positions,3,,2020,4,,2022,0,1
+ojf,tb,Positions,3,,2020,4,,2022,0,1
+ojf,plj,Positions,3,,2020,4,,2022,0,1
+ojf,arg,Positions,3,,2020,4,,2022,0,1
+ojf,xv,Positions,3,,2020,4,,2022,0,1
+ojf,mrf,Positions,3,,2020,4,,2022,0,1
+ojf,mb,Positions,3,,2020,4,,2022,0,1
+ojf,jle,Positions,3,,2020,4,,2022,0,1
+ojf,st,Positions,3,,2020,4,,2022,0,1
+ojf,sy,Positions,3,,2020,4,,2022,0,1
+ojf,trs,Positions,3,,2020,4,,2022,0,1
+ojf,nam,Positions,3,,2020,4,,2022,0,1
+ojf,tr,Positions,3,,2020,4,,2022,0,1
+ojf,kod,Positions,3,,2020,4,,2022,0,1
+ojf,ss,Positions,3,,2020,4,,2022,0,1
+ojf,amj,Positions,3,,2020,4,,2022,0,1
+ojf,ca,Positions,3,,2020,4,,2022,0,1
+ojf,aj,Positions,3,,2020,4,,2022,0,1
+ojf,tpa,Positions,3,,2020,4,,2022,0,1
+ojf,lodt,Positions,3,,2020,4,,2022,0,1
+ojf,jcy,Positions,3,,2020,4,,2022,0,1
+typ,tb,Positions,3,,2020,4,,2022,0,1
+typ,plj,Positions,3,,2020,4,,2022,0,1
+typ,arg,Positions,3,,2020,4,,2022,0,1
+typ,xv,Positions,3,,2020,4,,2022,0,1
+typ,mrf,Positions,3,,2020,4,,2022,0,1
+typ,mb,Positions,3,,2020,4,,2022,0,1
+typ,jle,Positions,3,,2020,4,,2022,0,1
+typ,st,Positions,3,,2020,4,,2022,0,1
+typ,sy,Positions,3,,2020,4,,2022,0,1
+typ,trs,Positions,3,,2020,4,,2022,0,1
+typ,nam,Positions,3,,2020,4,,2022,0,1
+typ,tr,Positions,3,,2020,4,,2022,0,1
+typ,kod,Positions,3,,2020,4,,2022,0,1
+typ,ss,Positions,3,,2020,4,,2022,0,1
+typ,amj,Positions,3,,2020,4,,2022,0,1
+typ,ca,Positions,3,,2020,4,,2022,0,1
+typ,aj,Positions,3,,2020,4,,2022,0,1
+typ,tpa,Positions,3,,2020,4,,2022,0,1
+typ,lodt,Positions,3,,2020,4,,2022,0,1
+typ,jcy,Positions,3,,2020,4,,2022,0,1
+typ,ojf,Positions,3,,2020,4,,2022,0,1
+kib,tb,Positions,3,,2020,4,,2022,0,1
+kib,plj,Positions,3,,2020,4,,2022,0,1
+kib,arg,Positions,3,,2020,4,,2022,0,1
+kib,xv,Positions,3,,2020,4,,2022,0,1
+kib,mrf,Positions,3,,2020,4,,2022,0,1
+kib,mb,Positions,3,,2020,4,,2022,0,1
+kib,jle,Positions,3,,2020,4,,2022,0,1
+kib,st,Positions,3,,2020,4,,2022,0,1
+kib,sy,Positions,3,,2020,4,,2022,0,1
+kib,trs,Positions,3,,2020,4,,2022,0,1
+kib,nam,Positions,3,,2020,4,,2022,0,1
+kib,tr,Positions,3,,2020,4,,2022,0,1
+kib,kod,Positions,3,,2020,4,,2022,0,1
+kib,ss,Positions,3,,2020,4,,2022,0,1
+kib,amj,Positions,3,,2020,4,,2022,0,1
+kib,ca,Positions,3,,2020,4,,2022,0,1
+kib,aj,Positions,3,,2020,4,,2022,0,1
+kib,tpa,Positions,3,,2020,4,,2022,0,1
+kib,lodt,Positions,3,,2020,4,,2022,0,1
+kib,jcy,Positions,3,,2020,4,,2022,0,1
+kib,ojf,Positions,3,,2020,4,,2022,0,1
+kib,typ,Positions,3,,2020,4,,2022,0,1
+dj,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dj,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dj,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dj,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ayj,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ayj,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ayj,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cc,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cc,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+yb,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+kmc,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+kmc,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+kmc,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+kmc,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+kmc,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+as,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+as,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+as,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+as,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+as,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+as,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+y2k,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sul,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+dal,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+digi,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+krh,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+jq,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+abw,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mw,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tiz,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mh,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+roc,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+mhe,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+trn,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+cl,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+sza,cl,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,cl,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+tw,sza,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,cl,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+fal,sza,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,cl,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,sza,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+klt,fal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,cl,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,sza,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,fal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ref,klt,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,ayj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,lj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,yb,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,cc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,dj,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,kmc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,as,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,y2k,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,sul,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,dal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,digi,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,krh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,jq,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,tw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,abw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,mw,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,tiz,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,mh,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,roc,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,mhe,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,trn,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,cl,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,sza,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,fal,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,klt,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+ev,ref,Planet Her (Deluxe),3,"5,6",2021,1,4,2022,0,2
+arg,po,"thank, u next",3,,2019,4,1,2020,0,2
+arg,hp,"thank, u next",3,,2019,4,1,2020,0,2
+po,hp,"thank, u next",3,,2019,4,1,2020,0,2
+tb,po,"thank, u next",3,,2019,4,1,2020,0,2
+tb,hp,"thank, u next",3,,2019,4,1,2020,0,2
+tb,arg,"thank, u next",3,,2019,4,1,2020,0,2
+typ,po,"thank, u next",3,,2019,4,1,2020,0,2
+typ,hp,"thank, u next",3,,2019,4,1,2020,0,2
+typ,arg,"thank, u next",3,,2019,4,1,2020,0,2
+typ,tb,"thank, u next",3,,2019,4,1,2020,0,2
+vm,po,"thank, u next",3,,2019,4,1,2020,0,2
+vm,hp,"thank, u next",3,,2019,4,1,2020,0,2
+vm,arg,"thank, u next",3,,2019,4,1,2020,0,2
+vm,tb,"thank, u next",3,,2019,4,1,2020,0,2
+vm,typ,"thank, u next",3,,2019,4,1,2020,0,2
+ca,po,"thank, u next",3,,2019,4,1,2020,0,2
+ca,hp,"thank, u next",3,,2019,4,1,2020,0,2
+ca,arg,"thank, u next",3,,2019,4,1,2020,0,2
+ca,tb,"thank, u next",3,,2019,4,1,2020,0,2
+ca,typ,"thank, u next",3,,2019,4,1,2020,0,2
+ca,vm,"thank, u next",3,,2019,4,1,2020,0,2
+mm,po,"thank, u next",3,,2019,4,1,2020,0,2
+mm,hp,"thank, u next",3,,2019,4,1,2020,0,2
+mm,arg,"thank, u next",3,,2019,4,1,2020,0,2
+mm,tb,"thank, u next",3,,2019,4,1,2020,0,2
+mm,typ,"thank, u next",3,,2019,4,1,2020,0,2
+mm,vm,"thank, u next",3,,2019,4,1,2020,0,2
+mm,ca,"thank, u next",3,,2019,4,1,2020,0,2
+il,po,"thank, u next",3,,2019,4,1,2020,0,2
+il,hp,"thank, u next",3,,2019,4,1,2020,0,2
+il,arg,"thank, u next",3,,2019,4,1,2020,0,2
+il,tb,"thank, u next",3,,2019,4,1,2020,0,2
+il,typ,"thank, u next",3,,2019,4,1,2020,0,2
+il,vm,"thank, u next",3,,2019,4,1,2020,0,2
+il,ca,"thank, u next",3,,2019,4,1,2020,0,2
+il,mm,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,po,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,hp,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,arg,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,tb,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,typ,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,vm,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,ca,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,mm,"thank, u next",3,,2019,4,1,2020,0,2
+bmb,il,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,po,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,hp,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,arg,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,tb,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,typ,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,vm,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,ca,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,mm,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,il,"thank, u next",3,,2019,4,1,2020,0,2
+bcny,bmb,"thank, u next",3,,2019,4,1,2020,0,2
+das,po,"thank, u next",3,,2019,4,1,2020,0,2
+das,hp,"thank, u next",3,,2019,4,1,2020,0,2
+das,arg,"thank, u next",3,,2019,4,1,2020,0,2
+das,tb,"thank, u next",3,,2019,4,1,2020,0,2
+das,typ,"thank, u next",3,,2019,4,1,2020,0,2
+das,vm,"thank, u next",3,,2019,4,1,2020,0,2
+das,ca,"thank, u next",3,,2019,4,1,2020,0,2
+das,mm,"thank, u next",3,,2019,4,1,2020,0,2
+das,il,"thank, u next",3,,2019,4,1,2020,0,2
+das,bmb,"thank, u next",3,,2019,4,1,2020,0,2
+das,bcny,"thank, u next",3,,2019,4,1,2020,0,2
+mf,po,"thank, u next",3,,2019,4,1,2020,0,2
+mf,hp,"thank, u next",3,,2019,4,1,2020,0,2
+mf,arg,"thank, u next",3,,2019,4,1,2020,0,2
+mf,tb,"thank, u next",3,,2019,4,1,2020,0,2
+mf,typ,"thank, u next",3,,2019,4,1,2020,0,2
+mf,vm,"thank, u next",3,,2019,4,1,2020,0,2
+mf,ca,"thank, u next",3,,2019,4,1,2020,0,2
+mf,mm,"thank, u next",3,,2019,4,1,2020,0,2
+mf,il,"thank, u next",3,,2019,4,1,2020,0,2
+mf,bmb,"thank, u next",3,,2019,4,1,2020,0,2
+mf,bcny,"thank, u next",3,,2019,4,1,2020,0,2
+mf,das,"thank, u next",3,,2019,4,1,2020,0,2
+arg,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+joa,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+joa,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+joa,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+mm,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+mm,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+mm,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+tan,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+tan,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+tan,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+tan,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+il,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+il,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+il,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+il,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+il,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+mrf,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+mrf,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+mrf,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+mrf,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+mrf,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+mrf,il,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,il,Dangerous Woman,3,,2016,4,,2017,0,1
+tpa,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,il,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+trs,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,il,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+rt,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,il,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+mf,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,il,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+ap,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,il,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+vm,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,il,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+ps,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,il,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+bld,ps,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,il,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,ps,Dangerous Woman,3,,2016,4,,2017,0,1
+ryv,bld,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,il,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,ps,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,bld,Dangerous Woman,3,,2016,4,,2017,0,1
+lhu,ryv,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,il,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,ps,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,bld,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,ryv,Dangerous Woman,3,,2016,4,,2017,0,1
+nau,lhu,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,il,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,ps,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,bld,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,ryv,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,lhu,Dangerous Woman,3,,2016,4,,2017,0,1
+jrb,nau,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,tb,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,arg,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,joa,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,mm,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,tan,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,il,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,mrf,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,tpa,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,trs,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,mf,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,vm,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,ps,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,bld,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,ryv,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,lhu,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,nau,Dangerous Woman,3,,2016,4,,2017,0,1
+jlr,jrb,Dangerous Woman,3,,2016,4,,2017,0,1
+tb,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+tb,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+trs,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+trs,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sh,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sh,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sh,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+mm,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+mm,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+mm,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+mm,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+il,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+il,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+il,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+il,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+il,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ry,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ry,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ry,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ry,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ry,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ry,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cfk,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+gtf,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+skh,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rt,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+nz,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+zd,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+sau,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+kew,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+lid,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+cac,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+bbo,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+po,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+oak,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ap,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+ps,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pc,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+joa,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rjk,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+pdw,rjk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,rjk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+vm,pdw,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,rjk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,pdw,My Everything (Deluxe),3,,2014,4,,2015,0,1
+rg,vm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,rjk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,pdw,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,vm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+daj,rg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,rjk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,pdw,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,vm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,rg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+has,daj,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,trs,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,tb,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,arg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,sh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,mm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,il,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,ry,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,cfk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,gtf,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,skh,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,rt,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,nz,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,zd,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,sau,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,kew,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,lid,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,cac,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,bbo,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,po,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,oak,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,ap,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,ps,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,pc,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,joa,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,rjk,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,pdw,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,vm,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,rg,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,daj,My Everything (Deluxe),3,,2014,4,,2015,0,1
+jbq,has,My Everything (Deluxe),3,,2014,4,,2015,0,1
+il,arg,Sweetener,3,,2018,4,,2019,1,1
+il,mm,Sweetener,3,,2018,4,,2019,1,1
+mm,arg,Sweetener,3,,2018,4,,2019,1,1
+ph,arg,Sweetener,3,,2018,4,,2019,1,1
+ph,mm,Sweetener,3,,2018,4,,2019,1,1
+ph,il,Sweetener,3,,2018,4,,2019,1,1
+hb,arg,Sweetener,3,,2018,4,,2019,1,1
+hb,mm,Sweetener,3,,2018,4,,2019,1,1
+hb,il,Sweetener,3,,2018,4,,2019,1,1
+hb,ph,Sweetener,3,,2018,4,,2019,1,1
+bmb,arg,Sweetener,3,,2018,4,,2019,1,1
+bmb,mm,Sweetener,3,,2018,4,,2019,1,1
+bmb,il,Sweetener,3,,2018,4,,2019,1,1
+bmb,ph,Sweetener,3,,2018,4,,2019,1,1
+bmb,hb,Sweetener,3,,2018,4,,2019,1,1
+tb,arg,Sweetener,3,,2018,4,,2019,1,1
+tb,mm,Sweetener,3,,2018,4,,2019,1,1
+tb,il,Sweetener,3,,2018,4,,2019,1,1
+tb,ph,Sweetener,3,,2018,4,,2019,1,1
+tb,hb,Sweetener,3,,2018,4,,2019,1,1
+tb,bmb,Sweetener,3,,2018,4,,2019,1,1
+mf,arg,Sweetener,3,,2018,4,,2019,1,1
+mf,mm,Sweetener,3,,2018,4,,2019,1,1
+mf,il,Sweetener,3,,2018,4,,2019,1,1
+mf,ph,Sweetener,3,,2018,4,,2019,1,1
+mf,hb,Sweetener,3,,2018,4,,2019,1,1
+mf,bmb,Sweetener,3,,2018,4,,2019,1,1
+mf,tb,Sweetener,3,,2018,4,,2019,1,1
+ca,arg,Sweetener,3,,2018,4,,2019,1,1
+ca,mm,Sweetener,3,,2018,4,,2019,1,1
+ca,il,Sweetener,3,,2018,4,,2019,1,1
+ca,ph,Sweetener,3,,2018,4,,2019,1,1
+ca,hb,Sweetener,3,,2018,4,,2019,1,1
+ca,bmb,Sweetener,3,,2018,4,,2019,1,1
+ca,tb,Sweetener,3,,2018,4,,2019,1,1
+ca,mf,Sweetener,3,,2018,4,,2019,1,1
+bab,kl,Millenium,3,,1999,1,4,2000,2,2
+mm,bab,Millenium,3,,1999,1,4,2000,2,2
+mm,kl,Millenium,3,,1999,1,4,2000,2,2
+ry,bab,Millenium,3,,1999,1,4,2000,2,2
+ry,kl,Millenium,3,,1999,1,4,2000,2,2
+ry,mm,Millenium,3,,1999,1,4,2000,2,2
+rjml,bab,Millenium,3,,1999,1,4,2000,2,2
+rjml,kl,Millenium,3,,1999,1,4,2000,2,2
+rjml,mm,Millenium,3,,1999,1,4,2000,2,2
+rjml,ry,Millenium,3,,1999,1,4,2000,2,2
+li,pho,Special,7,,2022,1,4,2023,,2
+rre,li,Special,7,,2022,1,4,2023,,2
+rre,pho,Special,7,,2022,1,4,2023,,2
+bs,li,Special,7,,2022,1,4,2023,,2
+bs,pho,Special,7,,2022,1,4,2023,,2
+bs,rre,Special,7,,2022,1,4,2023,,2
+tema,li,Special,7,,2022,1,4,2023,,2
+tema,pho,Special,7,,2022,1,4,2023,,2
+tema,rre,Special,7,,2022,1,4,2023,,2
+tema,bs,Special,7,,2022,1,4,2023,,2
+mm,li,Special,7,,2022,1,4,2023,,2
+mm,pho,Special,7,,2022,1,4,2023,,2
+mm,rre,Special,7,,2022,1,4,2023,,2
+mm,bs,Special,7,,2022,1,4,2023,,2
+mm,tema,Special,7,,2022,1,4,2023,,2
+bbo,li,Special,7,,2022,1,4,2023,,2
+bbo,pho,Special,7,,2022,1,4,2023,,2
+bbo,rre,Special,7,,2022,1,4,2023,,2
+bbo,bs,Special,7,,2022,1,4,2023,,2
+bbo,tema,Special,7,,2022,1,4,2023,,2
+bbo,mm,Special,7,,2022,1,4,2023,,2
+il,li,Special,7,,2022,1,4,2023,,2
+il,pho,Special,7,,2022,1,4,2023,,2
+il,rre,Special,7,,2022,1,4,2023,,2
+il,bs,Special,7,,2022,1,4,2023,,2
+il,tema,Special,7,,2022,1,4,2023,,2
+il,mm,Special,7,,2022,1,4,2023,,2
+il,bbo,Special,7,,2022,1,4,2023,,2
+po,li,Special,7,,2022,1,4,2023,,2
+po,pho,Special,7,,2022,1,4,2023,,2
+po,rre,Special,7,,2022,1,4,2023,,2
+po,bs,Special,7,,2022,1,4,2023,,2
+po,tema,Special,7,,2022,1,4,2023,,2
+po,mm,Special,7,,2022,1,4,2023,,2
+po,bbo,Special,7,,2022,1,4,2023,,2
+po,il,Special,7,,2022,1,4,2023,,2
+om,li,Special,7,,2022,1,4,2023,,2
+om,pho,Special,7,,2022,1,4,2023,,2
+om,rre,Special,7,,2022,1,4,2023,,2
+om,bs,Special,7,,2022,1,4,2023,,2
+om,tema,Special,7,,2022,1,4,2023,,2
+om,mm,Special,7,,2022,1,4,2023,,2
+om,bbo,Special,7,,2022,1,4,2023,,2
+om,il,Special,7,,2022,1,4,2023,,2
+om,po,Special,7,,2022,1,4,2023,,2
+ik,li,Special,7,,2022,1,4,2023,,2
+ik,pho,Special,7,,2022,1,4,2023,,2
+ik,rre,Special,7,,2022,1,4,2023,,2
+ik,bs,Special,7,,2022,1,4,2023,,2
+ik,tema,Special,7,,2022,1,4,2023,,2
+ik,mm,Special,7,,2022,1,4,2023,,2
+ik,bbo,Special,7,,2022,1,4,2023,,2
+ik,il,Special,7,,2022,1,4,2023,,2
+ik,po,Special,7,,2022,1,4,2023,,2
+ik,om,Special,7,,2022,1,4,2023,,2
+da,li,Special,7,,2022,1,4,2023,,2
+da,pho,Special,7,,2022,1,4,2023,,2
+da,rre,Special,7,,2022,1,4,2023,,2
+da,bs,Special,7,,2022,1,4,2023,,2
+da,tema,Special,7,,2022,1,4,2023,,2
+da,mm,Special,7,,2022,1,4,2023,,2
+da,bbo,Special,7,,2022,1,4,2023,,2
+da,il,Special,7,,2022,1,4,2023,,2
+da,po,Special,7,,2022,1,4,2023,,2
+da,om,Special,7,,2022,1,4,2023,,2
+da,ik,Special,7,,2022,1,4,2023,,2
+mr,li,Special,7,,2022,1,4,2023,,2
+mr,pho,Special,7,,2022,1,4,2023,,2
+mr,rre,Special,7,,2022,1,4,2023,,2
+mr,bs,Special,7,,2022,1,4,2023,,2
+mr,tema,Special,7,,2022,1,4,2023,,2
+mr,mm,Special,7,,2022,1,4,2023,,2
+mr,bbo,Special,7,,2022,1,4,2023,,2
+mr,il,Special,7,,2022,1,4,2023,,2
+mr,po,Special,7,,2022,1,4,2023,,2
+mr,om,Special,7,,2022,1,4,2023,,2
+mr,ik,Special,7,,2022,1,4,2023,,2
+mr,da,Special,7,,2022,1,4,2023,,2
+nm,li,Special,7,,2022,1,4,2023,,2
+nm,pho,Special,7,,2022,1,4,2023,,2
+nm,rre,Special,7,,2022,1,4,2023,,2
+nm,bs,Special,7,,2022,1,4,2023,,2
+nm,tema,Special,7,,2022,1,4,2023,,2
+nm,mm,Special,7,,2022,1,4,2023,,2
+nm,bbo,Special,7,,2022,1,4,2023,,2
+nm,il,Special,7,,2022,1,4,2023,,2
+nm,po,Special,7,,2022,1,4,2023,,2
+nm,om,Special,7,,2022,1,4,2023,,2
+nm,ik,Special,7,,2022,1,4,2023,,2
+nm,da,Special,7,,2022,1,4,2023,,2
+nm,mr,Special,7,,2022,1,4,2023,,2
+tms,li,Special,7,,2022,1,4,2023,,2
+tms,pho,Special,7,,2022,1,4,2023,,2
+tms,rre,Special,7,,2022,1,4,2023,,2
+tms,bs,Special,7,,2022,1,4,2023,,2
+tms,tema,Special,7,,2022,1,4,2023,,2
+tms,mm,Special,7,,2022,1,4,2023,,2
+tms,bbo,Special,7,,2022,1,4,2023,,2
+tms,il,Special,7,,2022,1,4,2023,,2
+tms,po,Special,7,,2022,1,4,2023,,2
+tms,om,Special,7,,2022,1,4,2023,,2
+tms,ik,Special,7,,2022,1,4,2023,,2
+tms,da,Special,7,,2022,1,4,2023,,2
+tms,mr,Special,7,,2022,1,4,2023,,2
+tms,nm,Special,7,,2022,1,4,2023,,2
+kh,li,Special,7,,2022,1,4,2023,,2
+kh,pho,Special,7,,2022,1,4,2023,,2
+kh,rre,Special,7,,2022,1,4,2023,,2
+kh,bs,Special,7,,2022,1,4,2023,,2
+kh,tema,Special,7,,2022,1,4,2023,,2
+kh,mm,Special,7,,2022,1,4,2023,,2
+kh,bbo,Special,7,,2022,1,4,2023,,2
+kh,il,Special,7,,2022,1,4,2023,,2
+kh,po,Special,7,,2022,1,4,2023,,2
+kh,om,Special,7,,2022,1,4,2023,,2
+kh,ik,Special,7,,2022,1,4,2023,,2
+kh,da,Special,7,,2022,1,4,2023,,2
+kh,mr,Special,7,,2022,1,4,2023,,2
+kh,nm,Special,7,,2022,1,4,2023,,2
+kh,tms,Special,7,,2022,1,4,2023,,2
+ck,li,Special,7,,2022,1,4,2023,,2
+ck,pho,Special,7,,2022,1,4,2023,,2
+ck,rre,Special,7,,2022,1,4,2023,,2
+ck,bs,Special,7,,2022,1,4,2023,,2
+ck,tema,Special,7,,2022,1,4,2023,,2
+ck,mm,Special,7,,2022,1,4,2023,,2
+ck,bbo,Special,7,,2022,1,4,2023,,2
+ck,il,Special,7,,2022,1,4,2023,,2
+ck,po,Special,7,,2022,1,4,2023,,2
+ck,om,Special,7,,2022,1,4,2023,,2
+ck,ik,Special,7,,2022,1,4,2023,,2
+ck,da,Special,7,,2022,1,4,2023,,2
+ck,mr,Special,7,,2022,1,4,2023,,2
+ck,nm,Special,7,,2022,1,4,2023,,2
+ck,tms,Special,7,,2022,1,4,2023,,2
+qc,li,Special,7,,2022,1,4,2023,,2
+qc,pho,Special,7,,2022,1,4,2023,,2
+qc,rre,Special,7,,2022,1,4,2023,,2
+qc,bs,Special,7,,2022,1,4,2023,,2
+qc,tema,Special,7,,2022,1,4,2023,,2
+qc,mm,Special,7,,2022,1,4,2023,,2
+qc,bbo,Special,7,,2022,1,4,2023,,2
+qc,il,Special,7,,2022,1,4,2023,,2
+qc,po,Special,7,,2022,1,4,2023,,2
+qc,om,Special,7,,2022,1,4,2023,,2
+qc,ik,Special,7,,2022,1,4,2023,,2
+qc,da,Special,7,,2022,1,4,2023,,2
+qc,mr,Special,7,,2022,1,4,2023,,2
+qc,nm,Special,7,,2022,1,4,2023,,2
+qc,tms,Special,7,,2022,1,4,2023,,2
+qc,ck,Special,7,,2022,1,4,2023,,2
+li,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+ofg,li,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+ofg,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+nm,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+nm,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+rre,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+rre,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+df,li,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+df,nm,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+df,rre,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+df,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+df,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+sb,li,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+sb,nm,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+sb,rre,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+sb,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+sb,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+sb,df,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,li,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,nm,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,rre,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,df,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+tow,sb,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,li,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,nm,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,rre,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,df,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,sb,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+misa,tow,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,li,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,nm,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,rre,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,xa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,ofg,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,df,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,sb,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,tow,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+te,misa,Cuz I love You (Deluxe),6,3,2019,7,1,2020,1,2
+kw,tw,Donda,8,,2021,1,,2022,,1
+key,kw,Donda,8,,2021,1,,2022,,1
+key,tw,Donda,8,,2021,1,,2022,,1
+oj,kw,Donda,8,,2021,1,,2022,,1
+oj,tw,Donda,8,,2021,1,,2022,,1
+oj,key,Donda,8,,2021,1,,2022,,1
+mk,tw,Donda,8,,2021,1,,2022,,1
+mk,key,Donda,8,,2021,1,,2022,,1
+mk,oj,Donda,8,,2021,1,,2022,,1
+dem,kw,Donda,8,,2021,1,,2022,,1
+dem,tw,Donda,8,,2021,1,,2022,,1
+dem,key,Donda,8,,2021,1,,2022,,1
+dem,oj,Donda,8,,2021,1,,2022,,1
+dem,mk,Donda,8,,2021,1,,2022,,1
+sso,kw,Donda,8,,2021,1,,2022,,1
+sso,tw,Donda,8,,2021,1,,2022,,1
+sso,key,Donda,8,,2021,1,,2022,,1
+sso,oj,Donda,8,,2021,1,,2022,,1
+sso,mk,Donda,8,,2021,1,,2022,,1
+sso,dem,Donda,8,,2021,1,,2022,,1
+jw,kw,Donda,8,,2021,1,,2022,,1
+jw,tw,Donda,8,,2021,1,,2022,,1
+jw,key,Donda,8,,2021,1,,2022,,1
+jw,oj,Donda,8,,2021,1,,2022,,1
+jw,mk,Donda,8,,2021,1,,2022,,1
+jw,dem,Donda,8,,2021,1,,2022,,1
+jw,sso,Donda,8,,2021,1,,2022,,1
+ng,kw,Donda,8,,2021,1,,2022,,1
+ng,tw,Donda,8,,2021,1,,2022,,1
+ng,key,Donda,8,,2021,1,,2022,,1
+ng,oj,Donda,8,,2021,1,,2022,,1
+ng,mk,Donda,8,,2021,1,,2022,,1
+ng,dem,Donda,8,,2021,1,,2022,,1
+ng,sso,Donda,8,,2021,1,,2022,,1
+ng,jw,Donda,8,,2021,1,,2022,,1
+aas,kw,Donda,8,,2021,1,,2022,,1
+aas,tw,Donda,8,,2021,1,,2022,,1
+aas,key,Donda,8,,2021,1,,2022,,1
+aas,oj,Donda,8,,2021,1,,2022,,1
+aas,mk,Donda,8,,2021,1,,2022,,1
+aas,dem,Donda,8,,2021,1,,2022,,1
+aas,sso,Donda,8,,2021,1,,2022,,1
+aas,jw,Donda,8,,2021,1,,2022,,1
+aas,ng,Donda,8,,2021,1,,2022,,1
+al,kw,Donda,8,,2021,1,,2022,,1
+al,tw,Donda,8,,2021,1,,2022,,1
+al,key,Donda,8,,2021,1,,2022,,1
+al,oj,Donda,8,,2021,1,,2022,,1
+al,mk,Donda,8,,2021,1,,2022,,1
+al,dem,Donda,8,,2021,1,,2022,,1
+al,sso,Donda,8,,2021,1,,2022,,1
+al,jw,Donda,8,,2021,1,,2022,,1
+al,ng,Donda,8,,2021,1,,2022,,1
+al,aas,Donda,8,,2021,1,,2022,,1
+fv,kw,Donda,8,,2021,1,,2022,,1
+fv,tw,Donda,8,,2021,1,,2022,,1
+fv,key,Donda,8,,2021,1,,2022,,1
+fv,oj,Donda,8,,2021,1,,2022,,1
+fv,mk,Donda,8,,2021,1,,2022,,1
+fv,dem,Donda,8,,2021,1,,2022,,1
+fv,sso,Donda,8,,2021,1,,2022,,1
+fv,jw,Donda,8,,2021,1,,2022,,1
+fv,ng,Donda,8,,2021,1,,2022,,1
+fv,aas,Donda,8,,2021,1,,2022,,1
+fv,al,Donda,8,,2021,1,,2022,,1
+ro,kw,Donda,8,,2021,1,,2022,,1
+ro,tw,Donda,8,,2021,1,,2022,,1
+ro,key,Donda,8,,2021,1,,2022,,1
+ro,oj,Donda,8,,2021,1,,2022,,1
+ro,mk,Donda,8,,2021,1,,2022,,1
+ro,dem,Donda,8,,2021,1,,2022,,1
+ro,sso,Donda,8,,2021,1,,2022,,1
+ro,jw,Donda,8,,2021,1,,2022,,1
+ro,ng,Donda,8,,2021,1,,2022,,1
+ro,aas,Donda,8,,2021,1,,2022,,1
+ro,al,Donda,8,,2021,1,,2022,,1
+ro,fv,Donda,8,,2021,1,,2022,,1
+ay,kw,Donda,8,,2021,1,,2022,,1
+ay,tw,Donda,8,,2021,1,,2022,,1
+ay,key,Donda,8,,2021,1,,2022,,1
+ay,oj,Donda,8,,2021,1,,2022,,1
+ay,mk,Donda,8,,2021,1,,2022,,1
+ay,dem,Donda,8,,2021,1,,2022,,1
+ay,sso,Donda,8,,2021,1,,2022,,1
+ay,jw,Donda,8,,2021,1,,2022,,1
+ay,ng,Donda,8,,2021,1,,2022,,1
+ay,aas,Donda,8,,2021,1,,2022,,1
+ay,al,Donda,8,,2021,1,,2022,,1
+ay,fv,Donda,8,,2021,1,,2022,,1
+ay,ro,Donda,8,,2021,1,,2022,,1
+dael,kw,Donda,8,,2021,1,,2022,,1
+dael,tw,Donda,8,,2021,1,,2022,,1
+dael,key,Donda,8,,2021,1,,2022,,1
+dael,oj,Donda,8,,2021,1,,2022,,1
+dael,mk,Donda,8,,2021,1,,2022,,1
+dael,dem,Donda,8,,2021,1,,2022,,1
+dael,sso,Donda,8,,2021,1,,2022,,1
+dael,jw,Donda,8,,2021,1,,2022,,1
+dael,ng,Donda,8,,2021,1,,2022,,1
+dael,aas,Donda,8,,2021,1,,2022,,1
+dael,al,Donda,8,,2021,1,,2022,,1
+dael,fv,Donda,8,,2021,1,,2022,,1
+dael,ro,Donda,8,,2021,1,,2022,,1
+dael,ay,Donda,8,,2021,1,,2022,,1
+sl,kw,Donda,8,,2021,1,,2022,,1
+sl,tw,Donda,8,,2021,1,,2022,,1
+sl,key,Donda,8,,2021,1,,2022,,1
+sl,oj,Donda,8,,2021,1,,2022,,1
+sl,mk,Donda,8,,2021,1,,2022,,1
+sl,dem,Donda,8,,2021,1,,2022,,1
+sl,sso,Donda,8,,2021,1,,2022,,1
+sl,jw,Donda,8,,2021,1,,2022,,1
+sl,ng,Donda,8,,2021,1,,2022,,1
+sl,aas,Donda,8,,2021,1,,2022,,1
+sl,al,Donda,8,,2021,1,,2022,,1
+sl,fv,Donda,8,,2021,1,,2022,,1
+sl,ro,Donda,8,,2021,1,,2022,,1
+sl,ay,Donda,8,,2021,1,,2022,,1
+sl,dael,Donda,8,,2021,1,,2022,,1
+bdb,kw,Donda,8,,2021,1,,2022,,1
+bdb,tw,Donda,8,,2021,1,,2022,,1
+bdb,key,Donda,8,,2021,1,,2022,,1
+bdb,oj,Donda,8,,2021,1,,2022,,1
+bdb,mk,Donda,8,,2021,1,,2022,,1
+bdb,dem,Donda,8,,2021,1,,2022,,1
+bdb,sso,Donda,8,,2021,1,,2022,,1
+bdb,jw,Donda,8,,2021,1,,2022,,1
+bdb,ng,Donda,8,,2021,1,,2022,,1
+bdb,aas,Donda,8,,2021,1,,2022,,1
+bdb,al,Donda,8,,2021,1,,2022,,1
+bdb,fv,Donda,8,,2021,1,,2022,,1
+bdb,ro,Donda,8,,2021,1,,2022,,1
+bdb,ay,Donda,8,,2021,1,,2022,,1
+bdb,dael,Donda,8,,2021,1,,2022,,1
+bdb,sl,Donda,8,,2021,1,,2022,,1
+djk,kw,Donda,8,,2021,1,,2022,,1
+djk,tw,Donda,8,,2021,1,,2022,,1
+djk,key,Donda,8,,2021,1,,2022,,1
+djk,oj,Donda,8,,2021,1,,2022,,1
+djk,mk,Donda,8,,2021,1,,2022,,1
+djk,dem,Donda,8,,2021,1,,2022,,1
+djk,sso,Donda,8,,2021,1,,2022,,1
+djk,jw,Donda,8,,2021,1,,2022,,1
+djk,ng,Donda,8,,2021,1,,2022,,1
+djk,aas,Donda,8,,2021,1,,2022,,1
+djk,al,Donda,8,,2021,1,,2022,,1
+djk,fv,Donda,8,,2021,1,,2022,,1
+djk,ro,Donda,8,,2021,1,,2022,,1
+djk,ay,Donda,8,,2021,1,,2022,,1
+djk,dael,Donda,8,,2021,1,,2022,,1
+djk,sl,Donda,8,,2021,1,,2022,,1
+djk,bdb,Donda,8,,2021,1,,2022,,1
+roj,kw,Donda,8,,2021,1,,2022,,1
+roj,tw,Donda,8,,2021,1,,2022,,1
+roj,key,Donda,8,,2021,1,,2022,,1
+roj,oj,Donda,8,,2021,1,,2022,,1
+roj,mk,Donda,8,,2021,1,,2022,,1
+roj,dem,Donda,8,,2021,1,,2022,,1
+roj,sso,Donda,8,,2021,1,,2022,,1
+roj,jw,Donda,8,,2021,1,,2022,,1
+roj,ng,Donda,8,,2021,1,,2022,,1
+roj,aas,Donda,8,,2021,1,,2022,,1
+roj,al,Donda,8,,2021,1,,2022,,1
+roj,fv,Donda,8,,2021,1,,2022,,1
+roj,ro,Donda,8,,2021,1,,2022,,1
+roj,ay,Donda,8,,2021,1,,2022,,1
+roj,dael,Donda,8,,2021,1,,2022,,1
+roj,sl,Donda,8,,2021,1,,2022,,1
+roj,bdb,Donda,8,,2021,1,,2022,,1
+roj,djk,Donda,8,,2021,1,,2022,,1
+na,kw,Donda,8,,2021,1,,2022,,1
+na,tw,Donda,8,,2021,1,,2022,,1
+na,key,Donda,8,,2021,1,,2022,,1
+na,oj,Donda,8,,2021,1,,2022,,1
+na,mk,Donda,8,,2021,1,,2022,,1
+na,dem,Donda,8,,2021,1,,2022,,1
+na,sso,Donda,8,,2021,1,,2022,,1
+na,jw,Donda,8,,2021,1,,2022,,1
+na,ng,Donda,8,,2021,1,,2022,,1
+na,aas,Donda,8,,2021,1,,2022,,1
+na,al,Donda,8,,2021,1,,2022,,1
+na,fv,Donda,8,,2021,1,,2022,,1
+na,ro,Donda,8,,2021,1,,2022,,1
+na,ay,Donda,8,,2021,1,,2022,,1
+na,dael,Donda,8,,2021,1,,2022,,1
+na,sl,Donda,8,,2021,1,,2022,,1
+na,bdb,Donda,8,,2021,1,,2022,,1
+na,djk,Donda,8,,2021,1,,2022,,1
+na,roj,Donda,8,,2021,1,,2022,,1
+c,kw,Donda,8,,2021,1,,2022,,1
+c,tw,Donda,8,,2021,1,,2022,,1
+c,key,Donda,8,,2021,1,,2022,,1
+c,oj,Donda,8,,2021,1,,2022,,1
+c,mk,Donda,8,,2021,1,,2022,,1
+c,dem,Donda,8,,2021,1,,2022,,1
+c,sso,Donda,8,,2021,1,,2022,,1
+c,jw,Donda,8,,2021,1,,2022,,1
+c,ng,Donda,8,,2021,1,,2022,,1
+c,aas,Donda,8,,2021,1,,2022,,1
+c,al,Donda,8,,2021,1,,2022,,1
+c,fv,Donda,8,,2021,1,,2022,,1
+c,ro,Donda,8,,2021,1,,2022,,1
+c,ay,Donda,8,,2021,1,,2022,,1
+c,dael,Donda,8,,2021,1,,2022,,1
+c,sl,Donda,8,,2021,1,,2022,,1
+c,bdb,Donda,8,,2021,1,,2022,,1
+c,djk,Donda,8,,2021,1,,2022,,1
+c,roj,Donda,8,,2021,1,,2022,,1
+c,na,Donda,8,,2021,1,,2022,,1
+zt,kw,Donda,8,,2021,1,,2022,,1
+zt,tw,Donda,8,,2021,1,,2022,,1
+zt,key,Donda,8,,2021,1,,2022,,1
+zt,oj,Donda,8,,2021,1,,2022,,1
+zt,mk,Donda,8,,2021,1,,2022,,1
+zt,dem,Donda,8,,2021,1,,2022,,1
+zt,sso,Donda,8,,2021,1,,2022,,1
+zt,jw,Donda,8,,2021,1,,2022,,1
+zt,ng,Donda,8,,2021,1,,2022,,1
+zt,aas,Donda,8,,2021,1,,2022,,1
+zt,al,Donda,8,,2021,1,,2022,,1
+zt,fv,Donda,8,,2021,1,,2022,,1
+zt,ro,Donda,8,,2021,1,,2022,,1
+zt,ay,Donda,8,,2021,1,,2022,,1
+zt,dael,Donda,8,,2021,1,,2022,,1
+zt,sl,Donda,8,,2021,1,,2022,,1
+zt,bdb,Donda,8,,2021,1,,2022,,1
+zt,djk,Donda,8,,2021,1,,2022,,1
+zt,roj,Donda,8,,2021,1,,2022,,1
+zt,na,Donda,8,,2021,1,,2022,,1
+zt,c,Donda,8,,2021,1,,2022,,1
+ttt,kw,Donda,8,,2021,1,,2022,,1
+ttt,tw,Donda,8,,2021,1,,2022,,1
+ttt,key,Donda,8,,2021,1,,2022,,1
+ttt,oj,Donda,8,,2021,1,,2022,,1
+ttt,mk,Donda,8,,2021,1,,2022,,1
+ttt,dem,Donda,8,,2021,1,,2022,,1
+ttt,sso,Donda,8,,2021,1,,2022,,1
+ttt,jw,Donda,8,,2021,1,,2022,,1
+ttt,ng,Donda,8,,2021,1,,2022,,1
+ttt,aas,Donda,8,,2021,1,,2022,,1
+ttt,al,Donda,8,,2021,1,,2022,,1
+ttt,fv,Donda,8,,2021,1,,2022,,1
+ttt,ro,Donda,8,,2021,1,,2022,,1
+ttt,ay,Donda,8,,2021,1,,2022,,1
+ttt,dael,Donda,8,,2021,1,,2022,,1
+ttt,sl,Donda,8,,2021,1,,2022,,1
+ttt,bdb,Donda,8,,2021,1,,2022,,1
+ttt,djk,Donda,8,,2021,1,,2022,,1
+ttt,roj,Donda,8,,2021,1,,2022,,1
+ttt,na,Donda,8,,2021,1,,2022,,1
+ttt,c,Donda,8,,2021,1,,2022,,1
+ttt,zt,Donda,8,,2021,1,,2022,,1
+au,kw,Donda,8,,2021,1,,2022,,1
+au,tw,Donda,8,,2021,1,,2022,,1
+au,key,Donda,8,,2021,1,,2022,,1
+au,oj,Donda,8,,2021,1,,2022,,1
+au,mk,Donda,8,,2021,1,,2022,,1
+au,dem,Donda,8,,2021,1,,2022,,1
+au,sso,Donda,8,,2021,1,,2022,,1
+au,jw,Donda,8,,2021,1,,2022,,1
+au,ng,Donda,8,,2021,1,,2022,,1
+au,aas,Donda,8,,2021,1,,2022,,1
+au,al,Donda,8,,2021,1,,2022,,1
+au,fv,Donda,8,,2021,1,,2022,,1
+au,ro,Donda,8,,2021,1,,2022,,1
+au,ay,Donda,8,,2021,1,,2022,,1
+au,dael,Donda,8,,2021,1,,2022,,1
+au,sl,Donda,8,,2021,1,,2022,,1
+au,bdb,Donda,8,,2021,1,,2022,,1
+au,djk,Donda,8,,2021,1,,2022,,1
+au,roj,Donda,8,,2021,1,,2022,,1
+au,na,Donda,8,,2021,1,,2022,,1
+au,c,Donda,8,,2021,1,,2022,,1
+au,zt,Donda,8,,2021,1,,2022,,1
+au,ttt,Donda,8,,2021,1,,2022,,1
+drt,kw,Donda,8,,2021,1,,2022,,1
+drt,tw,Donda,8,,2021,1,,2022,,1
+drt,key,Donda,8,,2021,1,,2022,,1
+drt,oj,Donda,8,,2021,1,,2022,,1
+drt,mk,Donda,8,,2021,1,,2022,,1
+drt,dem,Donda,8,,2021,1,,2022,,1
+drt,sso,Donda,8,,2021,1,,2022,,1
+drt,jw,Donda,8,,2021,1,,2022,,1
+drt,ng,Donda,8,,2021,1,,2022,,1
+drt,aas,Donda,8,,2021,1,,2022,,1
+drt,al,Donda,8,,2021,1,,2022,,1
+drt,fv,Donda,8,,2021,1,,2022,,1
+drt,ro,Donda,8,,2021,1,,2022,,1
+drt,ay,Donda,8,,2021,1,,2022,,1
+drt,dael,Donda,8,,2021,1,,2022,,1
+drt,sl,Donda,8,,2021,1,,2022,,1
+drt,bdb,Donda,8,,2021,1,,2022,,1
+drt,djk,Donda,8,,2021,1,,2022,,1
+drt,roj,Donda,8,,2021,1,,2022,,1
+drt,na,Donda,8,,2021,1,,2022,,1
+drt,c,Donda,8,,2021,1,,2022,,1
+drt,zt,Donda,8,,2021,1,,2022,,1
+drt,ttt,Donda,8,,2021,1,,2022,,1
+drt,au,Donda,8,,2021,1,,2022,,1
+wh,kw,Donda,8,,2021,1,,2022,,1
+wh,tw,Donda,8,,2021,1,,2022,,1
+wh,key,Donda,8,,2021,1,,2022,,1
+wh,oj,Donda,8,,2021,1,,2022,,1
+wh,mk,Donda,8,,2021,1,,2022,,1
+wh,dem,Donda,8,,2021,1,,2022,,1
+wh,sso,Donda,8,,2021,1,,2022,,1
+wh,jw,Donda,8,,2021,1,,2022,,1
+wh,ng,Donda,8,,2021,1,,2022,,1
+wh,aas,Donda,8,,2021,1,,2022,,1
+wh,al,Donda,8,,2021,1,,2022,,1
+wh,fv,Donda,8,,2021,1,,2022,,1
+wh,ro,Donda,8,,2021,1,,2022,,1
+wh,ay,Donda,8,,2021,1,,2022,,1
+wh,dael,Donda,8,,2021,1,,2022,,1
+wh,sl,Donda,8,,2021,1,,2022,,1
+wh,bdb,Donda,8,,2021,1,,2022,,1
+wh,djk,Donda,8,,2021,1,,2022,,1
+wh,roj,Donda,8,,2021,1,,2022,,1
+wh,na,Donda,8,,2021,1,,2022,,1
+wh,c,Donda,8,,2021,1,,2022,,1
+wh,zt,Donda,8,,2021,1,,2022,,1
+wh,ttt,Donda,8,,2021,1,,2022,,1
+wh,au,Donda,8,,2021,1,,2022,,1
+wh,drt,Donda,8,,2021,1,,2022,,1
+bo,kw,Donda,8,,2021,1,,2022,,1
+bo,tw,Donda,8,,2021,1,,2022,,1
+bo,key,Donda,8,,2021,1,,2022,,1
+bo,oj,Donda,8,,2021,1,,2022,,1
+bo,mk,Donda,8,,2021,1,,2022,,1
+bo,dem,Donda,8,,2021,1,,2022,,1
+bo,sso,Donda,8,,2021,1,,2022,,1
+bo,jw,Donda,8,,2021,1,,2022,,1
+bo,ng,Donda,8,,2021,1,,2022,,1
+bo,aas,Donda,8,,2021,1,,2022,,1
+bo,al,Donda,8,,2021,1,,2022,,1
+bo,fv,Donda,8,,2021,1,,2022,,1
+bo,ro,Donda,8,,2021,1,,2022,,1
+bo,ay,Donda,8,,2021,1,,2022,,1
+bo,dael,Donda,8,,2021,1,,2022,,1
+bo,sl,Donda,8,,2021,1,,2022,,1
+bo,bdb,Donda,8,,2021,1,,2022,,1
+bo,djk,Donda,8,,2021,1,,2022,,1
+bo,roj,Donda,8,,2021,1,,2022,,1
+bo,na,Donda,8,,2021,1,,2022,,1
+bo,c,Donda,8,,2021,1,,2022,,1
+bo,zt,Donda,8,,2021,1,,2022,,1
+bo,ttt,Donda,8,,2021,1,,2022,,1
+bo,au,Donda,8,,2021,1,,2022,,1
+bo,drt,Donda,8,,2021,1,,2022,,1
+bo,wh,Donda,8,,2021,1,,2022,,1
+lb,kw,Donda,8,,2021,1,,2022,,1
+lb,tw,Donda,8,,2021,1,,2022,,1
+lb,key,Donda,8,,2021,1,,2022,,1
+lb,oj,Donda,8,,2021,1,,2022,,1
+lb,mk,Donda,8,,2021,1,,2022,,1
+lb,dem,Donda,8,,2021,1,,2022,,1
+lb,sso,Donda,8,,2021,1,,2022,,1
+lb,jw,Donda,8,,2021,1,,2022,,1
+lb,ng,Donda,8,,2021,1,,2022,,1
+lb,aas,Donda,8,,2021,1,,2022,,1
+lb,al,Donda,8,,2021,1,,2022,,1
+lb,fv,Donda,8,,2021,1,,2022,,1
+lb,ro,Donda,8,,2021,1,,2022,,1
+lb,ay,Donda,8,,2021,1,,2022,,1
+lb,dael,Donda,8,,2021,1,,2022,,1
+lb,sl,Donda,8,,2021,1,,2022,,1
+lb,bdb,Donda,8,,2021,1,,2022,,1
+lb,djk,Donda,8,,2021,1,,2022,,1
+lb,roj,Donda,8,,2021,1,,2022,,1
+lb,na,Donda,8,,2021,1,,2022,,1
+lb,c,Donda,8,,2021,1,,2022,,1
+lb,zt,Donda,8,,2021,1,,2022,,1
+lb,ttt,Donda,8,,2021,1,,2022,,1
+lb,au,Donda,8,,2021,1,,2022,,1
+lb,drt,Donda,8,,2021,1,,2022,,1
+lb,wh,Donda,8,,2021,1,,2022,,1
+lb,bo,Donda,8,,2021,1,,2022,,1
+fy,kw,Donda,8,,2021,1,,2022,,1
+fy,tw,Donda,8,,2021,1,,2022,,1
+fy,key,Donda,8,,2021,1,,2022,,1
+fy,oj,Donda,8,,2021,1,,2022,,1
+fy,mk,Donda,8,,2021,1,,2022,,1
+fy,dem,Donda,8,,2021,1,,2022,,1
+fy,sso,Donda,8,,2021,1,,2022,,1
+fy,jw,Donda,8,,2021,1,,2022,,1
+fy,ng,Donda,8,,2021,1,,2022,,1
+fy,aas,Donda,8,,2021,1,,2022,,1
+fy,al,Donda,8,,2021,1,,2022,,1
+fy,fv,Donda,8,,2021,1,,2022,,1
+fy,ro,Donda,8,,2021,1,,2022,,1
+fy,ay,Donda,8,,2021,1,,2022,,1
+fy,dael,Donda,8,,2021,1,,2022,,1
+fy,sl,Donda,8,,2021,1,,2022,,1
+fy,bdb,Donda,8,,2021,1,,2022,,1
+fy,djk,Donda,8,,2021,1,,2022,,1
+fy,roj,Donda,8,,2021,1,,2022,,1
+fy,na,Donda,8,,2021,1,,2022,,1
+fy,c,Donda,8,,2021,1,,2022,,1
+fy,zt,Donda,8,,2021,1,,2022,,1
+fy,ttt,Donda,8,,2021,1,,2022,,1
+fy,au,Donda,8,,2021,1,,2022,,1
+fy,drt,Donda,8,,2021,1,,2022,,1
+fy,wh,Donda,8,,2021,1,,2022,,1
+fy,bo,Donda,8,,2021,1,,2022,,1
+fy,lb,Donda,8,,2021,1,,2022,,1
+din,kw,Donda,8,,2021,1,,2022,,1
+din,tw,Donda,8,,2021,1,,2022,,1
+din,key,Donda,8,,2021,1,,2022,,1
+din,oj,Donda,8,,2021,1,,2022,,1
+din,mk,Donda,8,,2021,1,,2022,,1
+din,dem,Donda,8,,2021,1,,2022,,1
+din,sso,Donda,8,,2021,1,,2022,,1
+din,jw,Donda,8,,2021,1,,2022,,1
+din,ng,Donda,8,,2021,1,,2022,,1
+din,aas,Donda,8,,2021,1,,2022,,1
+din,al,Donda,8,,2021,1,,2022,,1
+din,fv,Donda,8,,2021,1,,2022,,1
+din,ro,Donda,8,,2021,1,,2022,,1
+din,ay,Donda,8,,2021,1,,2022,,1
+din,dael,Donda,8,,2021,1,,2022,,1
+din,sl,Donda,8,,2021,1,,2022,,1
+din,bdb,Donda,8,,2021,1,,2022,,1
+din,djk,Donda,8,,2021,1,,2022,,1
+din,roj,Donda,8,,2021,1,,2022,,1
+din,na,Donda,8,,2021,1,,2022,,1
+din,c,Donda,8,,2021,1,,2022,,1
+din,zt,Donda,8,,2021,1,,2022,,1
+din,ttt,Donda,8,,2021,1,,2022,,1
+din,au,Donda,8,,2021,1,,2022,,1
+din,drt,Donda,8,,2021,1,,2022,,1
+din,wh,Donda,8,,2021,1,,2022,,1
+din,bo,Donda,8,,2021,1,,2022,,1
+din,lb,Donda,8,,2021,1,,2022,,1
+din,fy,Donda,8,,2021,1,,2022,,1
+rb,kw,Donda,8,,2021,1,,2022,,1
+rb,tw,Donda,8,,2021,1,,2022,,1
+rb,key,Donda,8,,2021,1,,2022,,1
+rb,oj,Donda,8,,2021,1,,2022,,1
+rb,mk,Donda,8,,2021,1,,2022,,1
+rb,dem,Donda,8,,2021,1,,2022,,1
+rb,sso,Donda,8,,2021,1,,2022,,1
+rb,jw,Donda,8,,2021,1,,2022,,1
+rb,ng,Donda,8,,2021,1,,2022,,1
+rb,aas,Donda,8,,2021,1,,2022,,1
+rb,al,Donda,8,,2021,1,,2022,,1
+rb,fv,Donda,8,,2021,1,,2022,,1
+rb,ro,Donda,8,,2021,1,,2022,,1
+rb,ay,Donda,8,,2021,1,,2022,,1
+rb,dael,Donda,8,,2021,1,,2022,,1
+rb,sl,Donda,8,,2021,1,,2022,,1
+rb,bdb,Donda,8,,2021,1,,2022,,1
+rb,djk,Donda,8,,2021,1,,2022,,1
+rb,roj,Donda,8,,2021,1,,2022,,1
+rb,na,Donda,8,,2021,1,,2022,,1
+rb,c,Donda,8,,2021,1,,2022,,1
+rb,zt,Donda,8,,2021,1,,2022,,1
+rb,ttt,Donda,8,,2021,1,,2022,,1
+rb,au,Donda,8,,2021,1,,2022,,1
+rb,drt,Donda,8,,2021,1,,2022,,1
+rb,wh,Donda,8,,2021,1,,2022,,1
+rb,bo,Donda,8,,2021,1,,2022,,1
+rb,lb,Donda,8,,2021,1,,2022,,1
+rb,fy,Donda,8,,2021,1,,2022,,1
+rb,din,Donda,8,,2021,1,,2022,,1
+fnz,kw,Donda,8,,2021,1,,2022,,1
+fnz,tw,Donda,8,,2021,1,,2022,,1
+fnz,key,Donda,8,,2021,1,,2022,,1
+fnz,oj,Donda,8,,2021,1,,2022,,1
+fnz,mk,Donda,8,,2021,1,,2022,,1
+fnz,dem,Donda,8,,2021,1,,2022,,1
+fnz,sso,Donda,8,,2021,1,,2022,,1
+fnz,jw,Donda,8,,2021,1,,2022,,1
+fnz,ng,Donda,8,,2021,1,,2022,,1
+fnz,aas,Donda,8,,2021,1,,2022,,1
+fnz,al,Donda,8,,2021,1,,2022,,1
+fnz,fv,Donda,8,,2021,1,,2022,,1
+fnz,ro,Donda,8,,2021,1,,2022,,1
+fnz,ay,Donda,8,,2021,1,,2022,,1
+fnz,dael,Donda,8,,2021,1,,2022,,1
+fnz,sl,Donda,8,,2021,1,,2022,,1
+fnz,bdb,Donda,8,,2021,1,,2022,,1
+fnz,djk,Donda,8,,2021,1,,2022,,1
+fnz,roj,Donda,8,,2021,1,,2022,,1
+fnz,na,Donda,8,,2021,1,,2022,,1
+fnz,c,Donda,8,,2021,1,,2022,,1
+fnz,zt,Donda,8,,2021,1,,2022,,1
+fnz,ttt,Donda,8,,2021,1,,2022,,1
+fnz,au,Donda,8,,2021,1,,2022,,1
+fnz,drt,Donda,8,,2021,1,,2022,,1
+fnz,wh,Donda,8,,2021,1,,2022,,1
+fnz,bo,Donda,8,,2021,1,,2022,,1
+fnz,lb,Donda,8,,2021,1,,2022,,1
+fnz,fy,Donda,8,,2021,1,,2022,,1
+fnz,din,Donda,8,,2021,1,,2022,,1
+fnz,rb,Donda,8,,2021,1,,2022,,1
+amw,kw,Donda,8,,2021,1,,2022,,1
+amw,tw,Donda,8,,2021,1,,2022,,1
+amw,key,Donda,8,,2021,1,,2022,,1
+amw,oj,Donda,8,,2021,1,,2022,,1
+amw,mk,Donda,8,,2021,1,,2022,,1
+amw,dem,Donda,8,,2021,1,,2022,,1
+amw,sso,Donda,8,,2021,1,,2022,,1
+amw,jw,Donda,8,,2021,1,,2022,,1
+amw,ng,Donda,8,,2021,1,,2022,,1
+amw,aas,Donda,8,,2021,1,,2022,,1
+amw,al,Donda,8,,2021,1,,2022,,1
+amw,fv,Donda,8,,2021,1,,2022,,1
+amw,ro,Donda,8,,2021,1,,2022,,1
+amw,ay,Donda,8,,2021,1,,2022,,1
+amw,dael,Donda,8,,2021,1,,2022,,1
+amw,sl,Donda,8,,2021,1,,2022,,1
+amw,bdb,Donda,8,,2021,1,,2022,,1
+amw,djk,Donda,8,,2021,1,,2022,,1
+amw,roj,Donda,8,,2021,1,,2022,,1
+amw,na,Donda,8,,2021,1,,2022,,1
+amw,c,Donda,8,,2021,1,,2022,,1
+amw,zt,Donda,8,,2021,1,,2022,,1
+amw,ttt,Donda,8,,2021,1,,2022,,1
+amw,au,Donda,8,,2021,1,,2022,,1
+amw,drt,Donda,8,,2021,1,,2022,,1
+amw,wh,Donda,8,,2021,1,,2022,,1
+amw,bo,Donda,8,,2021,1,,2022,,1
+amw,lb,Donda,8,,2021,1,,2022,,1
+amw,fy,Donda,8,,2021,1,,2022,,1
+amw,din,Donda,8,,2021,1,,2022,,1
+amw,rb,Donda,8,,2021,1,,2022,,1
+amw,fnz,Donda,8,,2021,1,,2022,,1
+warc,kw,Donda,8,,2021,1,,2022,,1
+warc,tw,Donda,8,,2021,1,,2022,,1
+warc,key,Donda,8,,2021,1,,2022,,1
+warc,oj,Donda,8,,2021,1,,2022,,1
+warc,mk,Donda,8,,2021,1,,2022,,1
+warc,dem,Donda,8,,2021,1,,2022,,1
+warc,sso,Donda,8,,2021,1,,2022,,1
+warc,jw,Donda,8,,2021,1,,2022,,1
+warc,ng,Donda,8,,2021,1,,2022,,1
+warc,aas,Donda,8,,2021,1,,2022,,1
+warc,al,Donda,8,,2021,1,,2022,,1
+warc,fv,Donda,8,,2021,1,,2022,,1
+warc,ro,Donda,8,,2021,1,,2022,,1
+warc,ay,Donda,8,,2021,1,,2022,,1
+warc,dael,Donda,8,,2021,1,,2022,,1
+warc,sl,Donda,8,,2021,1,,2022,,1
+warc,bdb,Donda,8,,2021,1,,2022,,1
+warc,djk,Donda,8,,2021,1,,2022,,1
+warc,roj,Donda,8,,2021,1,,2022,,1
+warc,na,Donda,8,,2021,1,,2022,,1
+warc,c,Donda,8,,2021,1,,2022,,1
+warc,zt,Donda,8,,2021,1,,2022,,1
+warc,ttt,Donda,8,,2021,1,,2022,,1
+warc,au,Donda,8,,2021,1,,2022,,1
+warc,drt,Donda,8,,2021,1,,2022,,1
+warc,wh,Donda,8,,2021,1,,2022,,1
+warc,bo,Donda,8,,2021,1,,2022,,1
+warc,lb,Donda,8,,2021,1,,2022,,1
+warc,fy,Donda,8,,2021,1,,2022,,1
+warc,din,Donda,8,,2021,1,,2022,,1
+warc,rb,Donda,8,,2021,1,,2022,,1
+warc,fnz,Donda,8,,2021,1,,2022,,1
+warc,amw,Donda,8,,2021,1,,2022,,1
+ch,kw,Donda,8,,2021,1,,2022,,1
+ch,tw,Donda,8,,2021,1,,2022,,1
+ch,key,Donda,8,,2021,1,,2022,,1
+ch,oj,Donda,8,,2021,1,,2022,,1
+ch,mk,Donda,8,,2021,1,,2022,,1
+ch,dem,Donda,8,,2021,1,,2022,,1
+ch,sso,Donda,8,,2021,1,,2022,,1
+ch,jw,Donda,8,,2021,1,,2022,,1
+ch,ng,Donda,8,,2021,1,,2022,,1
+ch,aas,Donda,8,,2021,1,,2022,,1
+ch,al,Donda,8,,2021,1,,2022,,1
+ch,fv,Donda,8,,2021,1,,2022,,1
+ch,ro,Donda,8,,2021,1,,2022,,1
+ch,ay,Donda,8,,2021,1,,2022,,1
+ch,dael,Donda,8,,2021,1,,2022,,1
+ch,sl,Donda,8,,2021,1,,2022,,1
+ch,bdb,Donda,8,,2021,1,,2022,,1
+ch,djk,Donda,8,,2021,1,,2022,,1
+ch,roj,Donda,8,,2021,1,,2022,,1
+ch,na,Donda,8,,2021,1,,2022,,1
+ch,c,Donda,8,,2021,1,,2022,,1
+ch,zt,Donda,8,,2021,1,,2022,,1
+ch,ttt,Donda,8,,2021,1,,2022,,1
+ch,au,Donda,8,,2021,1,,2022,,1
+ch,drt,Donda,8,,2021,1,,2022,,1
+ch,wh,Donda,8,,2021,1,,2022,,1
+ch,bo,Donda,8,,2021,1,,2022,,1
+ch,lb,Donda,8,,2021,1,,2022,,1
+ch,fy,Donda,8,,2021,1,,2022,,1
+ch,din,Donda,8,,2021,1,,2022,,1
+ch,rb,Donda,8,,2021,1,,2022,,1
+ch,fnz,Donda,8,,2021,1,,2022,,1
+ch,amw,Donda,8,,2021,1,,2022,,1
+ch,warc,Donda,8,,2021,1,,2022,,1
+cu,kw,Donda,8,,2021,1,,2022,,1
+cu,tw,Donda,8,,2021,1,,2022,,1
+cu,key,Donda,8,,2021,1,,2022,,1
+cu,oj,Donda,8,,2021,1,,2022,,1
+cu,mk,Donda,8,,2021,1,,2022,,1
+cu,dem,Donda,8,,2021,1,,2022,,1
+cu,sso,Donda,8,,2021,1,,2022,,1
+cu,jw,Donda,8,,2021,1,,2022,,1
+cu,ng,Donda,8,,2021,1,,2022,,1
+cu,aas,Donda,8,,2021,1,,2022,,1
+cu,al,Donda,8,,2021,1,,2022,,1
+cu,fv,Donda,8,,2021,1,,2022,,1
+cu,ro,Donda,8,,2021,1,,2022,,1
+cu,ay,Donda,8,,2021,1,,2022,,1
+cu,dael,Donda,8,,2021,1,,2022,,1
+cu,sl,Donda,8,,2021,1,,2022,,1
+cu,bdb,Donda,8,,2021,1,,2022,,1
+cu,djk,Donda,8,,2021,1,,2022,,1
+cu,roj,Donda,8,,2021,1,,2022,,1
+cu,na,Donda,8,,2021,1,,2022,,1
+cu,c,Donda,8,,2021,1,,2022,,1
+cu,zt,Donda,8,,2021,1,,2022,,1
+cu,ttt,Donda,8,,2021,1,,2022,,1
+cu,au,Donda,8,,2021,1,,2022,,1
+cu,drt,Donda,8,,2021,1,,2022,,1
+cu,wh,Donda,8,,2021,1,,2022,,1
+cu,bo,Donda,8,,2021,1,,2022,,1
+cu,lb,Donda,8,,2021,1,,2022,,1
+cu,fy,Donda,8,,2021,1,,2022,,1
+cu,din,Donda,8,,2021,1,,2022,,1
+cu,rb,Donda,8,,2021,1,,2022,,1
+cu,fnz,Donda,8,,2021,1,,2022,,1
+cu,amw,Donda,8,,2021,1,,2022,,1
+cu,warc,Donda,8,,2021,1,,2022,,1
+cu,ch,Donda,8,,2021,1,,2022,,1
+tew,kw,Donda,8,,2021,1,,2022,,1
+tew,tw,Donda,8,,2021,1,,2022,,1
+tew,key,Donda,8,,2021,1,,2022,,1
+tew,oj,Donda,8,,2021,1,,2022,,1
+tew,mk,Donda,8,,2021,1,,2022,,1
+tew,dem,Donda,8,,2021,1,,2022,,1
+tew,sso,Donda,8,,2021,1,,2022,,1
+tew,jw,Donda,8,,2021,1,,2022,,1
+tew,ng,Donda,8,,2021,1,,2022,,1
+tew,aas,Donda,8,,2021,1,,2022,,1
+tew,al,Donda,8,,2021,1,,2022,,1
+tew,fv,Donda,8,,2021,1,,2022,,1
+tew,ro,Donda,8,,2021,1,,2022,,1
+tew,ay,Donda,8,,2021,1,,2022,,1
+tew,dael,Donda,8,,2021,1,,2022,,1
+tew,sl,Donda,8,,2021,1,,2022,,1
+tew,bdb,Donda,8,,2021,1,,2022,,1
+tew,djk,Donda,8,,2021,1,,2022,,1
+tew,roj,Donda,8,,2021,1,,2022,,1
+tew,na,Donda,8,,2021,1,,2022,,1
+tew,c,Donda,8,,2021,1,,2022,,1
+tew,zt,Donda,8,,2021,1,,2022,,1
+tew,ttt,Donda,8,,2021,1,,2022,,1
+tew,au,Donda,8,,2021,1,,2022,,1
+tew,drt,Donda,8,,2021,1,,2022,,1
+tew,wh,Donda,8,,2021,1,,2022,,1
+tew,bo,Donda,8,,2021,1,,2022,,1
+tew,lb,Donda,8,,2021,1,,2022,,1
+tew,fy,Donda,8,,2021,1,,2022,,1
+tew,din,Donda,8,,2021,1,,2022,,1
+tew,rb,Donda,8,,2021,1,,2022,,1
+tew,fnz,Donda,8,,2021,1,,2022,,1
+tew,amw,Donda,8,,2021,1,,2022,,1
+tew,warc,Donda,8,,2021,1,,2022,,1
+tew,ch,Donda,8,,2021,1,,2022,,1
+tew,cu,Donda,8,,2021,1,,2022,,1
+wall,kw,Donda,8,,2021,1,,2022,,1
+wall,tw,Donda,8,,2021,1,,2022,,1
+wall,key,Donda,8,,2021,1,,2022,,1
+wall,oj,Donda,8,,2021,1,,2022,,1
+wall,mk,Donda,8,,2021,1,,2022,,1
+wall,dem,Donda,8,,2021,1,,2022,,1
+wall,sso,Donda,8,,2021,1,,2022,,1
+wall,jw,Donda,8,,2021,1,,2022,,1
+wall,ng,Donda,8,,2021,1,,2022,,1
+wall,aas,Donda,8,,2021,1,,2022,,1
+wall,al,Donda,8,,2021,1,,2022,,1
+wall,fv,Donda,8,,2021,1,,2022,,1
+wall,ro,Donda,8,,2021,1,,2022,,1
+wall,ay,Donda,8,,2021,1,,2022,,1
+wall,dael,Donda,8,,2021,1,,2022,,1
+wall,sl,Donda,8,,2021,1,,2022,,1
+wall,bdb,Donda,8,,2021,1,,2022,,1
+wall,djk,Donda,8,,2021,1,,2022,,1
+wall,roj,Donda,8,,2021,1,,2022,,1
+wall,na,Donda,8,,2021,1,,2022,,1
+wall,c,Donda,8,,2021,1,,2022,,1
+wall,zt,Donda,8,,2021,1,,2022,,1
+wall,ttt,Donda,8,,2021,1,,2022,,1
+wall,au,Donda,8,,2021,1,,2022,,1
+wall,drt,Donda,8,,2021,1,,2022,,1
+wall,wh,Donda,8,,2021,1,,2022,,1
+wall,bo,Donda,8,,2021,1,,2022,,1
+wall,lb,Donda,8,,2021,1,,2022,,1
+wall,fy,Donda,8,,2021,1,,2022,,1
+wall,din,Donda,8,,2021,1,,2022,,1
+wall,rb,Donda,8,,2021,1,,2022,,1
+wall,fnz,Donda,8,,2021,1,,2022,,1
+wall,amw,Donda,8,,2021,1,,2022,,1
+wall,warc,Donda,8,,2021,1,,2022,,1
+wall,ch,Donda,8,,2021,1,,2022,,1
+wall,cu,Donda,8,,2021,1,,2022,,1
+wall,tew,Donda,8,,2021,1,,2022,,1
+nab,kw,Donda,8,,2021,1,,2022,,1
+nab,tw,Donda,8,,2021,1,,2022,,1
+nab,key,Donda,8,,2021,1,,2022,,1
+nab,oj,Donda,8,,2021,1,,2022,,1
+nab,mk,Donda,8,,2021,1,,2022,,1
+nab,dem,Donda,8,,2021,1,,2022,,1
+nab,sso,Donda,8,,2021,1,,2022,,1
+nab,jw,Donda,8,,2021,1,,2022,,1
+nab,ng,Donda,8,,2021,1,,2022,,1
+nab,aas,Donda,8,,2021,1,,2022,,1
+nab,al,Donda,8,,2021,1,,2022,,1
+nab,fv,Donda,8,,2021,1,,2022,,1
+nab,ro,Donda,8,,2021,1,,2022,,1
+nab,ay,Donda,8,,2021,1,,2022,,1
+nab,dael,Donda,8,,2021,1,,2022,,1
+nab,sl,Donda,8,,2021,1,,2022,,1
+nab,bdb,Donda,8,,2021,1,,2022,,1
+nab,djk,Donda,8,,2021,1,,2022,,1
+nab,roj,Donda,8,,2021,1,,2022,,1
+nab,na,Donda,8,,2021,1,,2022,,1
+nab,c,Donda,8,,2021,1,,2022,,1
+nab,zt,Donda,8,,2021,1,,2022,,1
+nab,ttt,Donda,8,,2021,1,,2022,,1
+nab,au,Donda,8,,2021,1,,2022,,1
+nab,drt,Donda,8,,2021,1,,2022,,1
+nab,wh,Donda,8,,2021,1,,2022,,1
+nab,bo,Donda,8,,2021,1,,2022,,1
+nab,lb,Donda,8,,2021,1,,2022,,1
+nab,fy,Donda,8,,2021,1,,2022,,1
+nab,din,Donda,8,,2021,1,,2022,,1
+nab,rb,Donda,8,,2021,1,,2022,,1
+nab,fnz,Donda,8,,2021,1,,2022,,1
+nab,amw,Donda,8,,2021,1,,2022,,1
+nab,warc,Donda,8,,2021,1,,2022,,1
+nab,ch,Donda,8,,2021,1,,2022,,1
+nab,cu,Donda,8,,2021,1,,2022,,1
+nab,tew,Donda,8,,2021,1,,2022,,1
+nab,wall,Donda,8,,2021,1,,2022,,1
+and,kw,Donda,8,,2021,1,,2022,,1
+and,tw,Donda,8,,2021,1,,2022,,1
+and,key,Donda,8,,2021,1,,2022,,1
+and,oj,Donda,8,,2021,1,,2022,,1
+and,mk,Donda,8,,2021,1,,2022,,1
+and,dem,Donda,8,,2021,1,,2022,,1
+and,sso,Donda,8,,2021,1,,2022,,1
+and,jw,Donda,8,,2021,1,,2022,,1
+and,ng,Donda,8,,2021,1,,2022,,1
+and,aas,Donda,8,,2021,1,,2022,,1
+and,al,Donda,8,,2021,1,,2022,,1
+and,fv,Donda,8,,2021,1,,2022,,1
+and,ro,Donda,8,,2021,1,,2022,,1
+and,ay,Donda,8,,2021,1,,2022,,1
+and,dael,Donda,8,,2021,1,,2022,,1
+and,sl,Donda,8,,2021,1,,2022,,1
+and,bdb,Donda,8,,2021,1,,2022,,1
+and,djk,Donda,8,,2021,1,,2022,,1
+and,roj,Donda,8,,2021,1,,2022,,1
+and,na,Donda,8,,2021,1,,2022,,1
+and,c,Donda,8,,2021,1,,2022,,1
+and,zt,Donda,8,,2021,1,,2022,,1
+and,ttt,Donda,8,,2021,1,,2022,,1
+and,au,Donda,8,,2021,1,,2022,,1
+and,drt,Donda,8,,2021,1,,2022,,1
+and,wh,Donda,8,,2021,1,,2022,,1
+and,bo,Donda,8,,2021,1,,2022,,1
+and,lb,Donda,8,,2021,1,,2022,,1
+and,fy,Donda,8,,2021,1,,2022,,1
+and,din,Donda,8,,2021,1,,2022,,1
+and,rb,Donda,8,,2021,1,,2022,,1
+and,fnz,Donda,8,,2021,1,,2022,,1
+and,amw,Donda,8,,2021,1,,2022,,1
+and,warc,Donda,8,,2021,1,,2022,,1
+and,ch,Donda,8,,2021,1,,2022,,1
+and,cu,Donda,8,,2021,1,,2022,,1
+and,tew,Donda,8,,2021,1,,2022,,1
+and,wall,Donda,8,,2021,1,,2022,,1
+and,nab,Donda,8,,2021,1,,2022,,1
+daw,kw,Donda,8,,2021,1,,2022,,1
+daw,tw,Donda,8,,2021,1,,2022,,1
+daw,key,Donda,8,,2021,1,,2022,,1
+daw,oj,Donda,8,,2021,1,,2022,,1
+daw,mk,Donda,8,,2021,1,,2022,,1
+daw,dem,Donda,8,,2021,1,,2022,,1
+daw,sso,Donda,8,,2021,1,,2022,,1
+daw,jw,Donda,8,,2021,1,,2022,,1
+daw,ng,Donda,8,,2021,1,,2022,,1
+daw,aas,Donda,8,,2021,1,,2022,,1
+daw,al,Donda,8,,2021,1,,2022,,1
+daw,fv,Donda,8,,2021,1,,2022,,1
+daw,ro,Donda,8,,2021,1,,2022,,1
+daw,ay,Donda,8,,2021,1,,2022,,1
+daw,dael,Donda,8,,2021,1,,2022,,1
+daw,sl,Donda,8,,2021,1,,2022,,1
+daw,bdb,Donda,8,,2021,1,,2022,,1
+daw,djk,Donda,8,,2021,1,,2022,,1
+daw,roj,Donda,8,,2021,1,,2022,,1
+daw,na,Donda,8,,2021,1,,2022,,1
+daw,c,Donda,8,,2021,1,,2022,,1
+daw,zt,Donda,8,,2021,1,,2022,,1
+daw,ttt,Donda,8,,2021,1,,2022,,1
+daw,au,Donda,8,,2021,1,,2022,,1
+daw,drt,Donda,8,,2021,1,,2022,,1
+daw,wh,Donda,8,,2021,1,,2022,,1
+daw,bo,Donda,8,,2021,1,,2022,,1
+daw,lb,Donda,8,,2021,1,,2022,,1
+daw,fy,Donda,8,,2021,1,,2022,,1
+daw,din,Donda,8,,2021,1,,2022,,1
+daw,rb,Donda,8,,2021,1,,2022,,1
+daw,fnz,Donda,8,,2021,1,,2022,,1
+daw,amw,Donda,8,,2021,1,,2022,,1
+daw,warc,Donda,8,,2021,1,,2022,,1
+daw,ch,Donda,8,,2021,1,,2022,,1
+daw,cu,Donda,8,,2021,1,,2022,,1
+daw,tew,Donda,8,,2021,1,,2022,,1
+daw,wall,Donda,8,,2021,1,,2022,,1
+daw,nab,Donda,8,,2021,1,,2022,,1
+daw,and,Donda,8,,2021,1,,2022,,1
+rn,kw,Donda,8,,2021,1,,2022,,1
+rn,tw,Donda,8,,2021,1,,2022,,1
+rn,key,Donda,8,,2021,1,,2022,,1
+rn,oj,Donda,8,,2021,1,,2022,,1
+rn,mk,Donda,8,,2021,1,,2022,,1
+rn,dem,Donda,8,,2021,1,,2022,,1
+rn,sso,Donda,8,,2021,1,,2022,,1
+rn,jw,Donda,8,,2021,1,,2022,,1
+rn,ng,Donda,8,,2021,1,,2022,,1
+rn,aas,Donda,8,,2021,1,,2022,,1
+rn,al,Donda,8,,2021,1,,2022,,1
+rn,fv,Donda,8,,2021,1,,2022,,1
+rn,ro,Donda,8,,2021,1,,2022,,1
+rn,ay,Donda,8,,2021,1,,2022,,1
+rn,dael,Donda,8,,2021,1,,2022,,1
+rn,sl,Donda,8,,2021,1,,2022,,1
+rn,bdb,Donda,8,,2021,1,,2022,,1
+rn,djk,Donda,8,,2021,1,,2022,,1
+rn,roj,Donda,8,,2021,1,,2022,,1
+rn,na,Donda,8,,2021,1,,2022,,1
+rn,c,Donda,8,,2021,1,,2022,,1
+rn,zt,Donda,8,,2021,1,,2022,,1
+rn,ttt,Donda,8,,2021,1,,2022,,1
+rn,au,Donda,8,,2021,1,,2022,,1
+rn,drt,Donda,8,,2021,1,,2022,,1
+rn,wh,Donda,8,,2021,1,,2022,,1
+rn,bo,Donda,8,,2021,1,,2022,,1
+rn,lb,Donda,8,,2021,1,,2022,,1
+rn,fy,Donda,8,,2021,1,,2022,,1
+rn,din,Donda,8,,2021,1,,2022,,1
+rn,rb,Donda,8,,2021,1,,2022,,1
+rn,fnz,Donda,8,,2021,1,,2022,,1
+rn,amw,Donda,8,,2021,1,,2022,,1
+rn,warc,Donda,8,,2021,1,,2022,,1
+rn,ch,Donda,8,,2021,1,,2022,,1
+rn,cu,Donda,8,,2021,1,,2022,,1
+rn,tew,Donda,8,,2021,1,,2022,,1
+rn,wall,Donda,8,,2021,1,,2022,,1
+rn,nab,Donda,8,,2021,1,,2022,,1
+rn,and,Donda,8,,2021,1,,2022,,1
+rn,daw,Donda,8,,2021,1,,2022,,1
+swb,kw,Donda,8,,2021,1,,2022,,1
+swb,tw,Donda,8,,2021,1,,2022,,1
+swb,key,Donda,8,,2021,1,,2022,,1
+swb,oj,Donda,8,,2021,1,,2022,,1
+swb,mk,Donda,8,,2021,1,,2022,,1
+swb,dem,Donda,8,,2021,1,,2022,,1
+swb,sso,Donda,8,,2021,1,,2022,,1
+swb,jw,Donda,8,,2021,1,,2022,,1
+swb,ng,Donda,8,,2021,1,,2022,,1
+swb,aas,Donda,8,,2021,1,,2022,,1
+swb,al,Donda,8,,2021,1,,2022,,1
+swb,fv,Donda,8,,2021,1,,2022,,1
+swb,ro,Donda,8,,2021,1,,2022,,1
+swb,ay,Donda,8,,2021,1,,2022,,1
+swb,dael,Donda,8,,2021,1,,2022,,1
+swb,sl,Donda,8,,2021,1,,2022,,1
+swb,bdb,Donda,8,,2021,1,,2022,,1
+swb,djk,Donda,8,,2021,1,,2022,,1
+swb,roj,Donda,8,,2021,1,,2022,,1
+swb,na,Donda,8,,2021,1,,2022,,1
+swb,c,Donda,8,,2021,1,,2022,,1
+swb,zt,Donda,8,,2021,1,,2022,,1
+swb,ttt,Donda,8,,2021,1,,2022,,1
+swb,au,Donda,8,,2021,1,,2022,,1
+swb,drt,Donda,8,,2021,1,,2022,,1
+swb,wh,Donda,8,,2021,1,,2022,,1
+swb,bo,Donda,8,,2021,1,,2022,,1
+swb,lb,Donda,8,,2021,1,,2022,,1
+swb,fy,Donda,8,,2021,1,,2022,,1
+swb,din,Donda,8,,2021,1,,2022,,1
+swb,rb,Donda,8,,2021,1,,2022,,1
+swb,fnz,Donda,8,,2021,1,,2022,,1
+swb,amw,Donda,8,,2021,1,,2022,,1
+swb,warc,Donda,8,,2021,1,,2022,,1
+swb,ch,Donda,8,,2021,1,,2022,,1
+swb,cu,Donda,8,,2021,1,,2022,,1
+swb,tew,Donda,8,,2021,1,,2022,,1
+swb,wall,Donda,8,,2021,1,,2022,,1
+swb,nab,Donda,8,,2021,1,,2022,,1
+swb,and,Donda,8,,2021,1,,2022,,1
+swb,daw,Donda,8,,2021,1,,2022,,1
+swb,rn,Donda,8,,2021,1,,2022,,1
+gs,kw,Donda,8,,2021,1,,2022,,1
+gs,tw,Donda,8,,2021,1,,2022,,1
+gs,key,Donda,8,,2021,1,,2022,,1
+gs,oj,Donda,8,,2021,1,,2022,,1
+gs,mk,Donda,8,,2021,1,,2022,,1
+gs,dem,Donda,8,,2021,1,,2022,,1
+gs,sso,Donda,8,,2021,1,,2022,,1
+gs,jw,Donda,8,,2021,1,,2022,,1
+gs,ng,Donda,8,,2021,1,,2022,,1
+gs,aas,Donda,8,,2021,1,,2022,,1
+gs,al,Donda,8,,2021,1,,2022,,1
+gs,fv,Donda,8,,2021,1,,2022,,1
+gs,ro,Donda,8,,2021,1,,2022,,1
+gs,ay,Donda,8,,2021,1,,2022,,1
+gs,dael,Donda,8,,2021,1,,2022,,1
+gs,sl,Donda,8,,2021,1,,2022,,1
+gs,bdb,Donda,8,,2021,1,,2022,,1
+gs,djk,Donda,8,,2021,1,,2022,,1
+gs,roj,Donda,8,,2021,1,,2022,,1
+gs,na,Donda,8,,2021,1,,2022,,1
+gs,c,Donda,8,,2021,1,,2022,,1
+gs,zt,Donda,8,,2021,1,,2022,,1
+gs,ttt,Donda,8,,2021,1,,2022,,1
+gs,au,Donda,8,,2021,1,,2022,,1
+gs,drt,Donda,8,,2021,1,,2022,,1
+gs,wh,Donda,8,,2021,1,,2022,,1
+gs,bo,Donda,8,,2021,1,,2022,,1
+gs,lb,Donda,8,,2021,1,,2022,,1
+gs,fy,Donda,8,,2021,1,,2022,,1
+gs,din,Donda,8,,2021,1,,2022,,1
+gs,rb,Donda,8,,2021,1,,2022,,1
+gs,fnz,Donda,8,,2021,1,,2022,,1
+gs,amw,Donda,8,,2021,1,,2022,,1
+gs,warc,Donda,8,,2021,1,,2022,,1
+gs,ch,Donda,8,,2021,1,,2022,,1
+gs,cu,Donda,8,,2021,1,,2022,,1
+gs,tew,Donda,8,,2021,1,,2022,,1
+gs,wall,Donda,8,,2021,1,,2022,,1
+gs,nab,Donda,8,,2021,1,,2022,,1
+gs,and,Donda,8,,2021,1,,2022,,1
+gs,daw,Donda,8,,2021,1,,2022,,1
+gs,rn,Donda,8,,2021,1,,2022,,1
+gs,swb,Donda,8,,2021,1,,2022,,1
+cb,kw,Donda,8,,2021,1,,2022,,1
+cb,tw,Donda,8,,2021,1,,2022,,1
+cb,key,Donda,8,,2021,1,,2022,,1
+cb,oj,Donda,8,,2021,1,,2022,,1
+cb,mk,Donda,8,,2021,1,,2022,,1
+cb,dem,Donda,8,,2021,1,,2022,,1
+cb,sso,Donda,8,,2021,1,,2022,,1
+cb,jw,Donda,8,,2021,1,,2022,,1
+cb,ng,Donda,8,,2021,1,,2022,,1
+cb,aas,Donda,8,,2021,1,,2022,,1
+cb,al,Donda,8,,2021,1,,2022,,1
+cb,fv,Donda,8,,2021,1,,2022,,1
+cb,ro,Donda,8,,2021,1,,2022,,1
+cb,ay,Donda,8,,2021,1,,2022,,1
+cb,dael,Donda,8,,2021,1,,2022,,1
+cb,sl,Donda,8,,2021,1,,2022,,1
+cb,bdb,Donda,8,,2021,1,,2022,,1
+cb,djk,Donda,8,,2021,1,,2022,,1
+cb,roj,Donda,8,,2021,1,,2022,,1
+cb,na,Donda,8,,2021,1,,2022,,1
+cb,c,Donda,8,,2021,1,,2022,,1
+cb,zt,Donda,8,,2021,1,,2022,,1
+cb,ttt,Donda,8,,2021,1,,2022,,1
+cb,au,Donda,8,,2021,1,,2022,,1
+cb,drt,Donda,8,,2021,1,,2022,,1
+cb,wh,Donda,8,,2021,1,,2022,,1
+cb,bo,Donda,8,,2021,1,,2022,,1
+cb,lb,Donda,8,,2021,1,,2022,,1
+cb,fy,Donda,8,,2021,1,,2022,,1
+cb,din,Donda,8,,2021,1,,2022,,1
+cb,rb,Donda,8,,2021,1,,2022,,1
+cb,fnz,Donda,8,,2021,1,,2022,,1
+cb,amw,Donda,8,,2021,1,,2022,,1
+cb,warc,Donda,8,,2021,1,,2022,,1
+cb,ch,Donda,8,,2021,1,,2022,,1
+cb,cu,Donda,8,,2021,1,,2022,,1
+cb,tew,Donda,8,,2021,1,,2022,,1
+cb,wall,Donda,8,,2021,1,,2022,,1
+cb,nab,Donda,8,,2021,1,,2022,,1
+cb,and,Donda,8,,2021,1,,2022,,1
+cb,daw,Donda,8,,2021,1,,2022,,1
+cb,rn,Donda,8,,2021,1,,2022,,1
+cb,swb,Donda,8,,2021,1,,2022,,1
+cb,gs,Donda,8,,2021,1,,2022,,1
+mwa,kw,Donda,8,,2021,1,,2022,,1
+mwa,tw,Donda,8,,2021,1,,2022,,1
+mwa,key,Donda,8,,2021,1,,2022,,1
+mwa,oj,Donda,8,,2021,1,,2022,,1
+mwa,mk,Donda,8,,2021,1,,2022,,1
+mwa,dem,Donda,8,,2021,1,,2022,,1
+mwa,sso,Donda,8,,2021,1,,2022,,1
+mwa,jw,Donda,8,,2021,1,,2022,,1
+mwa,ng,Donda,8,,2021,1,,2022,,1
+mwa,aas,Donda,8,,2021,1,,2022,,1
+mwa,al,Donda,8,,2021,1,,2022,,1
+mwa,fv,Donda,8,,2021,1,,2022,,1
+mwa,ro,Donda,8,,2021,1,,2022,,1
+mwa,ay,Donda,8,,2021,1,,2022,,1
+mwa,dael,Donda,8,,2021,1,,2022,,1
+mwa,sl,Donda,8,,2021,1,,2022,,1
+mwa,bdb,Donda,8,,2021,1,,2022,,1
+mwa,djk,Donda,8,,2021,1,,2022,,1
+mwa,roj,Donda,8,,2021,1,,2022,,1
+mwa,na,Donda,8,,2021,1,,2022,,1
+mwa,c,Donda,8,,2021,1,,2022,,1
+mwa,zt,Donda,8,,2021,1,,2022,,1
+mwa,ttt,Donda,8,,2021,1,,2022,,1
+mwa,au,Donda,8,,2021,1,,2022,,1
+mwa,drt,Donda,8,,2021,1,,2022,,1
+mwa,wh,Donda,8,,2021,1,,2022,,1
+mwa,bo,Donda,8,,2021,1,,2022,,1
+mwa,lb,Donda,8,,2021,1,,2022,,1
+mwa,fy,Donda,8,,2021,1,,2022,,1
+mwa,din,Donda,8,,2021,1,,2022,,1
+mwa,rb,Donda,8,,2021,1,,2022,,1
+mwa,fnz,Donda,8,,2021,1,,2022,,1
+mwa,amw,Donda,8,,2021,1,,2022,,1
+mwa,warc,Donda,8,,2021,1,,2022,,1
+mwa,ch,Donda,8,,2021,1,,2022,,1
+mwa,cu,Donda,8,,2021,1,,2022,,1
+mwa,tew,Donda,8,,2021,1,,2022,,1
+mwa,wall,Donda,8,,2021,1,,2022,,1
+mwa,nab,Donda,8,,2021,1,,2022,,1
+mwa,and,Donda,8,,2021,1,,2022,,1
+mwa,daw,Donda,8,,2021,1,,2022,,1
+mwa,rn,Donda,8,,2021,1,,2022,,1
+mwa,swb,Donda,8,,2021,1,,2022,,1
+mwa,gs,Donda,8,,2021,1,,2022,,1
+mw,cb,Donda,8,,2021,1,,2022,,1
+fal,kw,Donda,8,,2021,1,,2022,,1
+fal,tw,Donda,8,,2021,1,,2022,,1
+fal,key,Donda,8,,2021,1,,2022,,1
+fal,oj,Donda,8,,2021,1,,2022,,1
+fal,mk,Donda,8,,2021,1,,2022,,1
+fal,dem,Donda,8,,2021,1,,2022,,1
+fal,sso,Donda,8,,2021,1,,2022,,1
+fal,jw,Donda,8,,2021,1,,2022,,1
+fal,ng,Donda,8,,2021,1,,2022,,1
+fal,aas,Donda,8,,2021,1,,2022,,1
+fal,al,Donda,8,,2021,1,,2022,,1
+fal,fv,Donda,8,,2021,1,,2022,,1
+fal,ro,Donda,8,,2021,1,,2022,,1
+fal,ay,Donda,8,,2021,1,,2022,,1
+fal,dael,Donda,8,,2021,1,,2022,,1
+fal,sl,Donda,8,,2021,1,,2022,,1
+fal,bdb,Donda,8,,2021,1,,2022,,1
+fal,djk,Donda,8,,2021,1,,2022,,1
+fal,roj,Donda,8,,2021,1,,2022,,1
+fal,na,Donda,8,,2021,1,,2022,,1
+fal,c,Donda,8,,2021,1,,2022,,1
+fal,zt,Donda,8,,2021,1,,2022,,1
+fal,ttt,Donda,8,,2021,1,,2022,,1
+fal,au,Donda,8,,2021,1,,2022,,1
+fal,drt,Donda,8,,2021,1,,2022,,1
+fal,wh,Donda,8,,2021,1,,2022,,1
+fal,bo,Donda,8,,2021,1,,2022,,1
+fal,lb,Donda,8,,2021,1,,2022,,1
+fal,fy,Donda,8,,2021,1,,2022,,1
+fal,din,Donda,8,,2021,1,,2022,,1
+fal,rb,Donda,8,,2021,1,,2022,,1
+fal,fnz,Donda,8,,2021,1,,2022,,1
+fal,amw,Donda,8,,2021,1,,2022,,1
+fal,warc,Donda,8,,2021,1,,2022,,1
+fal,ch,Donda,8,,2021,1,,2022,,1
+fal,cu,Donda,8,,2021,1,,2022,,1
+fal,tew,Donda,8,,2021,1,,2022,,1
+fal,wall,Donda,8,,2021,1,,2022,,1
+fal,nab,Donda,8,,2021,1,,2022,,1
+fal,and,Donda,8,,2021,1,,2022,,1
+fal,daw,Donda,8,,2021,1,,2022,,1
+fal,rn,Donda,8,,2021,1,,2022,,1
+fal,swb,Donda,8,,2021,1,,2022,,1
+fal,gs,Donda,8,,2021,1,,2022,,1
+fal,cb,Donda,8,,2021,1,,2022,,1
+fal,mwa,Donda,8,,2021,1,,2022,,1
+suc,kw,Donda,8,,2021,1,,2022,,1
+suc,tw,Donda,8,,2021,1,,2022,,1
+suc,key,Donda,8,,2021,1,,2022,,1
+suc,oj,Donda,8,,2021,1,,2022,,1
+suc,mk,Donda,8,,2021,1,,2022,,1
+suc,dem,Donda,8,,2021,1,,2022,,1
+suc,sso,Donda,8,,2021,1,,2022,,1
+suc,jw,Donda,8,,2021,1,,2022,,1
+suc,ng,Donda,8,,2021,1,,2022,,1
+suc,aas,Donda,8,,2021,1,,2022,,1
+suc,al,Donda,8,,2021,1,,2022,,1
+suc,fv,Donda,8,,2021,1,,2022,,1
+suc,ro,Donda,8,,2021,1,,2022,,1
+suc,ay,Donda,8,,2021,1,,2022,,1
+suc,dael,Donda,8,,2021,1,,2022,,1
+suc,sl,Donda,8,,2021,1,,2022,,1
+suc,bdb,Donda,8,,2021,1,,2022,,1
+suc,djk,Donda,8,,2021,1,,2022,,1
+suc,roj,Donda,8,,2021,1,,2022,,1
+suc,na,Donda,8,,2021,1,,2022,,1
+suc,c,Donda,8,,2021,1,,2022,,1
+suc,zt,Donda,8,,2021,1,,2022,,1
+suc,ttt,Donda,8,,2021,1,,2022,,1
+suc,au,Donda,8,,2021,1,,2022,,1
+suc,drt,Donda,8,,2021,1,,2022,,1
+suc,wh,Donda,8,,2021,1,,2022,,1
+suc,bo,Donda,8,,2021,1,,2022,,1
+suc,lb,Donda,8,,2021,1,,2022,,1
+suc,fy,Donda,8,,2021,1,,2022,,1
+suc,din,Donda,8,,2021,1,,2022,,1
+suc,rb,Donda,8,,2021,1,,2022,,1
+suc,fnz,Donda,8,,2021,1,,2022,,1
+suc,amw,Donda,8,,2021,1,,2022,,1
+suc,warc,Donda,8,,2021,1,,2022,,1
+suc,ch,Donda,8,,2021,1,,2022,,1
+suc,cu,Donda,8,,2021,1,,2022,,1
+suc,tew,Donda,8,,2021,1,,2022,,1
+suc,wl,Donda,8,,2021,1,,2022,,1
+suc,nab,Donda,8,,2021,1,,2022,,1
+suc,and,Donda,8,,2021,1,,2022,,1
+suc,daw,Donda,8,,2021,1,,2022,,1
+suc,rn,Donda,8,,2021,1,,2022,,1
+suc,swb,Donda,8,,2021,1,,2022,,1
+suc,gs,Donda,8,,2021,1,,2022,,1
+suc,cb,Donda,8,,2021,1,,2022,,1
+suc,mwa,Donda,8,,2021,1,,2022,,1
+suc,fal,Donda,8,,2021,1,,2022,,1
+shu,kw,Donda,8,,2021,1,,2022,,1
+shu,tw,Donda,8,,2021,1,,2022,,1
+shu,key,Donda,8,,2021,1,,2022,,1
+shu,oj,Donda,8,,2021,1,,2022,,1
+shu,mk,Donda,8,,2021,1,,2022,,1
+shu,dem,Donda,8,,2021,1,,2022,,1
+shu,sso,Donda,8,,2021,1,,2022,,1
+shu,jw,Donda,8,,2021,1,,2022,,1
+shu,ng,Donda,8,,2021,1,,2022,,1
+shu,aas,Donda,8,,2021,1,,2022,,1
+shu,al,Donda,8,,2021,1,,2022,,1
+shu,fv,Donda,8,,2021,1,,2022,,1
+shu,ro,Donda,8,,2021,1,,2022,,1
+shu,ay,Donda,8,,2021,1,,2022,,1
+shu,dael,Donda,8,,2021,1,,2022,,1
+shu,sl,Donda,8,,2021,1,,2022,,1
+shu,bdb,Donda,8,,2021,1,,2022,,1
+shu,djk,Donda,8,,2021,1,,2022,,1
+shu,roj,Donda,8,,2021,1,,2022,,1
+shu,na,Donda,8,,2021,1,,2022,,1
+shu,c,Donda,8,,2021,1,,2022,,1
+shu,zt,Donda,8,,2021,1,,2022,,1
+shu,ttt,Donda,8,,2021,1,,2022,,1
+shu,au,Donda,8,,2021,1,,2022,,1
+shu,drt,Donda,8,,2021,1,,2022,,1
+shu,wh,Donda,8,,2021,1,,2022,,1
+shu,bo,Donda,8,,2021,1,,2022,,1
+shu,lb,Donda,8,,2021,1,,2022,,1
+shu,fy,Donda,8,,2021,1,,2022,,1
+shu,din,Donda,8,,2021,1,,2022,,1
+shu,rb,Donda,8,,2021,1,,2022,,1
+shu,fnz,Donda,8,,2021,1,,2022,,1
+shu,amw,Donda,8,,2021,1,,2022,,1
+shu,warc,Donda,8,,2021,1,,2022,,1
+shu,ch,Donda,8,,2021,1,,2022,,1
+shu,cu,Donda,8,,2021,1,,2022,,1
+shu,tew,Donda,8,,2021,1,,2022,,1
+shu,wall,Donda,8,,2021,1,,2022,,1
+shu,nab,Donda,8,,2021,1,,2022,,1
+shu,and,Donda,8,,2021,1,,2022,,1
+shu,daw,Donda,8,,2021,1,,2022,,1
+shu,rn,Donda,8,,2021,1,,2022,,1
+shu,swb,Donda,8,,2021,1,,2022,,1
+shu,gs,Donda,8,,2021,1,,2022,,1
+shu,cb,Donda,8,,2021,1,,2022,,1
+shu,mwa,Donda,8,,2021,1,,2022,,1
+shu,fal,Donda,8,,2021,1,,2022,,1
+shu,suc,Donda,8,,2021,1,,2022,,1
+bv,kw,Donda,8,,2021,1,,2022,,1
+bv,tw,Donda,8,,2021,1,,2022,,1
+bv,key,Donda,8,,2021,1,,2022,,1
+bv,oj,Donda,8,,2021,1,,2022,,1
+bv,mk,Donda,8,,2021,1,,2022,,1
+bv,dem,Donda,8,,2021,1,,2022,,1
+bv,sso,Donda,8,,2021,1,,2022,,1
+bv,jw,Donda,8,,2021,1,,2022,,1
+bv,ng,Donda,8,,2021,1,,2022,,1
+bv,aas,Donda,8,,2021,1,,2022,,1
+bv,al,Donda,8,,2021,1,,2022,,1
+bv,fv,Donda,8,,2021,1,,2022,,1
+bv,ro,Donda,8,,2021,1,,2022,,1
+bv,ay,Donda,8,,2021,1,,2022,,1
+bv,dael,Donda,8,,2021,1,,2022,,1
+bv,sl,Donda,8,,2021,1,,2022,,1
+bv,bdb,Donda,8,,2021,1,,2022,,1
+bv,djk,Donda,8,,2021,1,,2022,,1
+bv,roj,Donda,8,,2021,1,,2022,,1
+bv,na,Donda,8,,2021,1,,2022,,1
+bv,c,Donda,8,,2021,1,,2022,,1
+bv,zt,Donda,8,,2021,1,,2022,,1
+bv,ttt,Donda,8,,2021,1,,2022,,1
+bv,au,Donda,8,,2021,1,,2022,,1
+bv,drt,Donda,8,,2021,1,,2022,,1
+bv,wh,Donda,8,,2021,1,,2022,,1
+bv,bo,Donda,8,,2021,1,,2022,,1
+bv,lb,Donda,8,,2021,1,,2022,,1
+bv,fy,Donda,8,,2021,1,,2022,,1
+bv,din,Donda,8,,2021,1,,2022,,1
+bv,rb,Donda,8,,2021,1,,2022,,1
+bv,fnz,Donda,8,,2021,1,,2022,,1
+bv,amw,Donda,8,,2021,1,,2022,,1
+bv,warc,Donda,8,,2021,1,,2022,,1
+bv,ch,Donda,8,,2021,1,,2022,,1
+bv,cu,Donda,8,,2021,1,,2022,,1
+bv,tew,Donda,8,,2021,1,,2022,,1
+bv,wl,Donda,8,,2021,1,,2022,,1
+bv,nab,Donda,8,,2021,1,,2022,,1
+bv,and,Donda,8,,2021,1,,2022,,1
+bv,daw,Donda,8,,2021,1,,2022,,1
+bv,rn,Donda,8,,2021,1,,2022,,1
+bv,swb,Donda,8,,2021,1,,2022,,1
+bv,gs,Donda,8,,2021,1,,2022,,1
+bv,cb,Donda,8,,2021,1,,2022,,1
+bv,mwa,Donda,8,,2021,1,,2022,,1
+bv,fal,Donda,8,,2021,1,,2022,,1
+bv,suc,Donda,8,,2021,1,,2022,,1
+bv,shu,Donda,8,,2021,1,,2022,,1
+jeb,kw,Donda,8,,2021,1,,2022,,1
+jeb,tw,Donda,8,,2021,1,,2022,,1
+jeb,key,Donda,8,,2021,1,,2022,,1
+jeb,oj,Donda,8,,2021,1,,2022,,1
+jeb,mk,Donda,8,,2021,1,,2022,,1
+jeb,dem,Donda,8,,2021,1,,2022,,1
+jeb,sso,Donda,8,,2021,1,,2022,,1
+jeb,jw,Donda,8,,2021,1,,2022,,1
+jeb,ng,Donda,8,,2021,1,,2022,,1
+jeb,aas,Donda,8,,2021,1,,2022,,1
+jeb,al,Donda,8,,2021,1,,2022,,1
+jeb,fv,Donda,8,,2021,1,,2022,,1
+jeb,ro,Donda,8,,2021,1,,2022,,1
+jeb,ay,Donda,8,,2021,1,,2022,,1
+jeb,dael,Donda,8,,2021,1,,2022,,1
+jeb,sl,Donda,8,,2021,1,,2022,,1
+jeb,bdb,Donda,8,,2021,1,,2022,,1
+jeb,djk,Donda,8,,2021,1,,2022,,1
+jeb,roj,Donda,8,,2021,1,,2022,,1
+jeb,na,Donda,8,,2021,1,,2022,,1
+jeb,c,Donda,8,,2021,1,,2022,,1
+jeb,zt,Donda,8,,2021,1,,2022,,1
+jeb,ttt,Donda,8,,2021,1,,2022,,1
+jeb,au,Donda,8,,2021,1,,2022,,1
+jeb,drt,Donda,8,,2021,1,,2022,,1
+jeb,wh,Donda,8,,2021,1,,2022,,1
+jeb,bo,Donda,8,,2021,1,,2022,,1
+jeb,lb,Donda,8,,2021,1,,2022,,1
+jeb,fy,Donda,8,,2021,1,,2022,,1
+jeb,din,Donda,8,,2021,1,,2022,,1
+jeb,rb,Donda,8,,2021,1,,2022,,1
+jeb,fnz,Donda,8,,2021,1,,2022,,1
+jeb,amw,Donda,8,,2021,1,,2022,,1
+jeb,warc,Donda,8,,2021,1,,2022,,1
+jeb,ch,Donda,8,,2021,1,,2022,,1
+jeb,cu,Donda,8,,2021,1,,2022,,1
+jeb,tew,Donda,8,,2021,1,,2022,,1
+jeb,wall,Donda,8,,2021,1,,2022,,1
+jeb,nab,Donda,8,,2021,1,,2022,,1
+jeb,and,Donda,8,,2021,1,,2022,,1
+jeb,daw,Donda,8,,2021,1,,2022,,1
+jeb,rn,Donda,8,,2021,1,,2022,,1
+jeb,swb,Donda,8,,2021,1,,2022,,1
+jeb,gs,Donda,8,,2021,1,,2022,,1
+jeb,cb,Donda,8,,2021,1,,2022,,1
+jeb,mwa,Donda,8,,2021,1,,2022,,1
+jeb,fal,Donda,8,,2021,1,,2022,,1
+jeb,suc,Donda,8,,2021,1,,2022,,1
+jeb,shu,Donda,8,,2021,1,,2022,,1
+jeb,bv,Donda,8,,2021,1,,2022,,1
+cab,kw,Donda,8,,2021,1,,2022,,1
+cab,tw,Donda,8,,2021,1,,2022,,1
+cab,key,Donda,8,,2021,1,,2022,,1
+cab,oj,Donda,8,,2021,1,,2022,,1
+cab,mk,Donda,8,,2021,1,,2022,,1
+cab,dem,Donda,8,,2021,1,,2022,,1
+cab,sso,Donda,8,,2021,1,,2022,,1
+cab,jw,Donda,8,,2021,1,,2022,,1
+cab,ng,Donda,8,,2021,1,,2022,,1
+cab,aas,Donda,8,,2021,1,,2022,,1
+cab,al,Donda,8,,2021,1,,2022,,1
+cab,fv,Donda,8,,2021,1,,2022,,1
+cab,ro,Donda,8,,2021,1,,2022,,1
+cab,ay,Donda,8,,2021,1,,2022,,1
+cab,dael,Donda,8,,2021,1,,2022,,1
+cab,sl,Donda,8,,2021,1,,2022,,1
+cab,bdb,Donda,8,,2021,1,,2022,,1
+cab,djk,Donda,8,,2021,1,,2022,,1
+cab,roj,Donda,8,,2021,1,,2022,,1
+cab,na,Donda,8,,2021,1,,2022,,1
+cab,c,Donda,8,,2021,1,,2022,,1
+cab,zt,Donda,8,,2021,1,,2022,,1
+cab,ttt,Donda,8,,2021,1,,2022,,1
+cab,au,Donda,8,,2021,1,,2022,,1
+cab,drt,Donda,8,,2021,1,,2022,,1
+cab,wh,Donda,8,,2021,1,,2022,,1
+cab,bo,Donda,8,,2021,1,,2022,,1
+cab,lb,Donda,8,,2021,1,,2022,,1
+cab,fy,Donda,8,,2021,1,,2022,,1
+cab,din,Donda,8,,2021,1,,2022,,1
+cab,rb,Donda,8,,2021,1,,2022,,1
+cab,fnz,Donda,8,,2021,1,,2022,,1
+cab,amw,Donda,8,,2021,1,,2022,,1
+cab,warc,Donda,8,,2021,1,,2022,,1
+cab,ch,Donda,8,,2021,1,,2022,,1
+cab,cu,Donda,8,,2021,1,,2022,,1
+cab,tew,Donda,8,,2021,1,,2022,,1
+cab,wall,Donda,8,,2021,1,,2022,,1
+cab,nab,Donda,8,,2021,1,,2022,,1
+cab,and,Donda,8,,2021,1,,2022,,1
+cab,daw,Donda,8,,2021,1,,2022,,1
+cab,rn,Donda,8,,2021,1,,2022,,1
+cab,swb,Donda,8,,2021,1,,2022,,1
+cab,gs,Donda,8,,2021,1,,2022,,1
+cab,cb,Donda,8,,2021,1,,2022,,1
+cab,mwa,Donda,8,,2021,1,,2022,,1
+cab,fal,Donda,8,,2021,1,,2022,,1
+cab,suc,Donda,8,,2021,1,,2022,,1
+cab,shu,Donda,8,,2021,1,,2022,,1
+cab,bv,Donda,8,,2021,1,,2022,,1
+cab,jeb,Donda,8,,2021,1,,2022,,1
+evax,kw,Donda,8,,2021,1,,2022,,1
+evax,tw,Donda,8,,2021,1,,2022,,1
+evax,key,Donda,8,,2021,1,,2022,,1
+evax,oj,Donda,8,,2021,1,,2022,,1
+evax,mk,Donda,8,,2021,1,,2022,,1
+evax,dem,Donda,8,,2021,1,,2022,,1
+evax,sso,Donda,8,,2021,1,,2022,,1
+evax,jw,Donda,8,,2021,1,,2022,,1
+evax,ng,Donda,8,,2021,1,,2022,,1
+evax,aas,Donda,8,,2021,1,,2022,,1
+evax,al,Donda,8,,2021,1,,2022,,1
+evax,fv,Donda,8,,2021,1,,2022,,1
+evax,ro,Donda,8,,2021,1,,2022,,1
+evax,ay,Donda,8,,2021,1,,2022,,1
+evax,dael,Donda,8,,2021,1,,2022,,1
+evax,sl,Donda,8,,2021,1,,2022,,1
+evax,bdb,Donda,8,,2021,1,,2022,,1
+evax,djk,Donda,8,,2021,1,,2022,,1
+evax,roj,Donda,8,,2021,1,,2022,,1
+evax,na,Donda,8,,2021,1,,2022,,1
+evax,c,Donda,8,,2021,1,,2022,,1
+evax,zt,Donda,8,,2021,1,,2022,,1
+evax,ttt,Donda,8,,2021,1,,2022,,1
+evax,au,Donda,8,,2021,1,,2022,,1
+evax,drt,Donda,8,,2021,1,,2022,,1
+evax,wh,Donda,8,,2021,1,,2022,,1
+evax,bo,Donda,8,,2021,1,,2022,,1
+evax,lb,Donda,8,,2021,1,,2022,,1
+evax,fy,Donda,8,,2021,1,,2022,,1
+evax,din,Donda,8,,2021,1,,2022,,1
+evax,rb,Donda,8,,2021,1,,2022,,1
+evax,fnz,Donda,8,,2021,1,,2022,,1
+evax,amw,Donda,8,,2021,1,,2022,,1
+evax,warc,Donda,8,,2021,1,,2022,,1
+evax,ch,Donda,8,,2021,1,,2022,,1
+evax,cu,Donda,8,,2021,1,,2022,,1
+evax,tew,Donda,8,,2021,1,,2022,,1
+evax,wall,Donda,8,,2021,1,,2022,,1
+evax,nab,Donda,8,,2021,1,,2022,,1
+evax,and,Donda,8,,2021,1,,2022,,1
+evax,daw,Donda,8,,2021,1,,2022,,1
+evax,rn,Donda,8,,2021,1,,2022,,1
+evax,swb,Donda,8,,2021,1,,2022,,1
+evax,gs,Donda,8,,2021,1,,2022,,1
+evax,cb,Donda,8,,2021,1,,2022,,1
+evax,mwa,Donda,8,,2021,1,,2022,,1
+evax,fal,Donda,8,,2021,1,,2022,,1
+evax,suc,Donda,8,,2021,1,,2022,,1
+evax,shu,Donda,8,,2021,1,,2022,,1
+evax,bv,Donda,8,,2021,1,,2022,,1
+evax,jeb,Donda,8,,2021,1,,2022,,1
+evax,cab,Donda,8,,2021,1,,2022,,1
+tw,bey,lemonade,3,,2016,7,1,2017,1,2
+kg,bey,lemonade,3,,2016,7,1,2017,1,2
+kg,tw,lemonade,3,,2016,7,1,2017,1,2
+dip,bey,lemonade,3,,2016,7,1,2017,1,2
+dip,tw,lemonade,3,,2016,7,1,2017,1,2
+dip,kg,lemonade,3,,2016,7,1,2017,1,2
+ezk,bey,lemonade,3,,2016,7,1,2017,1,2
+ezk,tw,lemonade,3,,2016,7,1,2017,1,2
+ezk,kg,lemonade,3,,2016,7,1,2017,1,2
+ezk,dip,lemonade,3,,2016,7,1,2017,1,2
+jaw,bey,lemonade,3,,2016,7,1,2017,1,2
+jaw,tw,lemonade,3,,2016,7,1,2017,1,2
+jaw,kg,lemonade,3,,2016,7,1,2017,1,2
+jaw,dip,lemonade,3,,2016,7,1,2017,1,2
+jaw,ezk,lemonade,3,,2016,7,1,2017,1,2
+ddx,bey,lemonade,3,,2016,7,1,2017,1,2
+ddx,tw,lemonade,3,,2016,7,1,2017,1,2
+ddx,kg,lemonade,3,,2016,7,1,2017,1,2
+ddx,dip,lemonade,3,,2016,7,1,2017,1,2
+ddx,ezk,lemonade,3,,2016,7,1,2017,1,2
+ddx,jaw,lemonade,3,,2016,7,1,2017,1,2
+dgo,bey,lemonade,3,,2016,7,1,2017,1,2
+dgo,tw,lemonade,3,,2016,7,1,2017,1,2
+dgo,kg,lemonade,3,,2016,7,1,2017,1,2
+dgo,dip,lemonade,3,,2016,7,1,2017,1,2
+dgo,ezk,lemonade,3,,2016,7,1,2017,1,2
+dgo,jaw,lemonade,3,,2016,7,1,2017,1,2
+dgo,ddx,lemonade,3,,2016,7,1,2017,1,2
+mx,bey,lemonade,3,,2016,7,1,2017,1,2
+mx,tw,lemonade,3,,2016,7,1,2017,1,2
+mx,kg,lemonade,3,,2016,7,1,2017,1,2
+mx,dip,lemonade,3,,2016,7,1,2017,1,2
+mx,ezk,lemonade,3,,2016,7,1,2017,1,2
+mx,jaw,lemonade,3,,2016,7,1,2017,1,2
+mx,ddx,lemonade,3,,2016,7,1,2017,1,2
+mx,dgo,lemonade,3,,2016,7,1,2017,1,2
+hb,bey,lemonade,3,,2016,7,1,2017,1,2
+hb,tw,lemonade,3,,2016,7,1,2017,1,2
+hb,kg,lemonade,3,,2016,7,1,2017,1,2
+hb,dip,lemonade,3,,2016,7,1,2017,1,2
+hb,ezk,lemonade,3,,2016,7,1,2017,1,2
+hb,jaw,lemonade,3,,2016,7,1,2017,1,2
+hb,ddx,lemonade,3,,2016,7,1,2017,1,2
+hb,dgo,lemonade,3,,2016,7,1,2017,1,2
+hb,mx,lemonade,3,,2016,7,1,2017,1,2
+boo,bey,lemonade,3,,2016,7,1,2017,1,2
+boo,tw,lemonade,3,,2016,7,1,2017,1,2
+boo,kg,lemonade,3,,2016,7,1,2017,1,2
+boo,dip,lemonade,3,,2016,7,1,2017,1,2
+boo,ezk,lemonade,3,,2016,7,1,2017,1,2
+boo,jaw,lemonade,3,,2016,7,1,2017,1,2
+boo,ddx,lemonade,3,,2016,7,1,2017,1,2
+boo,dgo,lemonade,3,,2016,7,1,2017,1,2
+boo,mx,lemonade,3,,2016,7,1,2017,1,2
+boo,hb,lemonade,3,,2016,7,1,2017,1,2
+dbs,bey,lemonade,3,,2016,7,1,2017,1,2
+dbs,tw,lemonade,3,,2016,7,1,2017,1,2
+dbs,kg,lemonade,3,,2016,7,1,2017,1,2
+dbs,dip,lemonade,3,,2016,7,1,2017,1,2
+dbs,ezk,lemonade,3,,2016,7,1,2017,1,2
+dbs,jaw,lemonade,3,,2016,7,1,2017,1,2
+dbs,ddx,lemonade,3,,2016,7,1,2017,1,2
+dbs,dgo,lemonade,3,,2016,7,1,2017,1,2
+dbs,mx,lemonade,3,,2016,7,1,2017,1,2
+dbs,hb,lemonade,3,,2016,7,1,2017,1,2
+dbs,boo,lemonade,3,,2016,7,1,2017,1,2
+bbd,bey,lemonade,3,,2016,7,1,2017,1,2
+bbd,tw,lemonade,3,,2016,7,1,2017,1,2
+bbd,kg,lemonade,3,,2016,7,1,2017,1,2
+bbd,dip,lemonade,3,,2016,7,1,2017,1,2
+bbd,ezk,lemonade,3,,2016,7,1,2017,1,2
+bbd,jaw,lemonade,3,,2016,7,1,2017,1,2
+bbd,ddx,lemonade,3,,2016,7,1,2017,1,2
+bbd,dgo,lemonade,3,,2016,7,1,2017,1,2
+bbd,mx,lemonade,3,,2016,7,1,2017,1,2
+bbd,hb,lemonade,3,,2016,7,1,2017,1,2
+bbd,boo,lemonade,3,,2016,7,1,2017,1,2
+bbd,dbs,lemonade,3,,2016,7,1,2017,1,2
+ade,bey,lemonade,3,,2016,7,1,2017,1,2
+ade,tw,lemonade,3,,2016,7,1,2017,1,2
+ade,kg,lemonade,3,,2016,7,1,2017,1,2
+ade,dip,lemonade,3,,2016,7,1,2017,1,2
+ade,ezk,lemonade,3,,2016,7,1,2017,1,2
+ade,jaw,lemonade,3,,2016,7,1,2017,1,2
+ade,ddx,lemonade,3,,2016,7,1,2017,1,2
+ade,dgo,lemonade,3,,2016,7,1,2017,1,2
+ade,mx,lemonade,3,,2016,7,1,2017,1,2
+ade,hb,lemonade,3,,2016,7,1,2017,1,2
+ade,boo,lemonade,3,,2016,7,1,2017,1,2
+ade,dbs,lemonade,3,,2016,7,1,2017,1,2
+ade,bbd,lemonade,3,,2016,7,1,2017,1,2
+mk,bey,lemonade,3,,2016,7,1,2017,1,2
+mk,tw,lemonade,3,,2016,7,1,2017,1,2
+mk,kg,lemonade,3,,2016,7,1,2017,1,2
+mk,dip,lemonade,3,,2016,7,1,2017,1,2
+mk,ezk,lemonade,3,,2016,7,1,2017,1,2
+mk,jaw,lemonade,3,,2016,7,1,2017,1,2
+mk,ddx,lemonade,3,,2016,7,1,2017,1,2
+mk,dgo,lemonade,3,,2016,7,1,2017,1,2
+mk,mx,lemonade,3,,2016,7,1,2017,1,2
+mk,hb,lemonade,3,,2016,7,1,2017,1,2
+mk,boo,lemonade,3,,2016,7,1,2017,1,2
+mk,dbs,lemonade,3,,2016,7,1,2017,1,2
+mk,bbd,lemonade,3,,2016,7,1,2017,1,2
+mk,ade,lemonade,3,,2016,7,1,2017,1,2
+vb,bey,lemonade,3,,2016,7,1,2017,1,2
+vb,tw,lemonade,3,,2016,7,1,2017,1,2
+vb,kg,lemonade,3,,2016,7,1,2017,1,2
+vb,dip,lemonade,3,,2016,7,1,2017,1,2
+vb,ezk,lemonade,3,,2016,7,1,2017,1,2
+vb,jaw,lemonade,3,,2016,7,1,2017,1,2
+vb,ddx,lemonade,3,,2016,7,1,2017,1,2
+vb,dgo,lemonade,3,,2016,7,1,2017,1,2
+vb,mx,lemonade,3,,2016,7,1,2017,1,2
+vb,hb,lemonade,3,,2016,7,1,2017,1,2
+vb,boo,lemonade,3,,2016,7,1,2017,1,2
+vb,dbs,lemonade,3,,2016,7,1,2017,1,2
+vb,bbd,lemonade,3,,2016,7,1,2017,1,2
+vb,ade,lemonade,3,,2016,7,1,2017,1,2
+vb,mk,lemonade,3,,2016,7,1,2017,1,2
+jab,bey,lemonade,3,,2016,7,1,2017,1,2
+jab,tw,lemonade,3,,2016,7,1,2017,1,2
+jab,kg,lemonade,3,,2016,7,1,2017,1,2
+jab,dip,lemonade,3,,2016,7,1,2017,1,2
+jab,ezk,lemonade,3,,2016,7,1,2017,1,2
+jab,jaw,lemonade,3,,2016,7,1,2017,1,2
+jab,ddx,lemonade,3,,2016,7,1,2017,1,2
+jab,dgo,lemonade,3,,2016,7,1,2017,1,2
+jab,mx,lemonade,3,,2016,7,1,2017,1,2
+jab,hb,lemonade,3,,2016,7,1,2017,1,2
+jab,boo,lemonade,3,,2016,7,1,2017,1,2
+jab,dbs,lemonade,3,,2016,7,1,2017,1,2
+jab,bbd,lemonade,3,,2016,7,1,2017,1,2
+jab,ade,lemonade,3,,2016,7,1,2017,1,2
+jab,mk,lemonade,3,,2016,7,1,2017,1,2
+jab,vb,lemonade,3,,2016,7,1,2017,1,2
+jco,bey,lemonade,3,,2016,7,1,2017,1,2
+jco,tw,lemonade,3,,2016,7,1,2017,1,2
+jco,kg,lemonade,3,,2016,7,1,2017,1,2
+jco,dip,lemonade,3,,2016,7,1,2017,1,2
+jco,ezk,lemonade,3,,2016,7,1,2017,1,2
+jco,jaw,lemonade,3,,2016,7,1,2017,1,2
+jco,ddx,lemonade,3,,2016,7,1,2017,1,2
+jco,dgo,lemonade,3,,2016,7,1,2017,1,2
+jco,mx,lemonade,3,,2016,7,1,2017,1,2
+jco,hb,lemonade,3,,2016,7,1,2017,1,2
+jco,boo,lemonade,3,,2016,7,1,2017,1,2
+jco,dbs,lemonade,3,,2016,7,1,2017,1,2
+jco,bbd,lemonade,3,,2016,7,1,2017,1,2
+jco,ade,lemonade,3,,2016,7,1,2017,1,2
+jco,mk,lemonade,3,,2016,7,1,2017,1,2
+jco,vb,lemonade,3,,2016,7,1,2017,1,2
+jco,jab,lemonade,3,,2016,7,1,2017,1,2
+jub,bey,lemonade,3,,2016,7,1,2017,1,2
+jub,tw,lemonade,3,,2016,7,1,2017,1,2
+jub,kg,lemonade,3,,2016,7,1,2017,1,2
+jub,dip,lemonade,3,,2016,7,1,2017,1,2
+jub,ezk,lemonade,3,,2016,7,1,2017,1,2
+jub,jaw,lemonade,3,,2016,7,1,2017,1,2
+jub,ddx,lemonade,3,,2016,7,1,2017,1,2
+jub,dgo,lemonade,3,,2016,7,1,2017,1,2
+jub,mx,lemonade,3,,2016,7,1,2017,1,2
+jub,hb,lemonade,3,,2016,7,1,2017,1,2
+jub,boo,lemonade,3,,2016,7,1,2017,1,2
+jub,dbs,lemonade,3,,2016,7,1,2017,1,2
+jub,bbd,lemonade,3,,2016,7,1,2017,1,2
+jub,ade,lemonade,3,,2016,7,1,2017,1,2
+jub,mk,lemonade,3,,2016,7,1,2017,1,2
+jub,vb,lemonade,3,,2016,7,1,2017,1,2
+jub,jab,lemonade,3,,2016,7,1,2017,1,2
+jub,jco,lemonade,3,,2016,7,1,2017,1,2
+khe,bey,lemonade,3,,2016,7,1,2017,1,2
+khe,tw,lemonade,3,,2016,7,1,2017,1,2
+khe,kg,lemonade,3,,2016,7,1,2017,1,2
+khe,dip,lemonade,3,,2016,7,1,2017,1,2
+khe,ezk,lemonade,3,,2016,7,1,2017,1,2
+khe,jaw,lemonade,3,,2016,7,1,2017,1,2
+khe,ddx,lemonade,3,,2016,7,1,2017,1,2
+khe,dgo,lemonade,3,,2016,7,1,2017,1,2
+khe,mx,lemonade,3,,2016,7,1,2017,1,2
+khe,hb,lemonade,3,,2016,7,1,2017,1,2
+khe,boo,lemonade,3,,2016,7,1,2017,1,2
+khe,dbs,lemonade,3,,2016,7,1,2017,1,2
+khe,bbd,lemonade,3,,2016,7,1,2017,1,2
+khe,ade,lemonade,3,,2016,7,1,2017,1,2
+khe,mk,lemonade,3,,2016,7,1,2017,1,2
+khe,vb,lemonade,3,,2016,7,1,2017,1,2
+khe,jab,lemonade,3,,2016,7,1,2017,1,2
+khe,jco,lemonade,3,,2016,7,1,2017,1,2
+khe,jub,lemonade,3,,2016,7,1,2017,1,2
+mwmi,bey,lemonade,3,,2016,7,1,2017,1,2
+mwmi,tw,lemonade,3,,2016,7,1,2017,1,2
+mwmi,kg,lemonade,3,,2016,7,1,2017,1,2
+mwmi,dip,lemonade,3,,2016,7,1,2017,1,2
+mwmi,ezk,lemonade,3,,2016,7,1,2017,1,2
+mwmi,jaw,lemonade,3,,2016,7,1,2017,1,2
+mwmi,ddx,lemonade,3,,2016,7,1,2017,1,2
+mwmi,dgo,lemonade,3,,2016,7,1,2017,1,2
+mwmi,mx,lemonade,3,,2016,7,1,2017,1,2
+mwmi,hb,lemonade,3,,2016,7,1,2017,1,2
+mwmi,boo,lemonade,3,,2016,7,1,2017,1,2
+mwmi,dbs,lemonade,3,,2016,7,1,2017,1,2
+mwmi,bbd,lemonade,3,,2016,7,1,2017,1,2
+mwmi,ade,lemonade,3,,2016,7,1,2017,1,2
+mwmi,mk,lemonade,3,,2016,7,1,2017,1,2
+mwmi,vb,lemonade,3,,2016,7,1,2017,1,2
+mwmi,jab,lemonade,3,,2016,7,1,2017,1,2
+mwmi,jco,lemonade,3,,2016,7,1,2017,1,2
+mwmi,jub,lemonade,3,,2016,7,1,2017,1,2
+mwmi,khe,lemonade,3,,2016,7,1,2017,1,2
+plu,bey,lemonade,3,,2016,7,1,2017,1,2
+plu,tw,lemonade,3,,2016,7,1,2017,1,2
+plu,kg,lemonade,3,,2016,7,1,2017,1,2
+plu,dip,lemonade,3,,2016,7,1,2017,1,2
+plu,ezk,lemonade,3,,2016,7,1,2017,1,2
+plu,jaw,lemonade,3,,2016,7,1,2017,1,2
+plu,ddx,lemonade,3,,2016,7,1,2017,1,2
+plu,dgo,lemonade,3,,2016,7,1,2017,1,2
+plu,mx,lemonade,3,,2016,7,1,2017,1,2
+plu,hb,lemonade,3,,2016,7,1,2017,1,2
+plu,boo,lemonade,3,,2016,7,1,2017,1,2
+plu,dbs,lemonade,3,,2016,7,1,2017,1,2
+plu,bbd,lemonade,3,,2016,7,1,2017,1,2
+plu,ade,lemonade,3,,2016,7,1,2017,1,2
+plu,mk,lemonade,3,,2016,7,1,2017,1,2
+plu,vb,lemonade,3,,2016,7,1,2017,1,2
+plu,jab,lemonade,3,,2016,7,1,2017,1,2
+plu,jco,lemonade,3,,2016,7,1,2017,1,2
+plu,jub,lemonade,3,,2016,7,1,2017,1,2
+plu,khe,lemonade,3,,2016,7,1,2017,1,2
+plu,mwmi,lemonade,3,,2016,7,1,2017,1,2
+djs,bey,lemonade,3,,2016,7,1,2017,1,2
+djs,tw,lemonade,3,,2016,7,1,2017,1,2
+djs,kg,lemonade,3,,2016,7,1,2017,1,2
+djs,dip,lemonade,3,,2016,7,1,2017,1,2
+djs,ezk,lemonade,3,,2016,7,1,2017,1,2
+djs,jaw,lemonade,3,,2016,7,1,2017,1,2
+djs,ddx,lemonade,3,,2016,7,1,2017,1,2
+djs,dgo,lemonade,3,,2016,7,1,2017,1,2
+djs,mx,lemonade,3,,2016,7,1,2017,1,2
+djs,hb,lemonade,3,,2016,7,1,2017,1,2
+djs,boo,lemonade,3,,2016,7,1,2017,1,2
+djs,dbs,lemonade,3,,2016,7,1,2017,1,2
+djs,bbd,lemonade,3,,2016,7,1,2017,1,2
+djs,ade,lemonade,3,,2016,7,1,2017,1,2
+djs,mk,lemonade,3,,2016,7,1,2017,1,2
+djs,vb,lemonade,3,,2016,7,1,2017,1,2
+djs,jab,lemonade,3,,2016,7,1,2017,1,2
+djs,jco,lemonade,3,,2016,7,1,2017,1,2
+djs,jub,lemonade,3,,2016,7,1,2017,1,2
+djs,khe,lemonade,3,,2016,7,1,2017,1,2
+djs,mwa,lemonade,3,,2016,7,1,2017,1,2
+tw,dp,Starboy,3,,2016,7,,2018,1,1
+mdmk,tw,Starboy,3,,2016,7,,2018,1,1
+mdmk,dp,Starboy,3,,2016,7,,2018,1,1
+c,tw,Starboy,3,,2016,7,,2018,1,1
+c,dp,Starboy,3,,2016,7,,2018,1,1
+c,mdmk,Starboy,3,,2016,7,,2018,1,1
+bbd,tw,Starboy,3,,2016,7,,2018,1,1
+bbd,dp,Starboy,3,,2016,7,,2018,1,1
+bbd,mdmk,Starboy,3,,2016,7,,2018,1,1
+bbd,c,Starboy,3,,2016,7,,2018,1,1
+ma,tw,Starboy,3,,2016,7,,2018,1,1
+ma,dp,Starboy,3,,2016,7,,2018,1,1
+ma,mdmk,Starboy,3,,2016,7,,2018,1,1
+ma,c,Starboy,3,,2016,7,,2018,1,1
+ma,bbd,Starboy,3,,2016,7,,2018,1,1
+mm,tw,Starboy,3,,2016,7,,2018,1,1
+mm,dp,Starboy,3,,2016,7,,2018,1,1
+mm,mdmk,Starboy,3,,2016,7,,2018,1,1
+mm,c,Starboy,3,,2016,7,,2018,1,1
+mm,bbd,Starboy,3,,2016,7,,2018,1,1
+mm,ma,Starboy,3,,2016,7,,2018,1,1
+ap,tw,Starboy,3,,2016,7,,2018,1,1
+ap,dp,Starboy,3,,2016,7,,2018,1,1
+ap,mdmk,Starboy,3,,2016,7,,2018,1,1
+ap,c,Starboy,3,,2016,7,,2018,1,1
+ap,bbd,Starboy,3,,2016,7,,2018,1,1
+ap,ma,Starboy,3,,2016,7,,2018,1,1
+ap,mm,Starboy,3,,2016,7,,2018,1,1
+bbo,tw,Starboy,3,,2016,7,,2018,1,1
+bbo,dp,Starboy,3,,2016,7,,2018,1,1
+bbo,mdmk,Starboy,3,,2016,7,,2018,1,1
+bbo,c,Starboy,3,,2016,7,,2018,1,1
+bbo,bbd,Starboy,3,,2016,7,,2018,1,1
+bbo,ma,Starboy,3,,2016,7,,2018,1,1
+bbo,mm,Starboy,3,,2016,7,,2018,1,1
+bbo,ap,Starboy,3,,2016,7,,2018,1,1
+cac,tw,Starboy,3,,2016,7,,2018,1,1
+cac,dp,Starboy,3,,2016,7,,2018,1,1
+cac,mdmk,Starboy,3,,2016,7,,2018,1,1
+cac,c,Starboy,3,,2016,7,,2018,1,1
+cac,bbd,Starboy,3,,2016,7,,2018,1,1
+cac,ma,Starboy,3,,2016,7,,2018,1,1
+cac,mm,Starboy,3,,2016,7,,2018,1,1
+cac,ap,Starboy,3,,2016,7,,2018,1,1
+cac,bbo,Starboy,3,,2016,7,,2018,1,1
+jao,tw,Starboy,3,,2016,7,,2018,1,1
+jao,dp,Starboy,3,,2016,7,,2018,1,1
+jao,mdmk,Starboy,3,,2016,7,,2018,1,1
+jao,c,Starboy,3,,2016,7,,2018,1,1
+jao,bbd,Starboy,3,,2016,7,,2018,1,1
+jao,ma,Starboy,3,,2016,7,,2018,1,1
+jao,mm,Starboy,3,,2016,7,,2018,1,1
+jao,ap,Starboy,3,,2016,7,,2018,1,1
+jao,bbo,Starboy,3,,2016,7,,2018,1,1
+jao,cac,Starboy,3,,2016,7,,2018,1,1
+swi,tw,Starboy,3,,2016,7,,2018,1,1
+swi,dp,Starboy,3,,2016,7,,2018,1,1
+swi,mdmk,Starboy,3,,2016,7,,2018,1,1
+swi,c,Starboy,3,,2016,7,,2018,1,1
+swi,bbd,Starboy,3,,2016,7,,2018,1,1
+swi,ma,Starboy,3,,2016,7,,2018,1,1
+swi,mm,Starboy,3,,2016,7,,2018,1,1
+swi,ap,Starboy,3,,2016,7,,2018,1,1
+swi,bbo,Starboy,3,,2016,7,,2018,1,1
+swi,cac,Starboy,3,,2016,7,,2018,1,1
+swi,jao,Starboy,3,,2016,7,,2018,1,1
+la,tw,Starboy,3,,2016,7,,2018,1,1
+la,dp,Starboy,3,,2016,7,,2018,1,1
+la,mdmk,Starboy,3,,2016,7,,2018,1,1
+la,c,Starboy,3,,2016,7,,2018,1,1
+la,bbd,Starboy,3,,2016,7,,2018,1,1
+la,ma,Starboy,3,,2016,7,,2018,1,1
+la,mm,Starboy,3,,2016,7,,2018,1,1
+la,ap,Starboy,3,,2016,7,,2018,1,1
+la,bbo,Starboy,3,,2016,7,,2018,1,1
+la,cac,Starboy,3,,2016,7,,2018,1,1
+la,jao,Starboy,3,,2016,7,,2018,1,1
+la,swi,Starboy,3,,2016,7,,2018,1,1
+bor,tw,Starboy,3,,2016,7,,2018,1,1
+bor,dp,Starboy,3,,2016,7,,2018,1,1
+bor,mdmk,Starboy,3,,2016,7,,2018,1,1
+bor,c,Starboy,3,,2016,7,,2018,1,1
+bor,bbd,Starboy,3,,2016,7,,2018,1,1
+bor,ma,Starboy,3,,2016,7,,2018,1,1
+bor,mm,Starboy,3,,2016,7,,2018,1,1
+bor,ap,Starboy,3,,2016,7,,2018,1,1
+bor,bbo,Starboy,3,,2016,7,,2018,1,1
+bor,cac,Starboy,3,,2016,7,,2018,1,1
+bor,jao,Starboy,3,,2016,7,,2018,1,1
+bor,swi,Starboy,3,,2016,7,,2018,1,1
+bor,la,Starboy,3,,2016,7,,2018,1,1
+asm,tw,Starboy,3,,2016,7,,2018,1,1
+asm,dp,Starboy,3,,2016,7,,2018,1,1
+asm,mdmk,Starboy,3,,2016,7,,2018,1,1
+asm,c,Starboy,3,,2016,7,,2018,1,1
+asm,bbd,Starboy,3,,2016,7,,2018,1,1
+asm,ma,Starboy,3,,2016,7,,2018,1,1
+asm,mm,Starboy,3,,2016,7,,2018,1,1
+asm,ap,Starboy,3,,2016,7,,2018,1,1
+asm,bbo,Starboy,3,,2016,7,,2018,1,1
+asm,cac,Starboy,3,,2016,7,,2018,1,1
+asm,jao,Starboy,3,,2016,7,,2018,1,1
+asm,swi,Starboy,3,,2016,7,,2018,1,1
+asm,la,Starboy,3,,2016,7,,2018,1,1
+asm,bor,Starboy,3,,2016,7,,2018,1,1
+meb,tw,Starboy,3,,2016,7,,2018,1,1
+meb,dp,Starboy,3,,2016,7,,2018,1,1
+meb,mdmk,Starboy,3,,2016,7,,2018,1,1
+meb,c,Starboy,3,,2016,7,,2018,1,1
+meb,bbd,Starboy,3,,2016,7,,2018,1,1
+meb,ma,Starboy,3,,2016,7,,2018,1,1
+meb,mm,Starboy,3,,2016,7,,2018,1,1
+meb,ap,Starboy,3,,2016,7,,2018,1,1
+meb,bbo,Starboy,3,,2016,7,,2018,1,1
+meb,cac,Starboy,3,,2016,7,,2018,1,1
+meb,jao,Starboy,3,,2016,7,,2018,1,1
+meb,swi,Starboy,3,,2016,7,,2018,1,1
+meb,la,Starboy,3,,2016,7,,2018,1,1
+meb,bor,Starboy,3,,2016,7,,2018,1,1
+meb,asm,Starboy,3,,2016,7,,2018,1,1
+fd,tw,Starboy,3,,2016,7,,2018,1,1
+fd,dp,Starboy,3,,2016,7,,2018,1,1
+fd,mdmk,Starboy,3,,2016,7,,2018,1,1
+fd,c,Starboy,3,,2016,7,,2018,1,1
+fd,bbd,Starboy,3,,2016,7,,2018,1,1
+fd,ma,Starboy,3,,2016,7,,2018,1,1
+fd,mm,Starboy,3,,2016,7,,2018,1,1
+fd,ap,Starboy,3,,2016,7,,2018,1,1
+fd,bbo,Starboy,3,,2016,7,,2018,1,1
+fd,cac,Starboy,3,,2016,7,,2018,1,1
+fd,jao,Starboy,3,,2016,7,,2018,1,1
+fd,swi,Starboy,3,,2016,7,,2018,1,1
+fd,la,Starboy,3,,2016,7,,2018,1,1
+fd,bor,Starboy,3,,2016,7,,2018,1,1
+fd,asm,Starboy,3,,2016,7,,2018,1,1
+fd,meb,Starboy,3,,2016,7,,2018,1,1
+dip,tw,Starboy,3,,2016,7,,2018,1,1
+dip,dp,Starboy,3,,2016,7,,2018,1,1
+dip,mdmk,Starboy,3,,2016,7,,2018,1,1
+dip,c,Starboy,3,,2016,7,,2018,1,1
+dip,bbd,Starboy,3,,2016,7,,2018,1,1
+dip,ma,Starboy,3,,2016,7,,2018,1,1
+dip,mm,Starboy,3,,2016,7,,2018,1,1
+dip,ap,Starboy,3,,2016,7,,2018,1,1
+dip,bbo,Starboy,3,,2016,7,,2018,1,1
+dip,cac,Starboy,3,,2016,7,,2018,1,1
+dip,jao,Starboy,3,,2016,7,,2018,1,1
+dip,swi,Starboy,3,,2016,7,,2018,1,1
+dip,la,Starboy,3,,2016,7,,2018,1,1
+dip,bor,Starboy,3,,2016,7,,2018,1,1
+dip,asm,Starboy,3,,2016,7,,2018,1,1
+dip,meb,Starboy,3,,2016,7,,2018,1,1
+dip,fd,Starboy,3,,2016,7,,2018,1,1
+pri,tw,Starboy,3,,2016,7,,2018,1,1
+pri,dp,Starboy,3,,2016,7,,2018,1,1
+pri,mdmk,Starboy,3,,2016,7,,2018,1,1
+pri,c,Starboy,3,,2016,7,,2018,1,1
+pri,bbd,Starboy,3,,2016,7,,2018,1,1
+pri,ma,Starboy,3,,2016,7,,2018,1,1
+pri,mm,Starboy,3,,2016,7,,2018,1,1
+pri,ap,Starboy,3,,2016,7,,2018,1,1
+pri,bbo,Starboy,3,,2016,7,,2018,1,1
+pri,cac,Starboy,3,,2016,7,,2018,1,1
+pri,jao,Starboy,3,,2016,7,,2018,1,1
+pri,swi,Starboy,3,,2016,7,,2018,1,1
+pri,la,Starboy,3,,2016,7,,2018,1,1
+pri,bor,Starboy,3,,2016,7,,2018,1,1
+pri,asm,Starboy,3,,2016,7,,2018,1,1
+pri,meb,Starboy,3,,2016,7,,2018,1,1
+pri,fd,Starboy,3,,2016,7,,2018,1,1
+pri,dip,Starboy,3,,2016,7,,2018,1,1
+tas,jaff,The Tortured Poetrs Department,3,,2024,1,4,2025,0,2
+tas,aad,The Tortured Poetrs Department,3,,2024,1,4,2025,0,2
+tas,pb,The Tortured Poetrs Department,3,,2024,1,4,2025,0,2
+jaff,aad,The Tortured Poetrs Department,3,,2024,1,4,2025,0,2
+jaff,pb,The Tortured Poetrs Department,3,,2024,1,4,2025,0,2
+aad,pb,The Tortured Poetrs Department,3,,2024,1,4,2025,0,2
+tas,ad,Evermore,3,,2021,1,,2022,0,1
+tas,jaff,Evermore,3,,2021,1,,2022,0,1
+tas,byd,Evermore,3,,2021,1,,2022,0,1
+tas,bd,Evermore,3,,2021,1,,2022,0,1
+tas,jma,Evermore,3,,2021,1,,2022,0,1
+tas,bi,Evermore,3,,2021,1,,2022,0,1
+tas,tn,Evermore,3,,2021,1,,2022,0,1
+aad,jaff,Evermore,3,,2021,1,,2022,0,1
+aad,byd,Evermore,3,,2021,1,,2022,0,1
+aad,bd,Evermore,3,,2021,1,,2022,0,1
+aad,jma,Evermore,3,,2021,1,,2022,0,1
+aad,bi,Evermore,3,,2021,1,,2022,0,1
+aad,tn,Evermore,3,,2021,1,,2022,0,1
+jaff,byd,Evermore,3,,2021,1,,2022,0,1
+jaff,bd,Evermore,3,,2021,1,,2022,0,1
+jaff,jma,Evermore,3,,2021,1,,2022,0,1
+jaff,bi,Evermore,3,,2021,1,,2022,0,1
+jaff,tn,Evermore,3,,2021,1,,2022,0,1
+byd,bd,Evermore,3,,2021,1,,2022,0,1
+byd,jma,Evermore,3,,2021,1,,2022,0,1
+byd,bi,Evermore,3,,2021,1,,2022,0,1
+byd,tn,Evermore,3,,2021,1,,2022,0,1
+bd,jma,Evermore,3,,2021,1,,2022,0,1
+bd,bi,Evermore,3,,2021,1,,2022,0,1
+bd,tn,Evermore,3,,2021,1,,2022,0,1
+jma,bi,Evermore,3,,2021,1,,2022,0,1
+jma,tn,Evermore,3,,2021,1,,2022,0,1
+bi,tn,Evermore,3,,2021,1,,2022,0,1
+tas,aad,Folklore,3,,2020,1,4,2021,1,2
+tas,jal,Folklore,3,,2020,1,4,2021,1,2
+tas,jaff,Folklore,3,,2020,1,4,2021,1,2
+aad,jal,Folklore,3,,2020,1,4,2021,1,2
+aad,jaff,Folklore,3,,2020,1,4,2021,1,2
+jal,jaff,Folklore,3,,2020,1,4,2021,1,2
+tas,lb,Lover,3,,2019,4,,2020,0,1
+tas,fd,Lover,3,,2019,4,,2020,0,1
+tas,jaff,Lover,3,,2019,4,,2020,0,1
+tas,jl,Lover,3,,2019,4,,2020,0,1
+tas,swve,Lover,3,,2019,4,,2020,0,1
+lb,fd,Lover,3,,2019,4,,2020,0,1
+lb,jaff,Lover,3,,2019,4,,2020,0,1
+lb,jl,Lover,3,,2019,4,,2020,0,1
+lb,swve,Lover,3,,2019,4,,2020,0,1
+fd,jaff,Lover,3,,2019,4,,2020,0,1
+fd,jl,Lover,3,,2019,4,,2020,0,1
+fd,swve,Lover,3,,2019,4,,2020,0,1
+ja,jl,Lover,3,,2019,4,,2020,0,1
+ja,swve,Lover,3,,2019,4,,2020,0,1
+jl,swve,Lover,3,,2019,4,,2020,0,1
+tas,mm,Reputation,3,,2017,4,,2019,0,1
+tas,sh,Reputation,3,,2017,4,,2019,0,1
+tas,ap,Reputation,3,,2017,4,,2019,0,1
+tas,jaff,Reputation,3,,2017,4,,2019,0,1
+tas,og,Reputation,3,,2017,4,,2019,0,1
+mm,sh,Reputation,3,,2017,4,,2019,0,1
+mm,ap,Reputation,3,,2017,4,,2019,0,1
+mm,jaff,Reputation,3,,2017,4,,2019,0,1
+mm,og,Reputation,3,,2017,4,,2019,0,1
+sh,ap,Reputation,3,,2017,4,,2019,0,1
+sh,jaff,Reputation,3,,2017,4,,2019,0,1
+sh,og,Reputation,3,,2017,4,,2019,0,1
+ap,jaff,Reputation,3,,2017,4,,2019,0,1
+ap,og,Reputation,3,,2017,4,,2019,0,1
+ja,og,Reputation,3,,2017,4,,2019,0,1
+tas,nc,Speak Now,2,,2010,3,,2012,0,1
+tas,dgd,Speak Now,2,,2010,3,,2012,0,1
+tas,mttw,Speak Now,2,,2010,3,,2012,0,1
+tas,mcw,Speak Now,2,,2010,3,,2012,0,1
+nc,dgd,Speak Now,2,,2010,3,,2012,0,1
+nc,mttw,Speak Now,2,,2010,3,,2012,0,1
+nc,mcw,Speak Now,2,,2010,3,,2012,0,1
+dgd,mttw,Speak Now,2,,2010,3,,2012,0,1
+dgd,mcw,Speak Now,2,,2010,3,,2012,0,1
+mttw,mcw,Speak Now,2,,2010,3,,2012,0,1
+es,tas,Red,6,7,2012,1,3,2014,0,2
+nc,es,Red,6,7,2012,1,3,2014,0,2
+nc,tas,Red,6,7,2012,1,3,2014,0,2
+dh,es,Red,6,7,2012,1,3,2014,0,2
+dh,tas,Red,6,7,2012,1,3,2014,0,2
+dh,nc,Red,6,7,2012,1,3,2014,0,2
+dw,es,Red,6,7,2012,1,3,2014,0,2
+dw,tas,Red,6,7,2012,1,3,2014,0,2
+dw,nc,Red,6,7,2012,1,3,2014,0,2
+dw,dh,Red,6,7,2012,1,3,2014,0,2
+sh,es,Red,6,7,2012,1,3,2014,0,2
+sh,tas,Red,6,7,2012,1,3,2014,0,2
+sh,nc,Red,6,7,2012,1,3,2014,0,2
+sh,dh,Red,6,7,2012,1,3,2014,0,2
+sh,dw,Red,6,7,2012,1,3,2014,0,2
+mm,es,Red,6,7,2012,1,3,2014,0,2
+mm,tas,Red,6,7,2012,1,3,2014,0,2
+mm,nc,Red,6,7,2012,1,3,2014,0,2
+mm,dh,Red,6,7,2012,1,3,2014,0,2
+mm,dw,Red,6,7,2012,1,3,2014,0,2
+mm,sh,Red,6,7,2012,1,3,2014,0,2
+jlee,es,Red,6,7,2012,1,3,2014,0,2
+jlee,tas,Red,6,7,2012,1,3,2014,0,2
+jlee,nc,Red,6,7,2012,1,3,2014,0,2
+jlee,dh,Red,6,7,2012,1,3,2014,0,2
+jlee,dw,Red,6,7,2012,1,3,2014,0,2
+jlee,sh,Red,6,7,2012,1,3,2014,0,2
+jlee,mm,Red,6,7,2012,1,3,2014,0,2
+jeb,es,Red,6,7,2012,1,3,2014,0,2
+jeb,tas,Red,6,7,2012,1,3,2014,0,2
+jeb,nc,Red,6,7,2012,1,3,2014,0,2
+jeb,dh,Red,6,7,2012,1,3,2014,0,2
+jeb,dw,Red,6,7,2012,1,3,2014,0,2
+jeb,sh,Red,6,7,2012,1,3,2014,0,2
+jeb,mm,Red,6,7,2012,1,3,2014,0,2
+jeb,jlee,Red,6,7,2012,1,3,2014,0,2
+bw,es,Red,6,7,2012,1,3,2014,0,2
+bw,tas,Red,6,7,2012,1,3,2014,0,2
+bw,nc,Red,6,7,2012,1,3,2014,0,2
+bw,dh,Red,6,7,2012,1,3,2014,0,2
+bw,dw,Red,6,7,2012,1,3,2014,0,2
+bw,sh,Red,6,7,2012,1,3,2014,0,2
+bw,mm,Red,6,7,2012,1,3,2014,0,2
+bw,jeb,Red,6,7,2012,1,3,2014,0,2
+bw,jlee,Red,6,7,2012,1,3,2014,0,2
+tas,jaff,Midnightrs,3,,2023,1,4,2024,2,2
+tas,swve,Midnightrs,3,,2023,1,4,2024,2,2
+tas,kb,Midnightrs,3,,2023,1,4,2024,2,2
+tas,aad,Midnightrs,3,,2023,1,4,2024,2,2
+tas,js,Midnightrs,3,,2023,1,4,2024,2,2
+jaff,swve,Midnightrs,3,,2023,1,4,2024,2,2
+jaff,kb,Midnightrs,3,,2023,1,4,2024,2,2
+jaff,aad,Midnightrs,3,,2023,1,4,2024,2,2
+jaff,js,Midnightrs,3,,2023,1,4,2024,2,2
+swve,kb,Midnightrs,3,,2023,1,4,2024,2,2
+swve,aad,Midnightrs,3,,2023,1,4,2024,2,2
+swve,js,Midnightrs,3,,2023,1,4,2024,2,2
+kb,aad,Midnightrs,3,,2023,1,4,2024,2,2
+kb,js,Midnightrs,3,,2023,1,4,2024,2,2
+aad,js,Midnightrs,3,,2023,1,4,2024,2,2
+tas,rt,1989,3,,2014,1,4,2016,2,2
+tas,nz,1989,3,,2014,1,4,2016,2,2
+tas,sh,1989,3,,2014,1,4,2016,2,2
+tas,mm,1989,3,,2014,1,4,2016,2,2
+tas,ap,1989,3,,2014,1,4,2016,2,2
+tas,jaff,1989,3,,2014,1,4,2016,2,2
+tas,maro,1989,3,,2014,1,4,2016,2,2
+tas,gk,1989,3,,2014,1,4,2016,2,2
+tas,nc,1989,3,,2014,1,4,2016,2,2
+tas,ih,1989,3,,2014,1,4,2016,2,2
+rt,nz,1989,3,,2014,1,4,2016,2,2
+rt,sh,1989,3,,2014,1,4,2016,2,2
+rt,mm,1989,3,,2014,1,4,2016,2,2
+rt,ap,1989,3,,2014,1,4,2016,2,2
+rt,jaff,1989,3,,2014,1,4,2016,2,2
+rt,maro,1989,3,,2014,1,4,2016,2,2
+rt,gk,1989,3,,2014,1,4,2016,2,2
+rt,nc,1989,3,,2014,1,4,2016,2,2
+rt,ih,1989,3,,2014,1,4,2016,2,2
+nz,sh,1989,3,,2014,1,4,2016,2,2
+nz,mm,1989,3,,2014,1,4,2016,2,2
+nz,ap,1989,3,,2014,1,4,2016,2,2
+nz,jaff,1989,3,,2014,1,4,2016,2,2
+nz,maro,1989,3,,2014,1,4,2016,2,2
+nz,gk,1989,3,,2014,1,4,2016,2,2
+nz,nc,1989,3,,2014,1,4,2016,2,2
+nz,ih,1989,3,,2014,1,4,2016,2,2
+sh,mm,1989,3,,2014,1,4,2016,2,2
+sh,ap,1989,3,,2014,1,4,2016,2,2
+sh,jaff,1989,3,,2014,1,4,2016,2,2
+sh,maro,1989,3,,2014,1,4,2016,2,2
+sh,gk,1989,3,,2014,1,4,2016,2,2
+sh,nc,1989,3,,2014,1,4,2016,2,2
+sh,ih,1989,3,,2014,1,4,2016,2,2
+mm,ap,1989,3,,2014,1,4,2016,2,2
+mm,jaff,1989,3,,2014,1,4,2016,2,2
+mm,maro,1989,3,,2014,1,4,2016,2,2
+mm,gk,1989,3,,2014,1,4,2016,2,2
+mm,nc,1989,3,,2014,1,4,2016,2,2
+mm,ih,1989,3,,2014,1,4,2016,2,2
+ap,jaff,1989,3,,2014,1,4,2016,2,2
+ap,maro,1989,3,,2014,1,4,2016,2,2
+ap,gk,1989,3,,2014,1,4,2016,2,2
+ap,nc,1989,3,,2014,1,4,2016,2,2
+ap,ih,1989,3,,2014,1,4,2016,2,2
+jaff,maro,1989,3,,2014,1,4,2016,2,2
+jaff,gk,1989,3,,2014,1,4,2016,2,2
+jaff,nc,1989,3,,2014,1,4,2016,2,2
+jaff,ih,1989,3,,2014,1,4,2016,2,2
+maro,gk,1989,3,,2014,1,4,2016,2,2
+maro,nc,1989,3,,2014,1,4,2016,2,2
+maro,ih,1989,3,,2014,1,4,2016,2,2
+gk,nc,1989,3,,2014,1,4,2016,2,2
+gk,ih,1989,3,,2014,1,4,2016,2,2
+nc,ih,1989,3,,2014,1,4,2016,2,2
+cp,mm,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,br,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,dag,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,fv,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,osh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,rs,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,br,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,dag,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,fv,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,osh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,rs,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+mm,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,br,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,fv,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,oh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,rs,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+dag,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,fv,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,oh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,rs,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+br,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,osh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,rs,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+fv,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+osh,rs,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+osh,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+osh,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+osh,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+osh,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+osh,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+rs,jh,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+rs,meb,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+rs,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+rs,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+rs,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+meb,wak,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+meb,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+meb,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+wak,jac,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+wak,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+jac,anl,Music Of The Spheres,3,5,2021,1,4,2023,0,2
+cp,mm,Everyday Life,7,8,2019,1,,2021,0,1
+cp,dr,Everyday Life,7,8,2019,1,,2021,0,1
+cp,anl,Everyday Life,7,8,2019,1,,2021,0,1
+cp,br,Everyday Life,7,8,2019,1,,2021,0,1
+cp,dag,Everyday Life,7,8,2019,1,,2021,0,1
+cp,fv,Everyday Life,7,8,2019,1,,2021,0,1
+cp,rs,Everyday Life,7,8,2019,1,,2021,0,1
+cp,jm,Everyday Life,7,8,2019,1,,2021,0,1
+mm,dr,Everyday Life,7,8,2019,1,,2021,0,1
+mm,anl,Everyday Life,7,8,2019,1,,2021,0,1
+mm,br,Everyday Life,7,8,2019,1,,2021,0,1
+mm,dag,Everyday Life,7,8,2019,1,,2021,0,1
+mm,fv,Everyday Life,7,8,2019,1,,2021,0,1
+mm,rs,Everyday Life,7,8,2019,1,,2021,0,1
+mm,jm,Everyday Life,7,8,2019,1,,2021,0,1
+dr,anl,Everyday Life,7,8,2019,1,,2021,0,1
+dr,br,Everyday Life,7,8,2019,1,,2021,0,1
+dr,dag,Everyday Life,7,8,2019,1,,2021,0,1
+dr,fv,Everyday Life,7,8,2019,1,,2021,0,1
+dr,rs,Everyday Life,7,8,2019,1,,2021,0,1
+dr,jm,Everyday Life,7,8,2019,1,,2021,0,1
+anl,br,Everyday Life,7,8,2019,1,,2021,0,1
+anl,dag,Everyday Life,7,8,2019,1,,2021,0,1
+anl,fv,Everyday Life,7,8,2019,1,,2021,0,1
+anl,rs,Everyday Life,7,8,2019,1,,2021,0,1
+anl,jm,Everyday Life,7,8,2019,1,,2021,0,1
+br,dag,Everyday Life,7,8,2019,1,,2021,0,1
+br,fv,Everyday Life,7,8,2019,1,,2021,0,1
+br,rs,Everyday Life,7,8,2019,1,,2021,0,1
+br,jm,Everyday Life,7,8,2019,1,,2021,0,1
+dag,fv,Everyday Life,7,8,2019,1,,2021,0,1
+dag,rs,Everyday Life,7,8,2019,1,,2021,0,1
+dag,jm,Everyday Life,7,8,2019,1,,2021,0,1
+fv,rs,Everyday Life,7,8,2019,1,,2021,0,1
+fv,jm,Everyday Life,7,8,2019,1,,2021,0,1
+rs,jm,Everyday Life,7,8,2019,1,,2021,0,1
+cp,dag,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,rs,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,br,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,mt,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,mse,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,teh,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,rs,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,br,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,mt,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,mse,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,teh,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+dag,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+rs,br,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+rs,mt,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+rs,mse,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+rs,teh,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+rs,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+rs,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+br,mt,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+br,mse,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+br,teh,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+br,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+br,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mt,mse,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mt,teh,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mt,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mt,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mse,teh,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mse,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+mse,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+teh,be,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+teh,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+be,md,Kaleidoscope EP,7,8,2017,4,,2018,0,1
+cp,cm,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,dag,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,gb,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,job,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,pe,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,wc,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,dag,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,gb,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,job,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,pe,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,wc,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+cm,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,gb,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,job,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,pe,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,wc,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+dag,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+gb,job,Ghost Stories,3,5,2014,4,,2015,0,1
+gb,pe,Ghost Stories,3,5,2014,4,,2015,0,1
+gb,wc,Ghost Stories,3,5,2014,4,,2015,0,1
+gb,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+gb,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+gb,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+job,pe,Ghost Stories,3,5,2014,4,,2015,0,1
+job,wc,Ghost Stories,3,5,2014,4,,2015,0,1
+job,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+job,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+job,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+pe,wc,Ghost Stories,3,5,2014,4,,2015,0,1
+pe,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+pe,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+pe,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+wc,rs,Ghost Stories,3,5,2014,4,,2015,0,1
+wc,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+wc,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+rs,jh,Ghost Stories,3,5,2014,4,,2015,0,1
+rs,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+jh,tib,Ghost Stories,3,5,2014,4,,2015,0,1
+cp,dag,Mylo Xyloto,7,8,2011,2,,2013,0,1
+cp,md,Mylo Xyloto,7,8,2011,2,,2013,0,1
+cp,rs,Mylo Xyloto,7,8,2011,2,,2013,0,1
+cp,rmc,Mylo Xyloto,7,8,2011,2,,2013,0,1
+cp,kvt,Mylo Xyloto,7,8,2011,2,,2013,0,1
+cp,kuh,Mylo Xyloto,7,8,2011,2,,2013,0,1
+dag,md,Mylo Xyloto,7,8,2011,2,,2013,0,1
+dag,rs,Mylo Xyloto,7,8,2011,2,,2013,0,1
+dag,rmc,Mylo Xyloto,7,8,2011,2,,2013,0,1
+dag,kvt,Mylo Xyloto,7,8,2011,2,,2013,0,1
+dag,kuh,Mylo Xyloto,7,8,2011,2,,2013,0,1
+md,rs,Mylo Xyloto,7,8,2011,2,,2013,0,1
+md,rmc,Mylo Xyloto,7,8,2011,2,,2013,0,1
+md,kvt,Mylo Xyloto,7,8,2011,2,,2013,0,1
+md,kuh,Mylo Xyloto,7,8,2011,2,,2013,0,1
+rs,rmc,Mylo Xyloto,7,8,2011,2,,2013,0,1
+rs,kvt,Mylo Xyloto,7,8,2011,2,,2013,0,1
+rs,kuh,Mylo Xyloto,7,8,2011,2,,2013,0,1
+rmc,kvt,Mylo Xyloto,7,8,2011,2,,2013,0,1
+rmc,kuh,Mylo Xyloto,7,8,2011,2,,2013,0,1
+kvt,kuh,Mylo Xyloto,7,8,2011,2,,2013,0,1
+cp,be,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+cp,jh,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+cp,md,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+cp,rs,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+be,jh,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+be,md,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+be,rs,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+jh,md,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+jh,rs,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+md,rs,Viva La Vida Or Death And All His Friends,7,8,2008,1,,2009,0,1
+cp,cm,X&Y,7,8,2005,2,1,2006,1,2
+cp,ds,X&Y,7,8,2005,2,1,2006,1,2
+cp,gb,X&Y,7,8,2005,2,1,2006,1,2
+cp,job,X&Y,7,8,2005,2,1,2006,1,2
+cp,wc,X&Y,7,8,2005,2,1,2006,1,2
+cp,kn,X&Y,7,8,2005,2,1,2006,1,2
+cm,ds,X&Y,7,8,2005,2,1,2006,1,2
+cm,gb,X&Y,7,8,2005,2,1,2006,1,2
+cm,job,X&Y,7,8,2005,2,1,2006,1,2
+cm,wc,X&Y,7,8,2005,2,1,2006,1,2
+cm,kn,X&Y,7,8,2005,2,1,2006,1,2
+ds,gb,X&Y,7,8,2005,2,1,2006,1,2
+ds,job,X&Y,7,8,2005,2,1,2006,1,2
+ds,wc,X&Y,7,8,2005,2,1,2006,1,2
+ds,kn,X&Y,7,8,2005,2,1,2006,1,2
+gb,job,X&Y,7,8,2005,2,1,2006,1,2
+gb,wc,X&Y,7,8,2005,2,1,2006,1,2
+gb,kn,X&Y,7,8,2005,2,1,2006,1,2
+job,wc,X&Y,7,8,2005,2,1,2006,1,2
+job,kn,X&Y,7,8,2005,2,1,2006,1,2
+wc,kn,X&Y,7,8,2005,2,1,2006,1,2
+cp,cm,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cp,gb,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cp,job,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cp,kn,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cp,wc,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cm,gb,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cm,job,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cm,kn,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cm,wc,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+gb,job,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+gb,kn,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+gb,wc,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+job,kn,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+job,wc,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+kn,wc,A Rush Of Blood To The Head,3,5,2002,7,,2003,1,1
+cp,gb,Parachutes,3,5,2000,7,,2002,1,1
+cp,wc,Parachutes,3,5,2000,7,,2002,1,1
+cp,cm,Parachutes,3,5,2000,7,,2002,1,1
+cp,job,Parachutes,3,5,2000,7,,2002,1,1
+cp,kn,Parachutes,3,5,2000,7,,2002,1,1
+cp,cha,Parachutes,3,5,2000,7,,2002,1,1
+gb,wc,Parachutes,3,5,2000,7,,2002,1,1
+gb,cm,Parachutes,3,5,2000,7,,2002,1,1
+gb,job,Parachutes,3,5,2000,7,,2002,1,1
+gb,kn,Parachutes,3,5,2000,7,,2002,1,1
+gb,cha,Parachutes,3,5,2000,7,,2002,1,1
+wc,cm,Parachutes,3,5,2000,7,,2002,1,1
+wc,job,Parachutes,3,5,2000,7,,2002,1,1
+wc,kn,Parachutes,3,5,2000,7,,2002,1,1
+wc,cha,Parachutes,3,5,2000,7,,2002,1,1
+cm,job,Parachutes,3,5,2000,7,,2002,1,1
+cm,kn,Parachutes,3,5,2000,7,,2002,1,1
+cm,cha,Parachutes,3,5,2000,7,,2002,1,1
+job,kn,Parachutes,3,5,2000,7,,2002,1,1
+job,cha,Parachutes,3,5,2000,7,,2002,1,1
+kn,cha,Parachutes,3,5,2000,7,,2002,1,1
