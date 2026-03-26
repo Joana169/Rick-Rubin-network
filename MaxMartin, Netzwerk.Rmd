@@ -1,0 +1,78 @@
+---
+title: "Rick Rubin Blockseminar"
+author: "Diana Ginzburg, Joana Langhauser, Paula Mader, Nora Greß"
+date: "Sommersemester 2026"
+output: html_document
+---
+
+# Setup und Lernziele
+
+**Quellen:** [GitHub](https://github.com/Joana169/Rick-Rubin-network) [Codebuch](https://github.com/Joana169/Rick-Rubin-network/blob/main/codebuch.md)
+
+# Zeiterfassung-Übersicht:
+
+<https://raw.githubusercontent.com/Joana169/Rick-Rubin-network/refs/heads/main/Zeiterfassung.README.md>
+
+## Laden der Programmbibliotheken
+
+# Netzwerk einlesen
+
+```{r setup und Netzwerk einlesen}
+library(igraph)
+
+el <- read.csv(
+  "https://raw.githubusercontent.com/Joana169/Rick-Rubin-network/refs/heads/main/Max%20Martin%20-%20Edgelist%20(1).csv",
+  header = TRUE, sep = ",", stringsAsFactors = FALSE
+)
+
+nl <- read.csv(
+  "https://raw.githubusercontent.com/Joana169/Rick-Rubin-network/refs/heads/main/Max%20Martin%20-%20Nodelist%20(1).csv",
+  header = TRUE, sep = ",", stringsAsFactors = FALSE
+)
+```
+
+
+```{r Dopllungen prüfen}
+library(igraph)
+library(dplyr)
+
+# Edges bereinigen
+el <- el %>%
+  group_by(from, to) %>%
+  summarise(weight = n(), .groups = "drop")
+
+# Nodes bereinigen
+nl <- nl[!is.na(nl$name), ]
+nl <- nl[!duplicated(nl$name), ]
+
+
+```
+
+
+```{r Graphik}
+# Graph erstellen
+aw <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = FALSE
+)
+aw <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = FALSE
+)
+
+aw
+
+```
+
+# Visualisierung
+
+```{r Visualisierung Produzentennetzwerk, fig.height=9, fig.width=12}
+
+# Visualisierung
+plot(aw, # ruft das Netzwerk auf
+     asp=0,# nutzt die komplette Leinwand des Chunks
+     vertex.size=3,
+     main="Produzentennetzwerk um Max Martin")
+```
