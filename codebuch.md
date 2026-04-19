@@ -42,9 +42,10 @@ definiert das primäre Genre des Lieds, beziehungsweise Albums:
 3=Pop
 4=Soul
 5=Contemporary
-6=Alternative
-7=Indie
-8=Rap
+6=Mainstream
+7=Alternative
+8=Indie
+9=Rap
 
 **secondary genre**  
 definiert das sekundäre Genre des Lieds, beziehungsweise Albums:
@@ -53,9 +54,10 @@ definiert das sekundäre Genre des Lieds, beziehungsweise Albums:
 3=Pop
 4=Soul
 5=Contemporary
-6=Alternative
-7=Indie
-8=Rap
+6=Mainstream
+7=Alternative
+8=Indie
+9=Rap
 
 **year of publishing**
 definiert das Jahr der Veröffentlichung des Albums
@@ -64,21 +66,23 @@ definiert das Jahr der Veröffentlichung des Albums
 definiert die Grammy-Kategorie, in der gewonnen wurde
 1=Album Of The Year
 2=Best Rock Album; Rock Album
-3=Best Country Album
-4=Best Pop Vocal Album
+3=Best Country Album;Best Country & Western Album
+4=Best Pop Vocal Album; Pop Vocal Album
 5=Best Contemporary Folk Album
 6=Best Historical Album
-7=Best Urban Contemporary Album
+7=Best Alternative Music Album
+8=Best Urban Contemporary Album
 
 **second grammy category**
 definiert die weitere Grammy-Kategorie, in der gewonnen wurde
 1=Album Of The Year
 2=Best Rock Album; Rock Album
-3=Best Country Album
-4=Best Pop Vocal Album
+3=Best Country Album;Best Country & Western Album
+4=Best Pop Vocal Album; Pop Vocal Album
 5=Best Contemporary Folk Album
 6=Best Historical Album
-7=Best Urban Contemporary Album
+7=Best Alternative Music Album
+8=Best Urban Contemporary Album
 
 **grammy year**
 definiert das Jahr der Grammy-Auszeichnung
