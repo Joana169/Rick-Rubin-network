@@ -93,7 +93,7 @@ definiert die Anzahl der Grammys für ein Album (wenn ein Album in mehreren Kate
 **grammy nomination number (album)**
 definiert die Anzahl der Grammy-Nominierungen für ein Album (inklusive der gewonnen Nominierungen)
 
-**time period**
+**years**
 1 = Zeitraum 1965 bis 1975
 2 = Zeitraum 1975 bis 1985
 3 = Zeitraum 1985 bis 1995
