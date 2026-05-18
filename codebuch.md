@@ -1,4 +1,4 @@
-# Datensatz Rick Rubin #
+# Datensatz Kollaborationsnetzwerk#
 erstellt von Diana Ginzburg, Nora Greß, Paula Mader und Joana Langhauser
 
 ## Inhalt
