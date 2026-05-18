@@ -24,10 +24,10 @@ Fehlende Werte werden nicht erfasst.
 eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  
 
 **from**
-Name oder Bezeichnung einer der an der Produktion betieligtne Personen
+Name oder Bezeichnung einer an der Produktion beteiligten Personen
 
 **to**
-Name oder Bezeichnung einer der an der Produktion betieligtne Personen
+Name oder Bezeichnung einer an der Produktion beteiligten Personen
 
 **album title**  
 definiert den Album-Titel
